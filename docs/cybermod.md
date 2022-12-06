@@ -1,94 +1,94 @@
 ---
 layout: default
-title: Cybermods
-parent: Documents
+title: Cybermodifiche
+parent: Documenti
 nav_order: 3
 ---
 
-# Cybermods
+# Cybermodifiche
 
-During character creation, each player can choose **any number of cybermodifications for free, but the cost of these upgrades cannot exceed 20,000 ℂ** .
+Durante la creazione del personaggio, ogni giocatore può scegliere **un numero qualsiasi di cybermodifiche gratuitamente, ma il costo di questi aggiornamenti non può superare i 20.000 ℂ**.
 
-Cyber modifications are a sandbox for players' imagination. Although you will find examples of specific improvements below, *Cyber* first and foremost proposes a system for constructing implants and determining their market value, so that each of you can literally create whatever you want.
+Le cybermodifiche sono una pagina bianca per l'immaginazione dei giocatori. Anche se di seguito troverete esempi di miglioramenti specifici, *Cyber* propone innanzitutto un sistema per la costruzione di impianti e la determinazione del loro valore di mercato, in modo che ognuno di voi possa letteralmente creare ciò che vuole.
 
-## Creating cybermodifications
+## Creare cybermodifiche
 
-Try to describe verbally what the cybermod is supposed to change (possibly how it is supposed to work), this will give you an idea of the abilities being modified. A fictional description of a given cyber modification can also give a lot of satisfaction.
+Prova a descrivere verbalmente cosa dovrebbe cambiare il cybermod (possibilmente come dovrebbe funzionare), questo ti darà un'idea delle abilità che vengono modificate. Anche una descrizione fittizia di una data cybermodifica può dare molte soddisfazioni.
 
-Each enhancement consists of **one base element** that determines where the cyber modification is mounted in the character's body (head, arms, legs, torso) and **some number of elements that modify stats** of the character (after all, they are enhancements). Each element that modifies a stat has a generalised price. The sum of all the elements that make up the developed modification determines the final price of the cybermodification.
+Ogni potenziamento consiste in **un elemento di base** che determina dove è montata la cybermodifica nel corpo del personaggio (testa, braccia, gambe, busto) e **un certo numero di elementi che modificano le statistiche** del personaggio (dopotutto, sono miglioramenti). Ogni elemento che modifica una statistica ha un prezzo generalizzato. La somma di tutti gli elementi che compongono la modifica sviluppata determina il prezzo finale della cybermodifica.
 
-| Base element | Price |
-| ------------ | :---: |
-| Head         | 2000  |
-| Arm          | 1000  |
-| Leg          | 1500  |
-| Body         | 5000  |
+| Elemento base | Costo |
+| ------------- |:-----:|
+| Testa         | 2.000 |
+| Braccio       | 1.000 |
+| Gamba         | 1.500 |
+| Corpo         | 5.000 |
 
-Once a base element has been selected, any number of enhancements modifying stats can be added to it, as long as they do not exceed applicable maximum values.
+Una volta selezionato un elemento di base, è possibile aggiungervi un numero qualsiasi di miglioramenti che modificano le statistiche, purché non superino i valori massimi applicabili.
 
-Try to make a fictional description for every enhancement. This is especially important with abilities that describe entire groups of character activities. One can imagine a cybernetic modification that generally strengthens the character's body (+X BIO) but there will also be situations where we only care about enhanced speed or stamina and these are described by the same ability.
+Prova a fare una descrizione fittizia per ogni potenziamento. Questo è particolarmente importante con abilità che riguardano interi gruppi di attività del personaggio. Si può immaginare una cybermodifica che generalmente rafforza il corpo del personaggio (+X BIO) ma ci saranno anche situazioni in cui ci interessa solo una maggiore velocità o resistenza e queste sono descritte dalla stessa abilità.
 
-**Cosmetic modifications**: Cybermodifications that are only intended to produce an aesthetic effect (body covered in fur, cat's eyes, hair changing colour, etc.) cost as much as the **base element** associated with the body part in which they are fitted.
+**Modifiche estetiche**: cybermodifiche che hanno il solo scopo di produrre un effetto estetico (corpo ricoperto di pelliccia, occhi di gatto, capelli che cambiano colore, ecc.) costano quanto l'**elemento base* *associato alla parte del corpo in cui sono inserite.
 
-| Enhancement                                                                                                           | Price                      | Activation |
+| Potenziamento                                                                                                           | Costo                      | Attivazione |
 | --------------------------------------------------------------------------------------------------------------------- | -------------------------- | :--------: |
-| +1 to character's HP                                                                                                  | 1 000                      |    yes     |
-| +1 to the selected ability (BIO,PSY,INF) on test                                                                      | 7 000                      |    yes     |
-| +1 to the selected ability when tested for a specific activity group                                                  | 4 000                      |    yes     |
-| +1 to Armor when dealing with BIO damage                                                                              | 10 000                     |     -      |
-| +1 Inventory slot                                                                                                     | 1 000                      |     -      |
-| mounted weapon                                                                                                        | type of damage dice * 1500 |     -      |
-| neuroprocesor for hacking and firewall\*                                                                              | type of damage dice * 1500 |     -      |
-| easy/difficult test for one selected ability                                                                          | 3 500                      |    yes     |
-| critical damage that does not injure the target                                                                       | 1 500                      |    yes     |
-| critical damage that inflicts additional injuries                                                                     | type of damage dice * 500  |    yes     |
-| additional functionality that does not modify game mechanics, e.g. tools in the hand, infrared eye, antitoxin filters | 1 000    each              |     -      |
+| +1 ai PF del personaggio                                                                                                | 1.000                      |    sì     |
+| +1 all'abilità selezionata (BIO, PSI, INF) per prova                                                                     | 7.000                      |    sì     |
+| +1 all'abilità selezionata durante la prova per un gruppo di attività specifico                                                 | 4.000                      |    sì     |
+| +1 all'armatura quando si tratta di danni BIO                                                                              | 10.000                     |     -      |
+| +1 slot Inventario                                                                                                    | 1.000                      |     -      |
+| arma montata                                                                                                        | taglia del dado danno * 1.500 |     -      |
+| neuroprocessore per hacking e firewall\*                                                                              | taglia del dado danno * 1.500 |     -      |
+| prova facile/difficile per un'abilità selezionata                                                                                    | 3.500                       | sì |
+| danno critico che non ferisce il bersaglio                                                                                           | 1.500                       | sì |
+| danno critico che infligge ferite aggiuntive                                                                                         | taglia del dado danno * 500 | sì |
+| funzionalità aggiuntive che non modificano le meccaniche di gioco, ad es. strumenti in mano, occhio a infrarossi, filtri antitossine | 1.000    cad.               | -  |
 
-\* Note: the neuroprocessor allows hacking and firewall actions to be performed in the Infosphere but also allows software to inflict damage on the owner's PSY.
+\* Nota: il neuroprocessore consente di eseguire azioni di hacking e firewall nell'Infosfera ma consente anche al software di infliggere danni allla PSI del proprietario.
 
-## Implant shielding
+## Schermatura dell'impianto
 
-Total reduction of INF damage caused by EMP weapons is not possible, but each character can purchase EMP shielding:
+La riduzione totale del danno all'INF causato dalle armi EMP non è possibile, ma ogni personaggio può acquistare scudi EMP:
 
-| Modification                       | Price  | Max per PC | Activation |
-| ---------------------------------- | ------ | :--------: | :--------: |
-| +1 Armor when resolving INF damage | 10 000 |     +3     |     -      |
+| Modifica                                             | Costo  | Max per PG | Attivazione |
+| ---------------------------------------------------- | ------ |:----------:|:-----------:|
+| +1 Armatura durante la risoluzione del danno all'INF | 10.000 |     +3     |      -      |
 
-## Examples of classical cybermods
+## Esempi di cybermodifiche classiche
 
-| Name                           | Effect                                                       |
-| ------------------------------ | ------------------------------------------------------------ |
-| Dermal armor                   | +1  armor                                                    |
-| Subdermal pocket               | +1 inventory slot                                            |
-| A cache in cyberarm/cyberleg   | +1 inventory slot                                            |
-| Neuroprocessor                 | Infosphere's hacking and firewall capabilities               |
-| Network coprocessor            | +1  for INF tests                                            |
-| Musculo-skeletal reinforcement | +1  for BIO tests                                            |
-| Behavioral processor           | +1  for PSY tests                                            |
-| Neuroimpulse accelerator       | +1  BIO for tests relating to the speed of reaction          |
-| Muscular stabiliser            | +1  BIO for tests involving precise body handling            |
-| Cognitive booster              | +1  PSY  for tests related to cognition, knowledge, learning |
-| Bio/psy/neural stimulator      | Easy tests for  BIO/PSY/INF                                  |
-| Tactical biosystem             | +1  HP during resolving the attack                           |
-| Targeting implant              | selected critical injuries without wounds                    |
-| Drone/vehicle neurocontroller  | +1 BIO for steering tests                                    |
-| Weapon neurocontroller         | Critical damage inflicting additional wounds                 |
+| Nome                                    | Effetto                                                                 |
+| --------------------------------------- | ----------------------------------------------------------------------- |
+| Armatura dermica                        | +1  armatura                                                            |
+| Tasca sottocutanea                      | +1 slot inventario                                                      |
+| Nascondiglio in cyberbraccio/cybergamba | +1 slot inventario                                                      |
+| Neuroprocessore                         | Capacità di hacking e firewall di Infosphere                            |
+| Coprocessore di rete                    | +1  per prova di INF                                                    |
+| Rinforzo muscolo-scheletrico            | +1  per prova di BIO                                                    |
+| Processore comportamentale              | +1  per prova di PSY                                                    |
+| Acceleratore di neuroimpulsi            | +1  BIO per le prove relative alla velocità di reazione                 |
+| Stabilizzatore muscolare                | +1  BIO per le prove che comportano una manipolazione precisa del corpo |
+| Potenziatore cognitivo                  | +1  PSY le prove relative a cognizione, conoscenza, apprendimento       |
+| Stimolatore bio/psi/neurale             | Prove più facili per BIO/PSY/INF                                        |
+| Biosistema tattico                      | +1 PF durante la risoluzione dell'attacco                               |
+| Impianto mirato                         | lesioni critiche selezionate senza ferite                               |
+| Neurocontrollore drone/veicolo          | +1 BIO per le prove di guida                                            |
+| Neurocontrollore dell'arma              | Danno critico che infligge ferite aggiuntive                            |
 
 
-### The simplest interface for hacking on the Infosphere
+### L'interfaccia più semplice per hackerare l'Infosfera
 
-- **Description**: Neuroprocessor implant, with built-in broadband antenna for wireless transmissions and optical socket for wired connection.
-- **Enhancements**: base element (head), neuroprocessor d4
-- **Price**: 2000 + 6000 = `8 000` ℂ
+- **Descrizione**: Impianto di neuroprocessore, con antenna a banda larga integrata per trasmissioni wireless e presa ottica per connessione cablata.
+- **Potenziamenti**: elemento base (testa), neuroprocessore d4
+- **Costo**: 2.000 + 6.000 = `8.000` ℂ
 
-### Cybernetic hand with extendable claws
+### Mano cibernetica con artigli estensibili
 
-- **Description**: Dark metal limb, covered with synthetic leather. On the forearm, on the inner side, a small cache that opens with a pressure. In the hand placed four long, steel, extendable claws.
-- **Enhancements**: base element (hand), +1 inventory slot (cache), claws d6
-- **Price**: 1000 + 1000 + 9000 = `11 000` ℂ
+- **Descrizione**: Arto in metallo scuro, rivestito in pelle sintetica. Sull'avambraccio, nella parte interna, un piccolo nascondiglio che si apre con una pressione. Nella mano si trovano quattro lunghi artigli d'acciaio estensibili.
+- **Potenziamenti**: elemento base (mano), +1 slot inventario (scorta), artigli d6
+- **Costo**: 1.000 + 1.000 + 9.000 = `11.000` ℂ
 
-### Dermal armour
+### Armatura dermica
 
-- **Description**: A thin plasteel mesh  placed under the skin, covering the arms, chest and back. A small generator built into the hip allows an additional electrical charge to shock anyone who touches the character.
-- **Enhancements**: base element (body), +1 armor, electric charge d4, critical damage: paralysis for d4 rounds
-- **Price**: 5000 + 10000 + 6000 + 1500 = `22 500` ℂ
+- **Descrizione**: Una sottile rete di plastacciaio posta sotto la pelle, che copre le braccia, il petto e la schiena. Un piccolo generatore integrato nell'anca consente a una carica elettrica aggiuntiva di scioccare chiunque tocchi il personaggio.
+- **Potenziamenti**: elemento base (corpo), +1 armatura, carica elettrica d4, danno critico: paralisi per d4 round
+- **Costo**: 5.000 + 10.000 + 6.000 + 1.500 = `22.500` ℂ
