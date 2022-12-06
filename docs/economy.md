@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Economia
-parent: Documenti
+parent: Gioco
 nav_order: 2
 ---
 

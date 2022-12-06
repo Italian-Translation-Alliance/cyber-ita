@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Background
-parent: Documenti
+parent: Gioco
 nav_order: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cyber SRD
-parent: English version
+parent: Gioco
 nav_order: 1
 ---
 

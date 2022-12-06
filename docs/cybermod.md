@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Cybermodifiche
-parent: Documenti
+parent: Gioco
 nav_order: 3
 ---
 
