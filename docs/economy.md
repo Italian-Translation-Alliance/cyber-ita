@@ -1,96 +1,95 @@
 ---
 layout: default
-title: Economy
-parent: Documents
+title: Economia
+parent: Documenti
 nav_order: 2
 ---
 
-# Products and services
+# Prodotti e servizi
 
-Products and services are purchased using a global currency known as **credit** ( **ℂ** ).
+I prodotti e i servizi vengono acquistati utilizzando una valuta globale nota come **credito** ( **ℂ**).
 
-In *Cyber*, however, players will not read hefty price lists or analyze hundreds of tables. In a global world, everyday products are also provided by corporations.
+In *Cyber*, tuttavia, i giocatori non leggeranno pesanti listini prezzi né analizzeranno centinaia di tabelle. In un mondo globale, anche i prodotti di uso quotidiano sono forniti dalle aziende.
 
-All **basic products and services** such as food, simple tools, etc. are offered in the form of a monthly **subscription** of varying levels. The differences are primarily in the quality of these items rather than their type.
-In shops, products are marked with a coloured sticker symbolising the subscription level so that the customer knows which products to put in the basket.
+Tutti i **prodotti e servizi di base** come cibo, strumenti semplici, ecc. sono offerti sotto forma di un **abbonamento** mensile di vari livelli. Le differenze sono principalmente sulla qualità di questi articoli piuttosto che la tipologia.
+Nei negozi, i prodotti sono contrassegnati da un adesivo colorato che simboleggia il livello di abbonamento in modo che il cliente sappia quali prodotti mettere nel carrello.
 
-Each subscription offers items that have a certain probability of being damaged (food may be stale). Before or after each use of the item (the choice is up to the players), roll **1d6**, results of **1,2,3** (depending on the subscription) may indicate that the item has been damaged or the service has been performed unreliably. The character can of course obtain the item or service again but it will take time.
+Ogni abbonamento offre articoli che hanno una certa probabilità di essere danneggiati (il cibo potrebbe essere stantio). Prima o dopo ogni utilizzo dell'oggetto (la scelta spetta ai giocatori), tirare **1d6**, i risultati di **1,2,3** (a seconda dell'abbonamento) possono indicare che l'oggetto è stato danneggiato o il servizio è stato eseguito in modo inaffidabile. Il personaggio può ovviamente ottenere di nuovo l'oggetto o il servizio, ma ci vorrà del tempo.
 
-Exceptions to this subscription system are  specialised services and equipment:
+Le eccezioni a questo sistema di abbonamento sono servizi e attrezzature specializzati:
 
-- arms and armour
-- vehicles and drones
-- specialised laboratory, military, construction equipment
-- engineering, research, security services
+- armi e armature
+- veicoli e droni
+- laboratorio specializzato, militare, attrezzature per l'edilizia
+- ingegneria, ricerca, servizi di sicurezza
+
+Alcuni degli articoli di cui sopra hanno i propri listini prezzi separati e altri dipendono dalla necessità specifica e dall'offerta - saranno quindi negoziati tra i personaggi dei giocatori e i PNG.
+Qualsiasi attrezzatura ufficialmente considerata illegale richiede contatti appropriati e può essere a qualsiasi prezzo.
+
+## Prezzi
+
+| Abbonamento di base | Costo mensile | Probabilità di danno |
+|:-------------------:|:-------------:|:--------------------:|
+|        Bronzo       |      500      |         1-3/6        |
+|       Argento       |     1.000     |         1-2/6        |
+|         Oro         |     2.000     |          1/6         |
+|       Platino       |     5.000     |           -          |
+
+| Contenitore     | Prezzo | Slot inventario |
+| --------------- |:------:|:---------------:|
+| Borsa           |   200  |        +2       |
+| Valigia/Borsone |   300  |        +3       |
+| Zaino           |   400  |        +4       |
+| Trolley a mano  |   600  |        +6       |
+
+| Arma                       |      Prezzo      |    Dado danno          | Note                             |
+| -------------------------- |:----------------:|:----------------------:| -------------------------------- |
+| Mischia (leggera)          |        100       |        d6              | coltello, mazza                  |
+| Mischia (leggera)          |        400       |        d8              | spada, ascia                     |
+| Mischia (leggera)          |        650       |       d10              | lame meccaniche ingombranti      |
+| A distanza (corta gittata) |        150       |        d6              | pistola, doppietta               |
+| A distanza (media gittata) |        600       |        d8              | fucile, arma automatica, arco    |
+| A distanza (lunga gittata) |       1.000      |       d10              | ingombrante, carabina, cannone   |
+| A distanza (lunga gittata) |       1.500      |   d12, scoppio         | ingombrante, razzo/lanciamissili |
+| Granate                    |        200       |   d6, scoppio          |                                  |
+| Microcariche               |        150       |        d4              |                                  |
+| Esplosivi                  | dado danno * 150 | d6-d12, scoppio        |                                  |
+| Cannone EMP\*              |       2000       | d8, scoppio, danno INF | ingombrante |
+
+\* *Danno critico*: se il bersaglio ha un neuroprocessore, infliggi lo stesso numero di danno alla PSI che hai inflitto all'INF in questo turno.
+
+| Armatura | Prezzo | Livello | Note        |
+| -------- |:------:|:-------:| ----------- |
+| Leggera  |  1.000 |    1    |             |
+| Media    |  2.500 |    2    |             |
+| Pesante  |  5.500 |    3    | ingombrante |
+| Scudo    |  1.200 |    +1   |             |
+
+| Droni, veicoli, robot                  |          Prezzo         | Slot inventario |
+| -------------------------------------- |:-----------------------:|:---------------:|
+| Drone/robot piccolo                    |          10.000         |        +2       |
+| Drone/robot medio                      |          50.000         |        +4       |
+| Drone/robot grande                     |         100.000         |        +6       |
+| Drone/robot da trasporto               |         200.000         |       +12       |
+| Veicolo piccolo                        |          50.000         |        +6       |
+| Veicolo medio                          |          70.000         |        +8       |
+| Veicolo grande                         |         100.000         |       +10       |
+| Veicolo da trasporto                   |         200.000         |       +12       |
+| Accessori (videocamere, sensori, ecc.) |       1.000  cad.       |        -        |
+| Armi montate                           |    dado danno * 1.500   |        -        |
+| Armatura                               | 5.000 per punto (max 3) |        -        |
+
+| Nodo dell'Infosfera |    Costo mensile   |
+| ------------------- |:------------------:|
+| +1 PF               |        2.000       |
+| +1 INT              |        5.000       |
+| ICE Bianco          | dado danno * 1.500 |
+| ICE Nero (illegale) | dado danno * 5.000 |
 
 
-Some of items above have their own separate price lists and others depend on the specific need and offer - they will therefore be negotiated between player characters and NPCs.
-Any equipment that is officially considered illegal requires appropriate contacts and can be at any price.
-
-## Prices
-
-| Basic subscription | Price / month | Damage probability |
-| :----------------: | :-----------: | :----------------: |
-|       Bronze       |      500      |       1-3/6        |
-|       Silver       |     1000      |       1-2/6        |
-|        Gold        |     2000      |        1/6         |
-|      Platinum      |     5000      |         -          |
-
-| Container        | Price | Inventory Slots |
-| ---------------- | :---: | :-------------: |
-| Bag              |  200  |       +2        |
-| Suitcase/Big bag |  300  |       +3        |
-| Backpack         |  400  |       +4        |
-| Hand trolley     |  600  |       +6        |
-
-| Weapon                |       Price       |      Damage dice      | Notes                          |
-| --------------------- | :---------------: | :-------------------: | ------------------------------ |
-| Melee (light)         |        100        |          d6           | knife, club                    |
-| Melee (medium)        |        400        |          d8           | sword, axe                     |
-| Melee (heavy)         |        650        |          d10          | bulky, mechanical blades       |
-| Ranged (short range)  |        150        |          d6           | pistol, shotgun                |
-| Ranged (medium range) |        600        |          d8           | rifle, automatic weapon, bow   |
-| Ranged (long range)   |       1000        |          d10          | bulky, carbine, cannon         |
-| Ranged (long range)   |       1500        |      d12, blast       | bulky, rocket/missile launcher |
-| Grenades              |        200        |       d6, blast       |                                |
-| Microcharges          |        150        |          d4           |                                |
-| Explosives            | damage dice * 150 |     d6-d12, blast     |                                |
-| EMP cannon\*          |       2000        | d8, blast, INF damage | bulky                          |
-
-\* *Critical Damage*: if the target has a neuroprocessor, inflict, the same number of PSY damage as you inflicted INF this turn.
-
-| Armor  | Price | Level | Notes |
-| ------ | :---: | :---: | ----- |
-| Light  | 1000  |   1   |       |
-| Medium | 2500  |   2   |       |
-| Heavy  | 5500  |   3   | bulky |
-| Shield | 1200  |  +1   |       |
-
-| Drones, vehicles, robots             |         Price          | Inventory Slots |
-| ------------------------------------ | :--------------------: | :-------------: |
-| Small  drone/robot                   |         10000          |       +2        |
-| Medium  drone/robot                  |         50000          |       +4        |
-| Large    drone/robot                 |         100000         |       +6        |
-| Transport drone/robot                |         200000         |       +12       |
-| Small vehicle                        |         50000          |       +6        |
-| Medium vehicle                       |         70000          |       +8        |
-| Large vehicle                        |         100000         |       +10       |
-| Transport vehicle                    |         200000         |       +12       |
-| Accessories (cameras, sensors, etc.) |       1000  each       |        -        |
-| Mounted weapons                      |   damage dice * 1500   |        -        |
-| Armor                                | 5000 per point (max 3) |        -        |
-
-| Infosphere node     |    Price/month     |
-| ------------------- | :----------------: |
-| +1 HP               |        2000        |
-| +1 INT              |        5000        |
-| White ICE           | damage dice * 1500 |
-| Black ICE (illegal) | damage dice * 5000 |
-
-
-| Medical/repair services   |        Price        |            Time            |
-| ------------------------- | :-----------------: | :------------------------: |
-| Medical assistance        | 1000 per BIO point  | 1 day per 1 pt, max 7 days |
-| Psychological assistance  | 1000  per PSY point | 1 day per 1 pt, max 7 days |
-| Interface repair          |  500 per INF point  |      2 hours per 1 pt      |
-| Stimulant pack (10 doses) |        1000         |      immediate effect      |
+| Servizi medici/di riparazione  |         Costo        |                Tempo               |
+| ------------------------------ |:--------------------:|:----------------------------------:|
+| Assistenza medica              |  1.000 per punto BIO | 1 giorno per 1 punto, max 7 giorni |
+| Assistenza psicologica         | 1.000  per punto PSI | 1 giorno per 1 punto, max 7 giorni |
+| Riparazione di interfaccia     |   500 per punto INF  |          2 ore per 1 punto         |
+| Pacchetto stimolante (10 dosi) |         1.000        |          effetto immediato         |
