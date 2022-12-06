@@ -5,7 +5,7 @@ parent: Gioco
 nav_order: 4
 ---
 
-# Cybermodifiche
+# Appendice C: Cybermodifiche
 
 Durante la creazione del personaggio, ogni giocatore può scegliere **un numero qualsiasi di cybermodifiche gratuitamente, ma il costo di questi aggiornamenti non può superare i 20.000 ℂ**.
 

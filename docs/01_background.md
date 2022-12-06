@@ -5,7 +5,7 @@ parent: Gioco
 nav_order: 2
 ---
 
-# Background
+# Appendice A: Background
 
 Il background riassume l'esperienza della vita passata di un personaggio e gli dà un certo posizione sociale di partenza.
 Non equivale a una classe, non definisce il percorso di sviluppo del personaggio. Descrive solo le **esperienze passate** del personaggio e la conoscenza o la posizione sociale che ne deriva. Inoltre, il giocatore può (ma non deve) scegliere o concepire un motivo per cui rinuncia al proprio stile di vita precedente.

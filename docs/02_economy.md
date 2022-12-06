@@ -5,7 +5,7 @@ parent: Gioco
 nav_order: 3
 ---
 
-# Prodotti e servizi
+# Appendice B: Economia
 
 I prodotti e i servizi vengono acquistati utilizzando una valuta globale nota come **credito** ( **ℂ**).
 
