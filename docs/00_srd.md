@@ -289,7 +289,7 @@ Le eccezioni a questo sistema di abbonamento sono servizi e attrezzature special
 - ingegneria, ricerca, sicurezza, medicina, servizi di riparazione
 
 Alcune delle eccezioni di cui sopra hanno i propri listini prezzi separati e altre dipendono dalla specifica esigenza e offerta - saranno quindi negoziate tra i personaggi giocanti e gli PNG.
-Qualsiasi attrezzatura ufficialmente considerata illegale richiede contatti appropriati e può essere a qualsiasi prezzo.
+Qualsiasi attrezzatura ufficialmente considerata illegale richiede contatti appropriati e può essere venduta a qualsiasi prezzo.
 
 Per un elenco dettagliato di prodotti e servizi e relativi prezzi, vedi l'[Appendice](./economia.md).
 
