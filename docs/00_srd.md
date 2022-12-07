@@ -213,8 +213,6 @@ Se si combatte da una **posizione di svantaggio** (come attraverso una copertura
 
 Se si combatte da una posizione di **vantaggio** (come contro un nemico indifeso o con una manovra audace), l’attacco è **potenziato**, permettendo all’attaccante di tirare **1d12** danni invece del suo dado normale.
 
-If the 1d4/1d12 modification is insufficient for your style of play, you can define a **imparing/enhancing level** of attack calculated as the **number of dice types** by which you reduce/increase the attack. The level of imparing/enhancing is determined by the referee depending on the circumstances.
-
 Se la modifica 1d4/1d12 non è sufficiente per il tuo stile di gioco, puoi definire un **livello di compromissione/potenziamento** dell'attacco calcolato come il **numero di tipi di dadi** di cui riduci/aumenti l'attacco. Il livello di compromissione/potenziamento è determinato dall'arbitro a seconda delle circostanze.
 
 I dadi di danno disponibili sono: `d4, d6, d8, d10, d12`. In questo caso, il livello di compromissione/potenziamento è un valore compreso tra "-4" e "4".
