@@ -51,7 +51,7 @@ I Personaggi Giocanti (PG) hanno tre attributi:
 
 Quando si crea un PG, il giocatore deve tirare **3d6** per ciascuno dei punteggi di caratteristica del proprio personaggio, in ordine. Poi può quindi scambiare \*\*due\*\* qualsiasi dei risultati.
 
-**Esempio:** Miko tira per la BIO del suo personaggio, con un risultato di 2, 4 e 6, per un totale di 12. I successivi due tiri di abilità risultano in un 9 per PSI e un 13 per INF. Decide di scambiare il 12 e il 9, per un personaggio con 9 BIO, 12 PSY e 13 INF.
+> **Esempio:** Miko tira per la BIO del suo personaggio, con un risultato di 2, 4 e 6, per un totale di 12. I successivi due tiri di abilità risultano in un 9 per PSI e un 13 per INF. Decide di scambiare il 12 e il 9, per un personaggio con 9 BIO, 12 PSY e 13 INF.
 
 ### Protezione dalle Ferite
 
@@ -70,7 +70,7 @@ Gli oggetti **ingombranti** occupano due slot e sono tipicamente a due mani o sc
 
 Borse, zaini, trolley possono aumentare il numero di slot di inventario, lo stesso vale anche per le cybermodifiche. Per cui gli oggetti che rappresentano contenitori attaccati al corpo del personaggio o che richiedono l’uso della mano (portati, tirati) **occupano uno slot** nell’inventario.
 
-**Esempio**: John mette in uso uno zaino, che aumenta il numero di slot di 4. Tuttavia, lo zaino deve essere indossato sulla schiena, quindi occupa uno slot. Alla fine, quindi, John ha aumentato di 3 il numero degli slot. Se avesse optato per un carrello, che deve trainare con una mano, l’oggetto avrebbe occupato comunque uno slot. Con un mezzo di trasporto, un carrello automatico, ecc., i contenitori non occupano slot.
+> **Esempio**: John mette in uso uno zaino, che aumenta il numero di slot di 4. Tuttavia, lo zaino deve essere indossato sulla schiena, quindi occupa uno slot. Alla fine, quindi, John ha aumentato di 3 il numero degli slot. Se avesse optato per un carrello, che deve trainare con una mano, l’oggetto avrebbe occupato comunque uno slot. Con un mezzo di trasporto, un carrello automatico, ecc., i contenitori non occupano slot.
 
 **Limite di capacità dell'equipaggiamento**: il numero massimo di slot per l'equipaggiamento non può eccedere il livello massimo dell'abilità **BIO** del personaggio.
 
@@ -144,7 +144,7 @@ Ogni turno, i PG dichiarano cosa stanno facendo prima del lancio dei dadi. Se un
 
 L’Arbitro segnala le azioni più probabili intraprese dai PNG o dai mostri. All’inizio del combattimento, ogni PG deve effettuare un tiro salvezza per agire prima dei suoi avversari. Per un combattimento fisico dovrebbe essere una prova di BIO, per l’Infosfera - una prova di PSY.
 
-**Esempio:** *Bea si è imbattuta per caso in un’area in cui si aggira una banda di contrabbandieri. Per agire prima di loro, deve fare una prova di BIO. Lei fallisce, quindi i contrabbandieri attaccano per primi.*
+> **Esempio:** *Bea si è imbattuta per caso in un’area in cui si aggira una banda di contrabbandieri. Per agire prima di loro, deve fare una prova di BIO. Lei fallisce, quindi i contrabbandieri attaccano per primi.*
 
 #### Attacco e Danni
 
@@ -234,7 +234,7 @@ La valuta globale nel gioco è il **credito** indicato con **ℂ**.
 
 I personaggi iniziano il gioco con un pool di \*\*1d4 \*1000\*\* crediti.
 
-Tutti i prodotti e servizi di base come cibo, elettrodomestici, strumenti semplici, ecc. sono offerti come abbonamento mensile con diversi livelli. Le differenze sono principalmente nella qualità di questi articoli e non nel loro tipo. Nei negozi, i prodotti sono etichettati con un adesivo colorato che indicail livello di abbonamento in modo che il cliente sappia quali prodotti mettere nel carrello. Le eccezioni a questo sistema di abbonamento sono servizi e attrezzature specializzati:
+Tutti i prodotti e servizi di base come cibo, elettrodomestici, strumenti semplici, ecc. sono offerti come abbonamento mensile con diversi livelli. Le differenze sono principalmente nella qualità di questi articoli e non nel loro tipo. Nei negozi, i prodotti sono etichettati con un adesivo colorato che indica il livello di abbonamento in modo che il cliente sappia quali prodotti mettere nel carrello. Le eccezioni a questo sistema di abbonamento sono servizi e attrezzature specializzati:
 
 -   armi e armature
 -   veicoli e droni

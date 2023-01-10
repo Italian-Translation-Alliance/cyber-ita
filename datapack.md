@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Datapacks
+title: Datapack
 nav_order: 2
 has_children: true
 ---
-# Datapacks
+# Datapack
 
-Collections of additional rules, information, extensions.
+Collezione di regole addizionali, informazioni, estensioni.

@@ -1,4 +1,4 @@
-@startuml "PC actions"
+@startuml "Azioni dei PG"
 skinparam defaultFontName Oxanium
 skinparam activity {
   StartColor #0fff50
@@ -8,42 +8,42 @@ skinparam activity {
   ArrowColor #2c84fa
   FontName Oxanium
 }
-title "PC actions" 
+title "Azioni dei PG" 
 start
-:The player specifies what he wants to do;
-if (Is there a risk
-     of a failure?) then (<color:#f2f230>  yes)
-:Request save roll;
+:Il giocatore specifica cosa vuole fare;
+if (C'è un rischio
+di un fallimento?) then (<color:#f2f230>  sì)
+:Richiedi il tiro salvezza;
   note right
-   Cybermod 
-   activation
+   Attivazione 
+   cybermodifica
   endnote
-  if (external circumstances 
-  increasing or
-  reducing the risk?) then (<color:#f2f230> no)
-    :roll 1d20;
-  else (<color:#f2f230> yes)
-   switch (kind of circumstances) 
-   case ( <color:#f2f230> lower risk)
-   :roll 2d20, select **lowest** score;
-   case ( <color:#f2f230> greater risk)
-   :roll 2d20, select **higher** score;
+  if (le circostanze esterne 
+aumentano o riducono 
+il rischio?) then (<color:#f2f230> no)
+    :tira un 1d20;
+  else (<color:#f2f230> sì)
+   switch (tipo di circostanze) 
+   case ( <color:#f2f230> rischio minore)
+   :tira 2d20, seleziona il punteggio **più basso**;
+   case ( <color:#f2f230> rischio maggiore)
+   :tira 2d20, seleziona il punteggio **più alto**;
    endswitch
   endif 
-  if (A result less than or equal to
-  the current level of ability?) then (<color:#f2f230> yes)
-  #0fff50 :**SUCCESS**;
+  if (Risultato inferiore o uguale 
+  all'attuale livello di abilità?) then (<color:#f2f230> sì)
+  #0fff50 :**SUCCESSO**;
   else (<color:#f2f230> no)
-  #ff54ff :**FAILURE**;
+  #ff54ff :**FALLIMENTO**;
   endif
 else (<color:#f2f230> no)
-#0fff50 :**SUCCESS**;
+#0fff50 :**SUCCESSO**;
 endif 
 end
 @enduml
 
-@startuml "Physical combat"
-title "Physical combat"
+@startuml "Combattimento fisico"
+title "Combattimento fisico"
 skinparam defaultFontName Oxanium
 skinparam activity {
   StartColor #0fff50
@@ -54,64 +54,64 @@ skinparam activity {
   FontName Oxanium
 }
 start
-:Start the round;
-if (The player wants to
-    withdraw from the fight?) then (<color:#f2f230> yes)
-:Request BIO test;
+:Inizia del round;
+if (Il giocatore vuole 
+ritirarsi dal combattimento?) then (<color:#f2f230> sì)
+:Chiedi una prova di BIO;
  note left
-   Cybermod 
-   activation
+   Attivazione 
+   cybermodifica
  endnote
-if (Test passed and the player 
-    has a safe place to run to?) then (<color:#f2f230> yes)
-:Player leaves the combat;
+if (Prova superata e il giocatore
+ha un posto sicuro dove rifugiarsi?) then (<color:#f2f230> sì)
+:Il giocatore abbandona il combattimento;
 stop
 else (<color:#f2f230> no)
-:The player remains in the struggle;
+:Il giocatore continua a combattere;
 endif
 endif
-if (character may be taken by surprise
-    and wants to act before opponents?) then (<color:#f2f230> yes)
-  :Request BIO test;
+if (il personaggio può essere colto di sorpresa
+    e vuole agire prima degli avversari?) then (<color:#f2f230> sì)
+  :Chiedi una prova di BIO;
   note left
-   Cybermod 
-   activation
+   Attivazione 
+   cybermodifica
   endnote
-  if (BIO test passed?) then (<color:#f2f230> yes)
-    :Character acts before opponents;
+  if (Prova di BIO passata?) then (<color:#f2f230> sì)
+    :Il personaggio agisce prima degli avversari;
   else (<color:#f2f230> no)
-    :All activities in the round
-     take place simultaneously;
+    :Tutte le azioni del round
+     avvengono simultaneamente;
   endif
 else (<color:#f2f230> no)
-  :All activities in the round
-   take place simultaneously;
+    :Tutte le azioni del round
+     avvengono simultaneamente;
 endif
-:The character can move;
-:A character can perform an attack or other action;
-if (Attack or action?) then (<color:#f2f230> attack)
-#f2f230 :Skip to attack algorithm;
-else (<color:#f2f230> action)
-  if (the action is risky?) then (<color:#f2f230> yes)
-    :Request proper save roll;
+:Il personaggio può muoversi;
+:Un personaggio può eseguire un attacco o un'altra azione;
+if (Attacco o azione?) then (<color:#f2f230> attacco)
+#f2f230 :Salta l'algoritmo di attacco;
+else (<color:#f2f230> azione)
+  if (l'azione è rischiosa?) then (<color:#f2f230> sì)
+    :Richiedi un tiro di salvezza adeguato;
     note left
-      Cybermod 
-      activation
+   Attivazione 
+   cybermodifica
     endnote
-    if (Test passed?) then (<color:#f2f230> yes)
-    #0fff50 :**SUCCESS**;
+    if (Prova superata?) then (<color:#f2f230> sì)
+    #0fff50 :**SUCCESSO**;
     else (<color:#f2f230> no)
-    #ff54ff:**FAILURE**;
+    #ff54ff:**FALLIMENTO**;
     endif
   else (<color:#f2f230> no)
-    #0fff50 :**SUCCESS**;
+    #0fff50 :**SUCCESSO**;
   endif 
 endif
 end
 @enduml
 
-@startuml "Physical attack"
-title "Physical attack"
+@startuml "Attacco fisico"
+title "Attacco fisico"
 skinparam defaultFontName Oxanium
 skinparam activity {
   StartColor #0fff50
@@ -122,72 +122,71 @@ skinparam activity {
   FontName Oxanium
 }
 start
-group Determine \nthe amount of\ndamage dice
-:one damage die as a standard;
-if (many attackers?) then (<color:#f2f230> yes)
-:add a die for each attacker;
+group Determina \nla taglia del\ndado di danno
+:un dado danno standard;
+if (many attackers?) then (<color:#f2f230> sì)
+:aggiungi un dado per ogni attaccante;
 else (<color:#f2f230> no)
 endif
-if (dual-weapon attack?) then (<color:#f2f230> yes)
-:add a die for each 
-attacker with a dual weapon;
+if (attacco a doppia arma?) then (<color:#f2f230> sì)
+:aggiungere un dado per ciascun \nattaccante con una doppia arma;
 else (<color:#f2f230> no)
 endif
 end group
-group Determine \nthe type of\ndamage dice
-:Individually for each attacker;
-if (attack without a defined weapon?) then (<color:#f2f230> yes)
+group Determinare \nil tipo di\ndadi danno
+:Individualmente per ogni attaccante;
+if (attaccare senza un'arma definita?) then (<color:#f2f230> sì)
 :1d4;
 else (<color:#f2f230> no)
-:weapon damage dice;
-switch (attack modifier)
-case (<color:#f2f230> weakened position)
-:1d4 or respectively 
-__decreased__ weapon die;
-case (<color:#f2f230> advantage)
-:1d12 or respectively 
-__increased__ weapon die;
+:dadi danno dell'arma;
+switch (modificatore di attacco)
+case (<color:#f2f230> posizione compromessa)
+:1d4o rispettivamente
+dado dell'arma __compromesso__ ;
+case (<color:#f2f230> vantaggio)
+:1d12 o rispettivamente
+dado dell'arma __potenziato__;
 endswitch 
 endif
 end group
-:Make a dice roll;
+:Fai un tiro di dadi;
 note right
-Attacker cybermod activation
+Attivazione cybermodifiche dell'attaccante
 end note
-if (The weapon has a blast feature?) then (<color:#f2f230> yes)
-:repeat the damage roll
-for each character 
-within striking range;
+if (L'arma ha la caratterisca "scoppio"?) then (<color:#f2f230> sì)
+:ripetere il tiro per i danni
+per ogni personaggio
+nel raggio d'azione;
 endif
-:Select the highest score;
-:Substract victim's __actual__  
- armor value
- from the roll result;
-if (Opponent's HP less than or equal to zero?) then (<color:#f2f230> no)
-:Subtract the damage points 
-from the __actual__ HP of the opponent;
+:Seleziona il punteggio più alto;
+:Sottrai il valore di armatura 
+__effettivo__ della vittima 
+dal risultato del tiro;
+if (PF dell'avversario inferiori o uguali a zero?) then (<color:#f2f230> no)
+:Sottrai i punti danno
+dagli __effettivi__ PF dell'avversario;
 note right
-Oponnent's cybermod
-activation
+Attivazione Cybermodifiche
+dell'avversario
 endnote
-else (<color:#f2f230> yes)
+else (<color:#f2f230> sì)
 endif 
-if (number of remaining points of damage greater than zero?) then (<color:#f2f230> yes)
-:subtract the remaining amount of damage points 
-from your opponent's BIO;
+if (numero di punti danno rimanenti maggiore di zero?) then (<color:#f2f230> sì)
+:sottrarre la quantità rimanente di punti danno
+dalla BIO del tuo avversario;
 note right
-Oponnent's cybermod
-activation
+Attivazione Cybermodifiche
+dell'avversario
 endnote
-:Perform a critical damage test;
-if (Test passed?) then (<color:#f2f230> yes)
+:Esegui una prova di danno critico;
+if (Prova superata?) then (<color:#f2f230> sì)
   end
 else (<color:#f2f230> no)
-  :apply all critical
-  damage effects;
+  :applica tutti gli effetti
+  di danno critico;
   note right
-    Cybermod
-    activation
+  Attivazione
+  cybermodifiche
   endnote
 endif
 else (<color:#f2f230> no)
@@ -196,8 +195,8 @@ endif
 end
 @enduml
 
-@startuml "Infosphere attack"
-title "Infosphere attack"
+@startuml "Attacco nell'Infosfera"
+title "Attacco nell'Infosfera"
 skinparam defaultFontName Oxanium
 skinparam activity {
   StartColor #0fff50
@@ -208,61 +207,61 @@ skinparam activity {
   FontName Oxanium
 }
 start
-group Determine \nthe damage dice
-:Neuroprocessor damage dice as a standard;
-if (multiple attackers?) then (<color:#f2f230> yes)
-:add a die for each attacker;
+group Determina \ni dadi danno
+:Dadi danno del neuroprocessore come standard;
+if (attaccanti multipli?) then (<color:#f2f230> sì)
+:aggiungi un dado per ogni attaccante;
 else (<color:#f2f230> no)
 endif
 end group
-:Make a dice roll;
-:Select an attacker and 
-remember the result of his dice roll
-(neuroprocessor attack);
-:add the activated 
-software dice;
+:Fai un tiro;
+:Seleziona un attaccante e
+ricorda il risultato del suo tiro
+(attacco al neuroprocessore);
+:aggiungi i dadi
+di attivazione software;
 note right
-Activation of software
-of the selected attacker
+Attivazione del software
+dell'attaccante selezionato
 endnote 
-:perform a roll of additional
-software damage dice 
-and add the result to the result of 
-neuroprocessor attack;
-:Substract the value of
-opponent's INF armor 
-from the roll result;
+:eseguire un tiro aggiuntivo
+di dadi danno software
+e aggiungi il risultato
+all'attacco al neuroprocessore;
+:Sottrai il valore
+di armatura INF dell'avversario
+dal risultato;
 note right
-node software
-activation
+Attivazione
+software nodo
 endnote
-if (HP of the node less than or equal to zero?) then (<color:#f2f230> yes)
-#0fff50 :take control of the node;
+if (PF del nodo minori o uguali a zero?) then (<color:#f2f230> sì)
+#0fff50 :prendi il controllo del nodo;
 else (<color:#f2f230> no)
-  :Subtract the damage points 
-  from the __actual__ HP of the node.;
+  :Sottrai i punti danno
+  dai PF __effettivi__ del nodo.;
 note right
-node software
-activation
+Attivazione
+software nodo
 endnote
 endif
-if (number of remaining points of damage 
-    greater than zero?) then (<color:#f2f230> yes)
-:subtract the remaining amount of 
-damage points from the node's INF;
+if (numero di punti danno rimanenti
+    maggiori di zero?) then (<color:#f2f230> sì)
+:sottrai il totale rimanente di
+punti danno dall'INF del nodo;
 note right
-node software
-activation
+Attivazione
+software nodo
 endnote
-:Perform a critical damage test;
-if (Test passed?) then (<color:#f2f230> yes)
+:Esegui una prova di danno critico;
+if (Prova superata?) then (<color:#f2f230> sì)
   end
 else (<color:#f2f230> no)
-  :apply all critical
-  damage effects;
+  :applica gli effetti 
+  dei danni critici;
   note right
-  node software
-  activation
+  Attivazione
+  software nodo
   endnote
 endif
 else (<color:#f2f230> no)
@@ -271,8 +270,8 @@ endif
 end
 @enduml
 
-@startuml "ICE attack"
-title "ICE attack"
+@startuml "Attacco ICE"
+title "Attacco ICE"
 skinparam defaultFontName Oxanium
 skinparam activity {
   StartColor #0fff50
@@ -283,45 +282,43 @@ skinparam activity {
   FontName Oxanium
 }
 start
-:Roll ICE dice;
+:Tira il dado ICE;
 note right
-hacker's software
-activation
+Attivazione software
+dell'hacker
 endnote 
-:Substract haker's INF
-armor from the roll result;
+:Sottrai l'armatura di INF dell'haker
+al risultato del tiro;
 
-if (Hacker's HP less than or equal to zero?) then (<color:#f2f230> yes)
-#e949f5 :The hacker cannot move around \vin the network or disconnect;
+if (PF dell'hacker inferiori o uguali a zero?) then (<color:#f2f230> sì)
+#e949f5 :L'hacker non può muoversi \nnella rete o disconnettersi;
 else (<color:#f2f230> no)
- :Subtract the damage points 
- from the hacker's __actual__ HP;
+ :Sottrai i punti danno
+ dai PF __effettivi__ dell'hacker;
  note right
-hacker's software
-activation
+Attivazione software
+dell'hacker
  endnote
 endif
-if (amount of remaining points of damage greater 
-than the hacker's current HP level?) then (<color:#f2f230> yes)
-:subtract the remaining amount of damage points 
-from the hacker's INF;
+if (punti danno maggiori al livello PF dell'hacker?) then (<color:#f2f230> sì)
+:sottrai la quantità rimanente di punti danno
+dall'INF dell'hacker;
 note right
-hacker's software
-activation
+  Attivazione software
+  dell'hacker
 endnote
-:Perform a critical damage test;
-if (Test passed?) then (<color:#f2f230> yes)
+:Esegui una prova di danno critico;
+if (Prova superata?) then (<color:#f2f230> sì)
   end
 else (<color:#f2f230> no)
-  :apply all critical
-   damage effects;
+  :applica gli effetti \n del danno critico;
   note right
-  hacker's software
-  activation
+  Attivazione software
+  dell'hacker
   endnote
-  if (Black ICE) then (<color:#f2f230> yes)
-  :subtract from the hacker's PSY as many 
-  points as were subtracted from INF;
+  if (Black ICE) then (<color:#f2f230> sì)
+  :sottrarre dalla PSI dell'hacker 
+  gli stessi punti sottratti alla INF;
   endif
 endif
 else (<color:#f2f230> no)
