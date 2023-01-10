@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD
+title: Cyber SRD
 parent: Gioco
 nav_order: 1
 ---
