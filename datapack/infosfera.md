@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Infosphere
-parent: Datapacks
+parent: Datapack
 nav_order: 2
 ---
 
