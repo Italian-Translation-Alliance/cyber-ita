@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  contentStyleType="text/css" height="811px" preserveAspectRatio="none"
+  style="width:740px;height:811px;background:transparent;" version="1.1" viewBox="0 0 740 811"
+  width="740px" zoomAndPan="magnify">
+  <defs />
+  <g>
+    <rect fill="none" height="27.4999" id="_title" style="stroke:none;stroke-width:1.0;" width="77"
+      x="330" y="15" />
+    <text fill="#000000" font-family="Oxanium" font-size="14" font-weight="bold"
+      lengthAdjust="spacing" textLength="67" x="335" y="34.5599">ICE attack</text>
+    <ellipse cx="343.5" cy="58.4999" fill="#0FFF50" rx="10" ry="10"
+      style="stroke:#222222;stroke-width:1.0;" />
+    <path
+      d="M407,84.75 L407,102 L387,106 L407,110 L407,127.25 A0,0 0 0 0 407,127.25 L536,127.25 A0,0 0 0 0 536,127.25 L536,94.75 L526,84.75 L407,84.75 A0,0 0 0 0 407,84.75 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <path d="M526,84.75 L526,94.75 L536,94.75 L526,84.75 " fill="#FEFFDD"
+      style="stroke:#181818;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing"
+      textLength="108" x="413" y="103.27">hacker's software</text>
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="60"
+      x="413" y="119.52">activation</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="87" x="300" y="88.4999" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="67"
+      x="310" y="110.98">Roll ICE dice</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="160" x="263.5" y="147.25" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="119" x="273.5" y="169.7301">Substract haker's INF</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="140" x="273.5" y="184.7302">armor from the roll result</text>
+    <polygon fill="#F1F1F1"
+      points="244.5,217.2502,442.5,217.2502,454.5,229.2502,442.5,241.2502,244.5,241.2502,232.5,229.2502,244.5,217.2502"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="198" x="244.5" y="233.8152">Hacker's HP less than or equal to zero?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="214.5" y="226.9402">yes</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="457.5" y="226.9402">no</text>
+    <rect fill="#E949F5" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="371" x="11" y="251.2502" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="351" x="21" y="273.7303">The hacker cannot move around \nin the network or
+      disconnect</text>
+    <path
+      d="M599,255.0003 L599,272.2503 L579,276.2503 L599,280.2503 L599,297.5003 A0,0 0 0 0 599,297.5003 L728,297.5003 A0,0 0 0 0 728,297.5003 L728,265.0003 L718,255.0003 L599,255.0003 A0,0 0 0 0 599,255.0003 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <path d="M718,255.0003 L718,265.0003 L728,265.0003 L718,255.0003 " fill="#FEFFDD"
+      style="stroke:#181818;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing"
+      textLength="108" x="605" y="273.5203">hacker's software</text>
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="60"
+      x="605" y="289.7703">activation</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="177" x="402" y="251.2502" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="157" x="412" y="273.7303">Subtract the damage points</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="98"
+      x="412" y="288.7304">from the hacker's</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      text-decoration="underline" textLength="35" x="513" y="288.7304">actual</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="16"
+      x="551" y="288.7304">HP</text>
+    <polygon fill="#F1F1F1"
+      points="343.5,307.2504,355.5,319.2504,343.5,331.2504,331.5,319.2504,343.5,307.2504"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <polygon fill="#F1F1F1"
+      points="225.5,351.2504,461.5,351.2504,473.5,365.0003,461.5,378.7502,225.5,378.7502,213.5,365.0003,225.5,351.2504"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="233" x="225.5" y="362.6903">amount of remaining points of damage greater</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="176" x="225.5" y="376.4402">than the hacker's current HP level?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="195.5" y="362.6903">yes</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="476.5" y="362.6903">no</text>
+    <path
+      d="M345.125,392.5003 L345.125,409.7503 L325.125,413.7503 L345.125,417.7503 L345.125,435.0003 A0,0 0 0 0 345.125,435.0003 L474.125,435.0003 A0,0 0 0 0 474.125,435.0003 L474.125,402.5003 L464.125,392.5003 L345.125,392.5003 A0,0 0 0 0 345.125,392.5003 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <path d="M464.125,392.5003 L464.125,402.5003 L474.125,402.5003 L464.125,392.5003 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing"
+      textLength="108" x="351.125" y="411.0203">hacker's software</text>
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="60"
+      x="351.125" y="427.2703">activation</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="297" x="28.125" y="388.7502" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="277" x="38.125" y="411.2303">subtract the remaining amount of damage points</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="120" x="38.125" y="426.2304">from the hacker's INF</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="191" x="81.125" y="458.7504" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="171" x="91.125" y="481.2305">Perform a critical damage test</text>
+    <polygon fill="#F1F1F1"
+      points="142.625,513.7505,210.625,513.7505,222.625,525.7505,210.625,537.7505,142.625,537.7505,130.625,525.7505,142.625,513.7505"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="68"
+      x="142.625" y="530.3155">Test passed?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="112.625" y="523.4405">yes</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="225.625" y="523.4405">no</text>
+    <ellipse cx="93.375" cy="557.7505" fill="none" rx="10" ry="10"
+      style="stroke:#E949F5;stroke-width:1.5;" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="87.1878" x2="99.5622" y1="551.5633"
+      y2="563.9377" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="99.5622" x2="87.1878" y1="551.5633"
+      y2="563.9377" />
+    <path
+      d="M336.375,551.5006 L336.375,568.7506 L316.375,572.7506 L336.375,576.7506 L336.375,594.0006 A0,0 0 0 0 336.375,594.0006 L465.375,594.0006 A0,0 0 0 0 465.375,594.0006 L465.375,561.5006 L455.375,551.5006 L336.375,551.5006 A0,0 0 0 0 336.375,551.5006 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <path d="M455.375,551.5006 L455.375,561.5006 L465.375,561.5006 L455.375,551.5006 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing"
+      textLength="108" x="342.375" y="570.0206">hacker's software</text>
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="60"
+      x="342.375" y="586.2706">activation</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="113" x="203.375" y="547.7505" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="86"
+      x="213.375" y="570.2306">apply all critical</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="90"
+      x="216.375" y="585.2307">damage effects</text>
+    <rect fill="#F1F1F1" height="50.0002" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="243" x="138.375" y="666.6257" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="223" x="148.375" y="689.1058">subtract from the hacker's PSY as many</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="197" x="148.375" y="704.1059">points as were subtracted from INF</text>
+    <polygon fill="#F1F1F1"
+      points="236.375,617.7507,283.375,617.7507,295.375,629.7507,283.375,641.7507,236.375,641.7507,224.375,629.7507,236.375,617.7507"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="266.875" y="653.1906">yes</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="47"
+      x="236.375" y="634.3157">Black ICE</text>
+    <polygon fill="#F1F1F1"
+      points="259.875,736.6259,271.875,748.6259,259.875,760.6259,247.875,748.6259,259.875,736.6259"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <ellipse cx="510.375" cy="398.7502" fill="none" rx="10" ry="10"
+      style="stroke:#E949F5;stroke-width:1.5;" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="504.1878" x2="516.5622" y1="392.563"
+      y2="404.9374" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="516.5622" x2="504.1878" y1="392.563"
+      y2="404.9374" />
+    <ellipse cx="343.5" cy="790.6259" fill="none" rx="10" ry="10"
+      style="stroke:#E949F5;stroke-width:1.5;" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="337.3128" x2="349.6872" y1="784.4387"
+      y2="796.8131" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="349.6872" x2="337.3128" y1="784.4387"
+      y2="796.8131" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="343.5" x2="343.5" y1="68.4999" y2="88.4999" />
+    <polygon fill="#2C84FA" points="339.5,78.4999,343.5,88.4999,347.5,78.4999,343.5,82.4999"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="343.5" x2="343.5" y1="123.5" y2="147.25" />
+    <polygon fill="#2C84FA" points="339.5,137.25,343.5,147.25,347.5,137.25,343.5,141.25"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="232.5" x2="196.5" y1="229.2502" y2="229.2502" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="196.5" x2="196.5" y1="229.2502" y2="251.2502" />
+    <polygon fill="#2C84FA" points="192.5,241.2502,196.5,251.2502,200.5,241.2502,196.5,245.2502"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="454.5" x2="490.5" y1="229.2502" y2="229.2502" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="490.5" x2="490.5" y1="229.2502" y2="251.2502" />
+    <polygon fill="#2C84FA" points="486.5,241.2502,490.5,251.2502,494.5,241.2502,490.5,245.2502"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="196.5" x2="196.5" y1="286.2503" y2="319.2504" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="196.5" x2="331.5" y1="319.2504" y2="319.2504" />
+    <polygon fill="#2C84FA" points="321.5,315.2504,331.5,319.2504,321.5,323.2504,325.5,319.2504"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="490.5" x2="490.5" y1="301.2504" y2="319.2504" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="490.5" x2="355.5" y1="319.2504" y2="319.2504" />
+    <polygon fill="#2C84FA" points="365.5,315.2504,355.5,319.2504,365.5,323.2504,361.5,319.2504"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="343.5" x2="343.5" y1="197.2502" y2="217.2502" />
+    <polygon fill="#2C84FA" points="339.5,207.2502,343.5,217.2502,347.5,207.2502,343.5,211.2502"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="176.625" x2="176.625" y1="438.7504"
+      y2="458.7504" />
+    <polygon fill="#2C84FA"
+      points="172.625,448.7504,176.625,458.7504,180.625,448.7504,176.625,452.7504"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="259.875" x2="259.875" y1="641.7507"
+      y2="666.6257" />
+    <polygon fill="#2C84FA"
+      points="255.875,656.6257,259.875,666.6257,263.875,656.6257,259.875,660.6257"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="295.375" x2="391.375" y1="629.7507"
+      y2="629.7507" />
+    <polygon fill="#2C84FA"
+      points="387.375,681.6258,391.375,691.6258,395.375,681.6258,391.375,685.6258"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="391.375" x2="391.375" y1="629.7507"
+      y2="748.6259" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="391.375" x2="271.875" y1="748.6259"
+      y2="748.6259" />
+    <polygon fill="#2C84FA"
+      points="281.875,744.6259,271.875,748.6259,281.875,752.6259,277.875,748.6259"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="259.875" x2="259.875" y1="716.6259"
+      y2="736.6259" />
+    <polygon fill="#2C84FA"
+      points="255.875,726.6259,259.875,736.6259,263.875,726.6259,259.875,730.6259"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="259.875" x2="259.875" y1="597.7507"
+      y2="617.7507" />
+    <polygon fill="#2C84FA"
+      points="255.875,607.7507,259.875,617.7507,263.875,607.7507,259.875,611.7507"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="130.625" x2="93.375" y1="525.7505"
+      y2="525.7505" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="93.375" x2="93.375" y1="525.7505"
+      y2="547.7505" />
+    <polygon fill="#2C84FA" points="89.375,537.7505,93.375,547.7505,97.375,537.7505,93.375,541.7505"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="222.625" x2="259.875" y1="525.7505"
+      y2="525.7505" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="259.875" x2="259.875" y1="525.7505"
+      y2="547.7505" />
+    <polygon fill="#2C84FA"
+      points="255.875,537.7505,259.875,547.7505,263.875,537.7505,259.875,541.7505"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="259.875" x2="259.875" y1="760.6259"
+      y2="765.6259" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="259.875" x2="343.5" y1="765.6259"
+      y2="765.6259" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="343.5" x2="343.5" y1="765.6259" y2="780.6259" />
+    <polygon fill="#2C84FA" points="339.5,770.6259,343.5,780.6259,347.5,770.6259,343.5,774.6259"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="176.625" x2="176.625" y1="493.7505"
+      y2="513.7505" />
+    <polygon fill="#2C84FA"
+      points="172.625,503.7505,176.625,513.7505,180.625,503.7505,176.625,507.7505"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="213.5" x2="176.625" y1="365.0003"
+      y2="365.0003" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="176.625" x2="176.625" y1="365.0003"
+      y2="388.7502" />
+    <polygon fill="#2C84FA"
+      points="172.625,378.7502,176.625,388.7502,180.625,378.7502,176.625,382.7502"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="473.5" x2="510.375" y1="365.0003"
+      y2="365.0003" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="510.375" x2="510.375" y1="365.0003"
+      y2="388.7502" />
+    <polygon fill="#2C84FA"
+      points="506.375,378.7502,510.375,388.7502,514.375,378.7502,510.375,382.7502"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="343.5" x2="343.5" y1="331.2504" y2="351.2504" />
+    <polygon fill="#2C84FA" points="339.5,341.2504,343.5,351.2504,347.5,341.2504,343.5,345.2504"
+      style="stroke:#2C84FA;stroke-width:1.0;" /><!--MD5=[0350b1899c9b2c0697becf372b104ad1]
+    @startuml "ICE attack"
+title "ICE attack"
+skinparam defaultFontName Oxanium
+skinparam
+    activity {
+  StartColor #0fff50
+  BarColor #2c84fa
+  EndColor #e949f5
+  BorderColor #2c84fa
+    ArrowColor #2c84fa
+  FontName Oxanium
+}
+start
+:Roll ICE dice;
+note right
+hacker's software
+    activation
+endnote 
+:Substract haker's INF
+armor from the roll result;
+
+if (Hacker's HP
+    less than or equal to zero?) then (<color:#f2f230> yes)
+#e949f5 :The hacker cannot move around
+    \vin the network or disconnect;
+else (<color:#f2f230> no)
+ :Subtract the damage points 
+ from
+    the hacker's __actual__ HP;
+ note right
+hacker's software
+activation
+ endnote
+endif
+if
+    (amount of remaining points of damage greater 
+than the hacker's current HP level?) then
+    (<color:#f2f230> yes)
+:subtract the remaining amount of damage points 
+from the hacker's INF;
+    note right
+hacker's software
+activation
+endnote
+:Perform a critical damage test;
+if (Test
+    passed?) then (<color:#f2f230> yes)
+  end
+else (<color:#f2f230> no)
+  :apply all critical
+    damage effects;
+  note right
+  hacker's software
+  activation
+  endnote
+  if (Black ICE)
+    then (<color:#f2f230> yes)
+  :subtract from the hacker's PSY as many 
+  points as were
+    subtracted from INF;
+  endif
+endif
+else (<color:#f2f230> no)
+ end
+endif
+end
+@enduml
+    PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+Java
+    Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+    Language: en
+Country: GB
+-->
+  </g>
+</svg>

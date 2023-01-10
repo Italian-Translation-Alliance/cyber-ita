@@ -1,0 +1,331 @@
+@startuml "PC actions"
+skinparam defaultFontName Oxanium
+skinparam activity {
+  StartColor #0fff50
+  BarColor #2c84fa
+  EndColor #e949f5
+  BorderColor #2c84fa
+  ArrowColor #2c84fa
+  FontName Oxanium
+}
+title "PC actions" 
+start
+:The player specifies what he wants to do;
+if (Is there a risk
+     of a failure?) then (<color:#f2f230>  yes)
+:Request save roll;
+  note right
+   Cybermod 
+   activation
+  endnote
+  if (external circumstances 
+  increasing or
+  reducing the risk?) then (<color:#f2f230> no)
+    :roll 1d20;
+  else (<color:#f2f230> yes)
+   switch (kind of circumstances) 
+   case ( <color:#f2f230> lower risk)
+   :roll 2d20, select **lowest** score;
+   case ( <color:#f2f230> greater risk)
+   :roll 2d20, select **higher** score;
+   endswitch
+  endif 
+  if (A result less than or equal to
+  the current level of ability?) then (<color:#f2f230> yes)
+  #0fff50 :**SUCCESS**;
+  else (<color:#f2f230> no)
+  #ff54ff :**FAILURE**;
+  endif
+else (<color:#f2f230> no)
+#0fff50 :**SUCCESS**;
+endif 
+end
+@enduml
+
+@startuml "Physical combat"
+title "Physical combat"
+skinparam defaultFontName Oxanium
+skinparam activity {
+  StartColor #0fff50
+  BarColor #2c84fa
+  EndColor #e949f5
+  BorderColor #2c84fa
+  ArrowColor #2c84fa
+  FontName Oxanium
+}
+start
+:Start the round;
+if (The player wants to
+    withdraw from the fight?) then (<color:#f2f230> yes)
+:Request BIO test;
+ note left
+   Cybermod 
+   activation
+ endnote
+if (Test passed and the player 
+    has a safe place to run to?) then (<color:#f2f230> yes)
+:Player leaves the combat;
+stop
+else (<color:#f2f230> no)
+:The player remains in the struggle;
+endif
+endif
+if (character may be taken by surprise
+    and wants to act before opponents?) then (<color:#f2f230> yes)
+  :Request BIO test;
+  note left
+   Cybermod 
+   activation
+  endnote
+  if (BIO test passed?) then (<color:#f2f230> yes)
+    :Character acts before opponents;
+  else (<color:#f2f230> no)
+    :All activities in the round
+     take place simultaneously;
+  endif
+else (<color:#f2f230> no)
+  :All activities in the round
+   take place simultaneously;
+endif
+:The character can move;
+:A character can perform an attack or other action;
+if (Attack or action?) then (<color:#f2f230> attack)
+#f2f230 :Skip to attack algorithm;
+else (<color:#f2f230> action)
+  if (the action is risky?) then (<color:#f2f230> yes)
+    :Request proper save roll;
+    note left
+      Cybermod 
+      activation
+    endnote
+    if (Test passed?) then (<color:#f2f230> yes)
+    #0fff50 :**SUCCESS**;
+    else (<color:#f2f230> no)
+    #ff54ff:**FAILURE**;
+    endif
+  else (<color:#f2f230> no)
+    #0fff50 :**SUCCESS**;
+  endif 
+endif
+end
+@enduml
+
+@startuml "Physical attack"
+title "Physical attack"
+skinparam defaultFontName Oxanium
+skinparam activity {
+  StartColor #0fff50
+  BarColor #2c84fa
+  EndColor #e949f5
+  BorderColor #2c84fa
+  ArrowColor #2c84fa
+  FontName Oxanium
+}
+start
+group Determine \nthe amount of\ndamage dice
+:one damage die as a standard;
+if (many attackers?) then (<color:#f2f230> yes)
+:add a die for each attacker;
+else (<color:#f2f230> no)
+endif
+if (dual-weapon attack?) then (<color:#f2f230> yes)
+:add a die for each 
+attacker with a dual weapon;
+else (<color:#f2f230> no)
+endif
+end group
+group Determine \nthe type of\ndamage dice
+:Individually for each attacker;
+if (attack without a defined weapon?) then (<color:#f2f230> yes)
+:1d4;
+else (<color:#f2f230> no)
+:weapon damage dice;
+switch (attack modifier)
+case (<color:#f2f230> weakened position)
+:1d4 or respectively 
+__decreased__ weapon die;
+case (<color:#f2f230> advantage)
+:1d12 or respectively 
+__increased__ weapon die;
+endswitch 
+endif
+end group
+:Make a dice roll;
+note right
+Attacker cybermod activation
+end note
+if (The weapon has a blast feature?) then (<color:#f2f230> yes)
+:repeat the damage roll
+for each character 
+within striking range;
+endif
+:Select the highest score;
+:Substract victim's __actual__  
+ armor value
+ from the roll result;
+if (Opponent's HP less than or equal to zero?) then (<color:#f2f230> no)
+:Subtract the damage points 
+from the __actual__ HP of the opponent;
+note right
+Oponnent's cybermod
+activation
+endnote
+else (<color:#f2f230> yes)
+endif 
+if (number of remaining points of damage greater than zero?) then (<color:#f2f230> yes)
+:subtract the remaining amount of damage points 
+from your opponent's BIO;
+note right
+Oponnent's cybermod
+activation
+endnote
+:Perform a critical damage test;
+if (Test passed?) then (<color:#f2f230> yes)
+  end
+else (<color:#f2f230> no)
+  :apply all critical
+  damage effects;
+  note right
+    Cybermod
+    activation
+  endnote
+endif
+else (<color:#f2f230> no)
+ end
+endif
+end
+@enduml
+
+@startuml "Infosphere attack"
+title "Infosphere attack"
+skinparam defaultFontName Oxanium
+skinparam activity {
+  StartColor #0fff50
+  BarColor #2c84fa
+  EndColor #e949f5
+  BorderColor #2c84fa
+  ArrowColor #2c84fa
+  FontName Oxanium
+}
+start
+group Determine \nthe damage dice
+:Neuroprocessor damage dice as a standard;
+if (multiple attackers?) then (<color:#f2f230> yes)
+:add a die for each attacker;
+else (<color:#f2f230> no)
+endif
+end group
+:Make a dice roll;
+:Select an attacker and 
+remember the result of his dice roll
+(neuroprocessor attack);
+:add the activated 
+software dice;
+note right
+Activation of software
+of the selected attacker
+endnote 
+:perform a roll of additional
+software damage dice 
+and add the result to the result of 
+neuroprocessor attack;
+:Substract the value of
+opponent's INF armor 
+from the roll result;
+note right
+node software
+activation
+endnote
+if (HP of the node less than or equal to zero?) then (<color:#f2f230> yes)
+#0fff50 :take control of the node;
+else (<color:#f2f230> no)
+  :Subtract the damage points 
+  from the __actual__ HP of the node.;
+note right
+node software
+activation
+endnote
+endif
+if (number of remaining points of damage 
+    greater than zero?) then (<color:#f2f230> yes)
+:subtract the remaining amount of 
+damage points from the node's INF;
+note right
+node software
+activation
+endnote
+:Perform a critical damage test;
+if (Test passed?) then (<color:#f2f230> yes)
+  end
+else (<color:#f2f230> no)
+  :apply all critical
+  damage effects;
+  note right
+  node software
+  activation
+  endnote
+endif
+else (<color:#f2f230> no)
+ end
+endif
+end
+@enduml
+
+@startuml "ICE attack"
+title "ICE attack"
+skinparam defaultFontName Oxanium
+skinparam activity {
+  StartColor #0fff50
+  BarColor #2c84fa
+  EndColor #e949f5
+  BorderColor #2c84fa
+  ArrowColor #2c84fa
+  FontName Oxanium
+}
+start
+:Roll ICE dice;
+note right
+hacker's software
+activation
+endnote 
+:Substract haker's INF
+armor from the roll result;
+
+if (Hacker's HP less than or equal to zero?) then (<color:#f2f230> yes)
+#e949f5 :The hacker cannot move around \vin the network or disconnect;
+else (<color:#f2f230> no)
+ :Subtract the damage points 
+ from the hacker's __actual__ HP;
+ note right
+hacker's software
+activation
+ endnote
+endif
+if (amount of remaining points of damage greater 
+than the hacker's current HP level?) then (<color:#f2f230> yes)
+:subtract the remaining amount of damage points 
+from the hacker's INF;
+note right
+hacker's software
+activation
+endnote
+:Perform a critical damage test;
+if (Test passed?) then (<color:#f2f230> yes)
+  end
+else (<color:#f2f230> no)
+  :apply all critical
+   damage effects;
+  note right
+  hacker's software
+  activation
+  endnote
+  if (Black ICE) then (<color:#f2f230> yes)
+  :subtract from the hacker's PSY as many 
+  points as were subtracted from INF;
+  endif
+endif
+else (<color:#f2f230> no)
+ end
+endif
+end
+@enduml

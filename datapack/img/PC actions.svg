@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  contentStyleType="text/css" height="658px" preserveAspectRatio="none"
+  style="width:573px;height:658px;background:transparent;" version="1.1" viewBox="0 0 573 658"
+  width="573px" zoomAndPan="magnify">
+  <defs />
+  <g>
+    <rect fill="none" height="27.4999" id="_title" style="stroke:none;stroke-width:1.0;" width="79"
+      x="245.5" y="15" />
+    <text fill="#000000" font-family="Oxanium" font-size="14" font-weight="bold"
+      lengthAdjust="spacing" textLength="69" x="250.5" y="34.5599">PC actions</text>
+    <ellipse cx="357.375" cy="58.4999" fill="#0FFF50" rx="10" ry="10"
+      style="stroke:#222222;stroke-width:1.0;" />
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="248" x="233.375" y="88.4999" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing"
+      textLength="228" x="243.375" y="110.98">The player specifies what he wants to do</text>
+    <polygon fill="#F1F1F1"
+      points="319.875,143.5,394.875,143.5,406.875,157.2499,394.875,170.9998,319.875,170.9998,307.875,157.2499,319.875,143.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="69"
+      x="319.875" y="154.9399">Is there a risk</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="60"
+      x="334.875" y="168.6898">of a failure?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="289.875" y="154.9399">yes</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="409.875" y="154.9399">no</text>
+    <path
+      d="M245.75,180.9998 L245.75,198.2498 L225.75,202.2498 L245.75,206.2498 L245.75,223.4999 A0,0 0 0 0 245.75,223.4999 L332.75,223.4999 A0,0 0 0 0 332.75,223.4999 L332.75,190.9998 L322.75,180.9998 L245.75,180.9998 A0,0 0 0 0 245.75,180.9998 "
+      fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;" />
+    <path d="M322.75,180.9998 L322.75,190.9998 L332.75,190.9998 L322.75,180.9998 " fill="#FEFFDD"
+      style="stroke:#181818;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="63"
+      x="251.75" y="199.5198">Cybermod</text>
+    <text fill="#000000" font-family="Oxanium" font-size="13" lengthAdjust="spacing" textLength="60"
+      x="251.75" y="215.7699">activation</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="116" x="109.75" y="184.7498" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="96"
+      x="119.75" y="207.2299">Request save roll</text>
+    <polygon fill="#F1F1F1"
+      points="106.75,243.4999,228.75,243.4999,240.75,264.1247,228.75,284.7495,106.75,284.7495,94.75,264.1247,106.75,243.4999"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="119" x="106.75" y="254.9398">external circumstances</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="65"
+      x="112.75" y="268.6897">increasing or</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="90"
+      x="112.75" y="282.4396">reducing the risk?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="82.75" y="261.8147">no</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="243.75" y="261.8147">yes</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="68" x="11" y="294.7495" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="48"
+      x="21" y="317.2296">roll 1d20</text>
+    <polygon fill="#F1F1F1"
+      points="234.5,294.7495,346.5,294.7495,358.5,306.7495,346.5,318.7495,234.5,318.7495,222.5,306.7495,234.5,294.7495"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="112" x="234.5" y="311.3145">kind of circumstances</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="183" x="99" y="356.2493" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="88"
+      x="109" y="378.7294">roll 2d20, select</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" font-weight="bold"
+      lengthAdjust="spacing" textLength="39" x="200" y="378.7294">lowest</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="30"
+      x="242" y="378.7294">score</text>
+    <rect fill="#F1F1F1" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="180" x="302" y="356.2493" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="88"
+      x="312" y="378.7294">roll 2d20, select</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" font-weight="bold"
+      lengthAdjust="spacing" textLength="36" x="403" y="378.7294">higher</text>
+    <text fill="#000000" font-family="Oxanium" font-size="12" lengthAdjust="spacing" textLength="30"
+      x="442" y="378.7294">score</text>
+    <polygon fill="#F1F1F1"
+      points="290.5,401.2494,290.5,401.2494,302.5,413.2494,290.5,425.2494,290.5,425.2494,278.5,413.2494,290.5,401.2494"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <polygon fill="#F1F1F1"
+      points="167.75,431.2494,179.75,443.2494,167.75,455.2494,155.75,443.2494,167.75,431.2494"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <polygon fill="#F1F1F1"
+      points="95.75,475.2494,239.75,475.2494,251.75,488.9993,239.75,502.7492,95.75,502.7492,83.75,488.9993,95.75,475.2494"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="144" x="95.75" y="486.6894">A result less than or equal to</text>
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing"
+      textLength="135" x="101.75" y="500.4393">the current level of ability?</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="18"
+      x="65.75" y="486.6894">yes</text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="12"
+      x="254.75" y="486.6894">no</text>
+    <rect fill="#0FFF50" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="70" x="38.75" y="512.7492" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" font-weight="bold"
+      lengthAdjust="spacing" textLength="50" x="48.75" y="535.2293">SUCCESS</text>
+    <rect fill="#FF54FF" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="69" x="227.25" y="512.7492" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" font-weight="bold"
+      lengthAdjust="spacing" textLength="49" x="237.25" y="535.2293">FAILURE</text>
+    <polygon fill="#F1F1F1"
+      points="167.75,553.7493,179.75,565.7493,167.75,577.7493,155.75,565.7493,167.75,553.7493"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <rect fill="#0FFF50" height="35.0001" rx="12.5" ry="12.5"
+      style="stroke:#2C84FA;stroke-width:0.5;" width="70" x="492" y="180.9998" />
+    <text fill="#000000" font-family="Oxanium" font-size="12" font-weight="bold"
+      lengthAdjust="spacing" textLength="50" x="502" y="203.4799">SUCCESS</text>
+    <polygon fill="#F1F1F1"
+      points="357.375,583.7493,369.375,595.7493,357.375,607.7493,345.375,595.7493,357.375,583.7493"
+      style="stroke:#2C84FA;stroke-width:0.5;" />
+    <ellipse cx="357.375" cy="637.7493" fill="none" rx="10" ry="10"
+      style="stroke:#E949F5;stroke-width:1.5;" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="351.1878" x2="363.5622" y1="631.5622"
+      y2="643.9365" />
+    <line style="stroke:#E949F5;stroke-width:2.5;" x1="363.5622" x2="351.1878" y1="631.5622"
+      y2="643.9365" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="357.375" x2="357.375" y1="68.4999"
+      y2="88.4999" />
+    <polygon fill="#2C84FA" points="353.375,78.4999,357.375,88.4999,361.375,78.4999,357.375,82.4999"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="222.5" x2="190.5" y1="306.7495" y2="306.7495" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="190.5" x2="190.5" y1="306.7495" y2="356.2493" />
+    <polygon fill="#2C84FA" points="186.5,346.2493,190.5,356.2493,194.5,346.2493,190.5,350.2493"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="3"
+      x="190.5" y="336.0644"> </text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="50"
+      x="196.5" y="336.0644">lower risk</text>
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="358.5" x2="392" y1="306.7495" y2="306.7495" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="392" x2="392" y1="306.7495" y2="356.2493" />
+    <polygon fill="#2C84FA" points="388,346.2493,392,356.2493,396,346.2493,392,350.2493"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <text fill="#000000" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="3"
+      x="392" y="336.0644"> </text>
+    <text fill="#F2F230" font-family="Oxanium" font-size="11" lengthAdjust="spacing" textLength="58"
+      x="398" y="336.0644">greater risk</text>
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="190.5" x2="190.5" y1="391.2494" y2="413.2494" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="190.5" x2="278.5" y1="413.2494" y2="413.2494" />
+    <polygon fill="#2C84FA" points="268.5,409.2494,278.5,413.2494,268.5,417.2494,272.5,413.2494"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="392" x2="392" y1="391.2494" y2="413.2494" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="392" x2="302.5" y1="413.2494" y2="413.2494" />
+    <polygon fill="#2C84FA" points="312.5,409.2494,302.5,413.2494,312.5,417.2494,308.5,413.2494"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="94.75" x2="45" y1="264.1247" y2="264.1247" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="45" x2="45" y1="264.1247" y2="294.7495" />
+    <polygon fill="#2C84FA" points="41,284.7495,45,294.7495,49,284.7495,45,288.7495"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="240.75" x2="290.5" y1="264.1247"
+      y2="264.1247" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="290.5" x2="290.5" y1="264.1247" y2="294.7495" />
+    <polygon fill="#2C84FA" points="286.5,284.7495,290.5,294.7495,294.5,284.7495,290.5,288.7495"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="45" x2="45" y1="329.7496" y2="443.2494" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="45" x2="155.75" y1="443.2494" y2="443.2494" />
+    <polygon fill="#2C84FA" points="145.75,439.2494,155.75,443.2494,145.75,447.2494,149.75,443.2494"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="290.5" x2="290.5" y1="425.2494" y2="443.2494" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="290.5" x2="179.75" y1="443.2494"
+      y2="443.2494" />
+    <polygon fill="#2C84FA" points="189.75,439.2494,179.75,443.2494,189.75,447.2494,185.75,443.2494"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="167.75" x2="167.75" y1="219.7499"
+      y2="243.4999" />
+    <polygon fill="#2C84FA" points="163.75,233.4999,167.75,243.4999,171.75,233.4999,167.75,237.4999"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="83.75" x2="73.75" y1="488.9993" y2="488.9993" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="73.75" x2="73.75" y1="488.9993" y2="512.7492" />
+    <polygon fill="#2C84FA" points="69.75,502.7492,73.75,512.7492,77.75,502.7492,73.75,506.7492"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="251.75" x2="261.75" y1="488.9993"
+      y2="488.9993" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="261.75" x2="261.75" y1="488.9993"
+      y2="512.7492" />
+    <polygon fill="#2C84FA" points="257.75,502.7492,261.75,512.7492,265.75,502.7492,261.75,506.7492"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="73.75" x2="73.75" y1="547.7493" y2="565.7493" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="73.75" x2="155.75" y1="565.7493"
+      y2="565.7493" />
+    <polygon fill="#2C84FA" points="145.75,561.7493,155.75,565.7493,145.75,569.7493,149.75,565.7493"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="261.75" x2="261.75" y1="547.7493"
+      y2="565.7493" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="261.75" x2="179.75" y1="565.7493"
+      y2="565.7493" />
+    <polygon fill="#2C84FA" points="189.75,561.7493,179.75,565.7493,189.75,569.7493,185.75,565.7493"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="167.75" x2="167.75" y1="455.2494"
+      y2="475.2494" />
+    <polygon fill="#2C84FA" points="163.75,465.2494,167.75,475.2494,171.75,465.2494,167.75,469.2494"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="307.875" x2="167.75" y1="157.2499"
+      y2="157.2499" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="167.75" x2="167.75" y1="157.2499"
+      y2="184.7498" />
+    <polygon fill="#2C84FA" points="163.75,174.7498,167.75,184.7498,171.75,174.7498,167.75,178.7498"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="406.875" x2="527" y1="157.2499" y2="157.2499" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="527" x2="527" y1="157.2499" y2="180.9998" />
+    <polygon fill="#2C84FA" points="523,170.9998,527,180.9998,531,170.9998,527,174.9998"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="167.75" x2="167.75" y1="577.7493"
+      y2="595.7493" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="167.75" x2="345.375" y1="595.7493"
+      y2="595.7493" />
+    <polygon fill="#2C84FA"
+      points="335.375,591.7493,345.375,595.7493,335.375,599.7493,339.375,595.7493"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="527" x2="527" y1="215.9999" y2="595.7493" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="527" x2="369.375" y1="595.7493" y2="595.7493" />
+    <polygon fill="#2C84FA"
+      points="379.375,591.7493,369.375,595.7493,379.375,599.7493,375.375,595.7493"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="357.375" x2="357.375" y1="123.5" y2="143.5" />
+    <polygon fill="#2C84FA" points="353.375,133.5,357.375,143.5,361.375,133.5,357.375,137.5"
+      style="stroke:#2C84FA;stroke-width:1.0;" />
+    <line style="stroke:#2C84FA;stroke-width:1.0;" x1="357.375" x2="357.375" y1="607.7493"
+      y2="627.7493" />
+    <polygon fill="#2C84FA"
+      points="353.375,617.7493,357.375,627.7493,361.375,617.7493,357.375,621.7493"
+      style="stroke:#2C84FA;stroke-width:1.0;" /><!--MD5=[d4275546e5620969f9ea3cc2dffe45bc]
+    @startuml "PC actions"
+skinparam defaultFontName Oxanium
+skinparam activity {
+  StartColor
+    #0fff50
+  BarColor #2c84fa
+  EndColor #e949f5
+  BorderColor #2c84fa
+  ArrowColor #2c84fa
+    FontName Oxanium
+}
+title "PC actions" 
+start
+:The player specifies what he wants to do;
+if
+    (Is there a risk
+     of a failure?) then (<color:#f2f230>  yes)
+:Request save roll;
+  note
+    right
+   Cybermod 
+   activation
+  endnote
+  if (external circumstances 
+  increasing or
+    reducing the risk?) then (<color:#f2f230> no)
+    :roll 1d20;
+  else (<color:#f2f230> yes)
+    switch (kind of circumstances) 
+   case ( <color:#f2f230> lower risk)
+   :roll 2d20, select
+    **lowest** score;
+   case ( <color:#f2f230> greater risk)
+   :roll 2d20, select **higher**
+    score;
+   endswitch
+  endif 
+  if (A result less than or equal to
+  the current level of
+    ability?) then (<color:#f2f230> yes)
+  #0fff50 :**SUCCESS**;
+  else (<color:#f2f230> no)
+    #ff54ff :**FAILURE**;
+  endif
+else (<color:#f2f230> no)
+#0fff50 :**SUCCESS**;
+endif 
+end
+    @enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 19:01:30 CEST 2022)
+(GPL source distribution)
+    Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding:
+    UTF-8
+Language: en
+Country: GB
+-->
+  </g>
+</svg>
