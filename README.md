@@ -19,4 +19,4 @@ Un sentito ringraziamento a **Scott Forbes** per la correzione di testi in ingle
 
 Il gioco è stato scritto da [Oskar Świda](https://twitter.com/OskarSwida).
 
-La versione PDF è disponibile gratuitamente su [itch.io]()
+<!-- La versione PDF è disponibile gratuitamente su [itch.io]() -->
