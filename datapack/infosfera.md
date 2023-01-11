@@ -28,17 +28,9 @@ nav_order: 2
 
 ## Abilità e caratteristiche di sicurezza
 
-Every Infosphere node has PF, INF abilities and additional parameters related to its security procedures.
-Reducing a node's PF to zero means taking control, reducing INF to zero means destroying data.
-The following table describes the abilities and protection mechanisms for each security class.
-
 Ogni nodo dell'Infosfera ha le abilità PF, INF e parametri aggiuntivi relativi alle sue procedure di sicurezza.
 Riducendo a zero i PF di un nodo se ne prende il controllo, riducendo a zero la INF si distruggono i dati.
 La seguente tabella indica le capacità e i meccanismi di protezione per ogni classe di sicurezza.
-
-- The `PF` and `INF` specify the die to be used to roll the value of the ability (along with the modifier)
-- The `ICE` determines the attack die for the Intrusion Countermeasure Electronics and determines the chance that a given ICE will be black (we roll the Fate Dice, x/6 means that the results from 1 to x give a positive answer).
-- The `Activation Threshold` informs about the maximum value that activates additional protection program in a given round.
 
 - I `PF` e la `INF` specificano il dado da utilizzare per tirare il valore dell'abilità (insieme al modificatore)
 - L'`ICE` determina il dado di attacco per l'Intrusion Countermeasure Electronics e determina la possibilità che un dato ICE sia "black" (tirando il Dado del Fato, x/6 significa che i risultati da 1 a x danno una risposta positiva).
