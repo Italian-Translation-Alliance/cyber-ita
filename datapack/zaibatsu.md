@@ -1,39 +1,38 @@
 ---
 layout: default
 title: Zaibatsu
-parent: Datapacks
+parent: Datapack
 nav_order: 1
 ---
 
 # Zaibatsu
 
-Corporations (referred as “zaibatsu”) are an integral part of the cyberpunk universe. They wield enormous influence and resources. They are able to control politics, the media and determine the living conditions of most people in the world.
-However, they are not all-powerful and their ranks still include ordinary people with their ambitions, fears and needs.
-The Zaibatsu also have enemies – sometimes government institutions, sometimes the military and sometimes market rivals.
+Le corporazioni (indicate come "zaibatsu") sono parte integrante dell'universo cyberpunk. Possiedono enormi risorse e influenza. Sono in grado di controllare la politica, i media e determinare le condizioni di vita della maggior parte delle persone nel mondo.
+Tuttavia, non sono onnipotenti e le loro fila alla fine includono persone comuni con le loro ambizioni, paure e bisogni.
+Le Zaibatsu hanno anche dei nemici, a volte istituzioni governative, a volte militari e a volte rivali di mercato.
+Il generatore presentato di seguito vuole essere un'ispirazione per riempire il tuo mondo di sinistre forze di mercato.
 
-The generator presented below is meant to be an inspiration for filling your world with sinister market forces.
+[Versione online](https://oswida.github.io/cyber/app/dist/#/gen?lang=it&mode=Corporation)
 
-[Online version](https://oswida.github.io/cyber/app/dist/#/gen?lang=en&mode=Corporation)
+## Procedura
 
-## Procedure
+Tira o seleziona:
 
-Roll or select:
+- La prima parte del nome (d20+d20)
+- La seconda parte del nome (d20+d20)
+- Uno o più settori dell'industria in cui opera la corporazione (prestare attenzione alla seconda parte del nome ed eventualmente completare con il settore corrispondente) (d20+d20)
+- Almeno una diceria sulla corporazione che viene generata (può essere vera o no) (d20+d20)
+- Una o più risorse e uno o più obiettivi della corporazione (d20)
+- Un profilo dipendente se desideri specificarne uno (d20)
 
-- The first part of the name (d20+d20)
-- Second part of the name (d20+d20)
-- One or more industry sectors in which the corporation operates (pay attention to the second part of the name and complete with the matching industry if necessary) (d20+d20)
-- At least one rumour about the corporation being generated (may be true or not) (d20+d20)
-- One or more resources and one or more objectives of the corporation (d20)
-- An employee profile if you wish to specify one (d20)
+## Tiro d20+d20
 
-## Roll d20+d20
+Un tiro contrassegnato come d20+d20 vuol dire tirare due dadi d20, determinando per prima la colonna e quindi la riga corrispondente.
+Questo tiro sostituisce quello con un dado a più facce (es. d100) e allo stesso tempo permette di pescare da una riserva che è un multiplo di venti: 40, 60, 80 o 120.
 
-A roll marked as d20+d20 means that we roll two d20 dice, but the first value is used to determine the column (group) and the second value is used to determine the position in the group.
-This roll replaces the roll with a dice of more faces (e.g. d100) and at the same time allows you to draw from a pool that is a multiple of twenty: 40, 60, 80 or 120.
+## Prima parte del nome (d20 + d20)
 
-## First part of the name (d20 + d20)
-
-The first roll selects the column, the second selects the position in the column.
+Il primo tiro seleziona la colonna, il secondo seleziona la posizione nella colonna.
 
 | d20 | `(1-3)` | `(4-6)` | `(7-10)`             | `(11-14)`      | `(15-17)`     | `(18-20)`     |
 | --- | ------- | ------- | -------------------- | -------------- | ------------- | ------------- |
@@ -58,9 +57,9 @@ The first roll selects the column, the second selects the position in the column
 | 19  | Chandra | Vector  | Cooper               | Kojima-Kazumi  | Lian Xiuying  | Networked     |
 | 20  | Mitra   | Prime   | Morgan-Walsh         | Senri          | Zhu Da        | Industrial    |
 
-## Second part of the name (d20 + d20)
+## Seconda parte del nome (d20 + d20)
 
-The first roll selects the column, the second selects the position in the column.
+Il primo tiro seleziona la colonna, il secondo seleziona la posizione nella colonna.
 
 | d20 | `(1-7)`       | `(8-14)`      | `(15-20)`      |
 | --- | ------------- | ------------- | -------------- |
@@ -85,177 +84,177 @@ The first roll selects the column, the second selects the position in the column
 | 19  | Digital       | Machines      | Technologies   |
 | 20  | Electric      | Management    | Transportation |
 
-## Industry sector (d20 + d20)
+## Settore industriale (d20 + d20)
 
-The first roll selects the group, the second selects the position in the group.
-Next to each industry, there are examples of products that may appear in zaibatsu's offerings.
+Il primo tiro seleziona il gruppo, il secondo seleziona la posizione nel gruppo.
+Accanto a ciascun settore, ci sono esempi di prodotti che possono apparire nelle offerte della Zaibatsu.
 
-### Industry dependent on the name
+### Il settore dipende dal nome
 
-The names of the corporations in most cases have an English origins. This is an intentional effect related to classic games and mainstream literature.
-If you decide to use the generator, please note that the second part of the name often also reflects the industry in which the company operates ("software" probably suggests software development and "chemicals" the chemical industry).
-It is worth taking these relationships into account when creating the ”zaibatsu”.
+I nomi delle corporazioni nella maggior parte dei casi hanno origini inglesi. Questo è un effetto intenzionale legato ai giochi classici e alla letteratura mainstream.
+Se decidi di utilizzare il generatore, tieni presente che la seconda parte del nome spesso riflette anche il settore in cui opera l'azienda ("software" suggerisce probabilmente lo sviluppo di software e "chemicals" l'industria chimica).
+Vale la pena tenere conto di queste relazioni quando si crea la "Zaibatsu".
 
-### Multiple sectors for one company
+### Più settori per una sola azienda
 
-When creating corporations, you can choose more than one industry for the company.
-Sometimes selected industries may seem too far apart from each other such as "agriculture" and "financial services". However, there is no contradiction in this. As powerful organisations focused on maximum profit and efficient market operation, corporations often expand their activities.
-This gives them additional income and protects them from sudden market fluctuations within a single industry.
+Quando si creano corporazioni, è possibile scegliere più di un settore per l'azienda.
+A volte settori selezionati possono sembrare troppo distanti l'uno dall'altro, come "agricoltura" e "servizi finanziari". Tuttavia, non c'è contraddizione in questo. In quanto potenti organizzazioni focalizzate sul massimo profitto e su un efficiente funzionamento del mercato, le società spesso espandono le loro attività.
+Questo dà loro un reddito aggiuntivo e li protegge da improvvise fluttuazioni del mercato all'interno di un singolo settore.
 
 ### 1 - 10
 
-1. **Research & Development**: AI for data retrieval and analysis, neuroprocessors and hardware for writing/reading human memory, AI for encrypting and compressing data.
-2. **Security**: integrated security, sensor networks, alarm devices, guard services.
-3. **Biotechnology**: new types of food, hormones, stimulants, bioweapons.
-4. **Weapons and ammunition**: firearms reliable in all conditions, genetically branded weapons, smart ammunition.
-5. **Construction**: shelters, fully automated hotels and homes, smart buildings.
-6. **Cybertechnology**: all kinds of cybermodifications (implants), calibration and diagnostic equipment for cybermods.
-7. **Education**: various types of training, educational software, games.
-8. **Electronics**: various consumer electronic equipment.
-9. **Power Engineering**: energy generators, batteries, power supplies.
-10. **Genetics**: custom genetic modifications, insect-based combat mutants, cloning services for non-human living organisms.
-11. **Mining**: Miniature explosives, autonomous mining robots, physique enhancing cybermodifications, natural resource extraction.
-12. **Computer games**: development and maintenance of personal achievements in online games, personalised learning
-games for employees, tactical games.
-13. **Media**: entertainment shows, news, reports, public opinion shaping.
-14. **Nanotechnology**: medical & manufacturing nanobots, spy gear.
-15. **Software Development**: firewalls & software to protect Infosphere nodes, application software, hacking software.
-16. **Chemical industry**: combat chemicals, chemical protection agents, household chemicals.
-17. **Pharmaceutical industry**: drugs, stimulants, cosmetics.
-18. **Computer industry**: cyberdecks and computer peripherals, hackers for hire.
-19. **Space industry**: orbital stations, stratospheric shuttles, robust materials, life support systems.
-20. **Aviation industry**: aircraft, helicopters, hovercraft, navigation systems, drones.
+1. **Ricerca e Sviluppo**: IA per il recupero e l'analisi dei dati, neuroprocessori e hardware per la scrittura/lettura della memoria umana, IA per la crittografia e la compressione dei dati.
+2. **Sicurezza**: sicurezza integrata, reti di sensori, dispositivi di allarme, servizi di vigilanza.
+3. **Biotecnologia**: nuovi tipi di alimenti, ormoni, stimolanti, armi biologiche.
+4. **Armi e munizioni**: armi da fuoco affidabili in tutte le condizioni, armi con firma genetica, munizioni intelligenti.
+5. **Costruzioni**: rifugi, hotel e case completamente automatizzati, edifici intelligenti.
+6. **Cybertecnologia**: tutti i tipi di cybermodifiche (impianti), apparecchiature di calibrazione e diagnostica per cybermod.
+7. **Educazione**: vari tipi di formazione, software educativo, giochi.
+8. **Elettronica**: varie apparecchiature elettroniche di consumo.
+9. **Ingegneria Energetica**: generatori di energia, batterie, alimentatori.
+10. **Genetica**: modifiche genetiche personalizzate, mutanti da combattimento basati su insetti, servizi di clonazione per organismi viventi non umani.
+11. **Estrazione**: Esplosivi in ​​miniatura, robot minerari autonomi, modifiche informatiche che migliorano il fisico, estrazione di risorse naturali.
+12. **Giochi per computer**: sviluppo e mantenimento dei risultati personali nei giochi online, apprendimento personalizzato
+giochi per dipendenti, giochi tattici.
+13. **Media**: spettacoli di intrattenimento, notizie, rapporti, formazione dell'opinione pubblica.
+14. **Nanotecnologia**: nanobot medici e di produzione, equipaggiamento da spia.
+15. **Sviluppo software**: firewall e software per proteggere i nodi Infosphere, software applicativo, software di hacking.
+16. **Industria chimica**: prodotti chimici da combattimento, agenti di protezione chimica, prodotti chimici per la casa.
+17. **Industria farmaceutica**: farmaci, stimolanti, cosmetici.
+18. **Industria informatica**: cyberdeck e periferiche per computer, hacker a noleggio.
+19. **Industria spaziale**: stazioni orbitali, navette stratosferiche, materiali robusti, sistemi di supporto vitale.
+20. **Industria aeronautica**: aerei, elicotteri, hovercraft, sistemi di navigazione, droni.
 
 ### 11 - 20
 
-1. **Machinery industry**: mechanical machinery, industrial robots, metallurgy and metalworking.
-2. **Maritime industry**: marine resource exploitation, marine vehicles, exploration of the seas and oceans.
-3. **Clothing industry**: casual clothing, protective clothing, body armour.
-4. **Precision industry**: laboratory equipment, instruments, tools.
-5. **Automotive industry**: ground vehicles, parts, armour and vehicle mounted weapons.
-6. **Food industry**: Food, stimulants, drugs; hermetic, indestructible packaging.
-7. **Psychotechnology**: psychological support, personal development techniques, religious organisations, mental training.
-8. **Robotics**: robots of all kinds, drones, androids for childcare or household management.
-9. **Agriculture**: genetically modified animals with implants, specialised plants.
-10. **Entertainment**: organisation of sports events, music events, outdoor games, rallies, casinos, raffles; recorders and sensory experience simulators.
-11. **Telecommunications**: eavesdropping equipment, telecom access equipment, infosphere infrastructure devices, jammers, neuroprocessors.
-12. **Financial services**: loans, debt recovery, lotteries, accounting systems.
-13. **Information services**: intelligence, investigation services, search and information spoofing in the Infosphere.
-14. **Municipal services**: cleansing, & cleaning, public transport, ground traffic control systems.
-15. **Courier services**: package delivery, secure storage and delivery of messages or documents, anonymous lockers.
-16. **Healthcare services**: hospital treatment and emergency services, medical equipment, emergency vehicles.
-17. **Military services**: troops rental and training, rental of military equipment, weapons and combat vehicles.
-18. **Legal services**: SI liberation procedures, lawsuits and litigation support, intercultural communication, negotiations, implementation of the client's ”last will”.
-19. **Transportation services**: Automated transport vehicles, transport of materials and persons (also dangerous), massive distribution (leaflets, vaccines)).
-20. **Waste disposal**: environmental protective suits, antimutagenic and antiradiation drugs, harmful substance detection systems (poisons, biological viruses), waste disposal services.
+1. **Industria meccanica**: macchinari meccanici, robot industriali, metallurgia e lavorazione dei metalli.
+2. **Industria marittima**: sfruttamento delle risorse marine, veicoli marini, esplorazione dei mari e degli oceani.
+3. **Industria dell'abbigliamento**: abbigliamento casual, indumenti protettivi, giubbotti antiproiettile.
+4. **Industria di precisione**: apparecchiature di laboratorio, strumenti, utensili.
+5. **Industria automobilistica**: veicoli terrestri, parti, armature e armi montate su veicoli.
+6. **Industria alimentare**: alimenti, stimolanti, farmaci; confezione ermetica, indistruttibile.
+7. **Psicotecnologie**: sostegno psicologico, tecniche di sviluppo personale, organizzazioni religiose, training mentale.
+8. **Robotica**: robot di ogni tipo, droni, androidi per la cura dei bambini o la gestione della casa.
+9. **Agricoltura**: animali geneticamente modificati con impianti, piante specializzate.
+10. **Intrattenimento**: organizzazione di eventi sportivi, eventi musicali, giochi all'aperto, raduni, casinò, lotterie; registratori e simulatori di esperienze sensoriali.
+11. **Telecomunicazioni**: apparecchiature per l'intercettazione, apparecchiature per l'accesso alle telecomunicazioni, dispositivi per l'infrastruttura dell'infosfera, jammer, neuroprocessori.
+12. **Servizi finanziari**: prestiti, recupero crediti, lotterie, sistemi contabili.
+13. **Servizi di informazione**: intelligence, servizi di investigazione, ricerca e spoofing di informazioni nell'infosfera.
+14. **Servizi comunali**: pulizia e pulizia, trasporto pubblico, sistemi di controllo del traffico a terra.
+15. **Servizi di corriere**: consegna pacchi, custodia e consegna sicura di messaggi o documenti, armadietti anonimi.
+16. **Servizi sanitari**: cure ospedaliere e servizi di emergenza, attrezzature mediche, veicoli di emergenza.
+17. **Servizi militari**: noleggio e addestramento di truppe, noleggio di equipaggiamento militare, armi e veicoli da combattimento.
+18. **Servizi legali**: procedure di liberazione SI, azioni legali e supporto contenzioso, comunicazione interculturale, negoziazioni, esecuzione dell'”ultima volontà” del cliente.
+19. **Servizi di trasporto**: Mezzi di trasporto automatizzati, trasporto di materiali e persone (anche pericolose), distribuzione massiva (volantini, vaccini)).
+20. **Smaltimento rifiuti**: tute di protezione ambientale, farmaci antimutageni e antiradiazioni, sistemi di rilevazione sostanze nocive (veleni, virus biologici), servizi di smaltimento rifiuti.
 
-## Rumour (d20 + d20)
+## Dicerie (d20 + d20)
 
-The first roll selects the column, the second selects the position in the column.
+Il primo lancio seleziona la colonna, il secondo seleziona la posizione nella colonna.
 
-| d20 | `(1-10)`                                                                     | `(11-20)`                                                                                           |
-| --- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 1   | They have developed a way to extend human life                               | They have secretly made contact with an alien civilisation                                          |
-| 2   | They developed an advanced AI with a consciousness                           | They secretly dump production waste in poorer neighbourhoods                                        |
-| 3   | They are developing a plan to seize administrative power                     | Their official activities are a cover for the narcobusiness                                         |
-| 4   | They are installing consumer tracking equipment in their products            | They harbour and support various ecoterrorist groups                                                |
-| 5   | They are conducting experiments on unaware employees                         | They maintain groups of hackers who regularly attack the Infosphere                                 |
-| 6   | They are able to eavesdrop and analyse any data transmission                 | All their employees are brainwashed fanatics                                                        |
-| 7   | They have developed a virus capable of destroying the entire Infosphere      | They massively buy up all available art and antiques                                                |
-| 8   | They can use an unknown biological weapon in an emergency case               | No reliable information about them can be found anywhere                                            |
-| 9   | They have the ability to transfer any knowledge directly into the human mind | They have carried out tests of tactical nuclear weapons in inhabited areas                          |
-| 10  | They run a programme of breeding, genetically modified beasts                | They have tested chemical weapons in poorer districts of the city                                   |
-| 11  | They plan a hostile takeover of other corporations from their market sector  | Their official activities are a cover for human organ trafficking                                   |
-| 12  | They have bred clones of famous politicians and switched some of them        | Their employees are planning a bloody rebellion and want to destroy the corporation from within     |
-| 13  | They are in possession of a mineral that can replace all known fuels         | Their insane management is planning a worldwide apocalypse                                          |
-| 14  | They have developed a miniaturised, personalised EMP weapon                  | The corporation is a religious cult                                                                 |
-| 15  | They have software which boradcasts subliminal messages in their advertising | They have discovered traces of an ancient civilisation & unknown technology                         |
-| 16  | They hide the fact of the genocide in one of their own arcologies            | The corporation is run by an AI but the staff or board knows nothing about it                       |
-| 17  | Most of their employees are androids pretending humans                       | The corporation's board of directors is dead and a group of mercenaries are impersonating them      |
-| 18  | They use the bodies of their dead employees for experimentation              | Employees' minds, after their death, are uploaded to a secret corporate database                    |
-| 19  | They built a secret base on the moon                                         | They have developed nanotechnology that allows them to produce anything out of any available matter |
-| 20  | They are responsible for a series of epidemics in various parts of the world | They have developed the technology to remotely control the human mind                               |
+| d20 | `(1-10)`                                                                             | `(11-20)`                                                                                                        |
+| --- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| 1   | Hanno sviluppato un modo per prolungare la vita umana                                | Hanno segretamente preso contatto con una civiltà aliena                                                         |
+| 2   | Hanno sviluppato un'intelligenza artificiale avanzata con una coscienza              | Scaricano segretamente gli scarti di produzione nei quartieri più poveri                                         |
+| 3   | Stanno sviluppando un piano per impadronirsi del potere amministrativo               | Le loro attività ufficiali sono una copertura per il narcotraffico                                               |
+| 4   | Stanno installando apparecchiature di tracciamento dei consumatori nei loro prodotti | Ospitano e supportano vari gruppi di ecoterroristi                                                               |
+| 5   | Stanno conducendo esperimenti su dipendenti ignari                                   | Mantengono gruppi di hacker che attaccano regolarmente l'Infosfera                                               |
+| 6   | Sono in grado di intercettare e analizzare qualsiasi trasmissione di dati            | Tutti i loro dipendenti sono fanatici del lavaggio del cervello                                                  |
+| 7   | Hanno sviluppato un virus in grado di distruggere l'intera Infosfera                 | Acquistano massicciamente tutta l'arte e l'antiquariato disponibili                                              |
+| 8   | Possono usare un'arma biologica sconosciuta in caso di emergenza                     | Nessuna informazione affidabile su di loro può essere trovata da nessuna parte                                   |
+| 9   | Hanno la capacità di trasferire qualsiasi conoscenza direttamente nella mente umana  | Hanno effettuato test di armi nucleari tattiche in aree abitate                                                  |
+| 10  | Gestiscono un programma di allevamento di bestie geneticamente modificate            | Hanno testato armi chimiche nei quartieri più poveri della città                                                 |
+| 11  | Progettano un'acquisizione ostile di altre società del loro settore di mercato       | Le loro attività ufficiali sono una copertura per il traffico di organi umani                                    |
+| 12  | Hanno allevato cloni di politici famosi e ne hanno scambiati alcuni                  | I loro dipendenti stanno pianificando una sanguinosa ribellione e vogliono distruggere la società dall'interno   |
+| 13  | Sono in possesso di un minerale che può sostituire tutti i combustibili conosciuti   | La loro folle gestione sta pianificando un'apocalisse mondiale                                                   |
+| 14  | Hanno sviluppato un'arma EMP miniaturizzata e personalizzata                         | La corporazione è un culto religioso                                                                             |
+| 15  | Hanno un software che trasmette messaggi subliminali nella loro pubblicità           | Hanno scoperto tracce di un'antica civiltà e di una tecnologia sconosciuta                                       |
+| 16  | Nascondono il fatto del genocidio in una delle loro arcologie                        | La società è gestita da un'intelligenza artificiale ma lo staff o il consiglio non ne sanno nulla                |
+| 17  | La maggior parte dei loro dipendenti sono androidi che fingono umani                 | Il consiglio di amministrazione della società è morto e un gruppo di mercenari li sta impersonando               |
+| 18  | Usano i corpi dei loro dipendenti morti per la sperimentazione                       | Le menti dei dipendenti, dopo la loro morte, vengono caricate in un database aziendale segreto                   |
+| 19  | Hanno costruito una base segreta sulla luna                                          | Hanno sviluppato la nanotecnologia che consente loro di produrre qualsiasi cosa da qualsiasi materia disponibile |
+| 20  | Sono responsabili di una serie di epidemie in varie parti del mondo                  | Hanno sviluppato la tecnologia per controllare a distanza la mente umana                                         |
+
+## Risorse (d20)
+
+Accanto a ogni voce viene fornito un esempio dei vantaggi di ciascuna risorsa.
+
+1. **Risorse tecnologiche**: accesso agli ultimi sviluppi tecnologici
+2. **Risorse finanziarie**: contanti e credito illimitati
+3. **Contatti militari**: permessi a strutture militari, contatti con il comando, equipaggiamenti militari
+4. **Influenza nei gruppi di hacker**: accesso a qualsiasi informazione sulla rete, raccolta di dati, hacking dei nodi dell'infosfera.
+5. **Credibilità mediatica**: capacità di comunicare qualsiasi informazione al pubblico, acquisizione di qualsiasi informazione
+6. **Fiducia della gente comune**: capacità di provocare rivolte e manifestazioni, controllo della folla, diffusione di voci
+7. **Contatti contrabbandieri**: accesso a prodotti illeciti, occultamento di persone e cose, contrabbando
+8. **Controllo delle bande cittadine**: accesso a prodotti e servizi illegali, rapina, furto con scasso, sequestro di persona
+9. **Influenza nelle istituzioni governative**: lasciapassare, identità false, accesso a informazioni non pubbliche
+10. **Laboratori scientifici**: diagnostica, analisi dei dati, dati e tecnologia in qualsiasi campo della scienza
+11. **Controllo del traffico di droga**: stimolanti illegali, rete di spacciatori, canali segreti per il contrabbando di merci e persone
+12. **Controllo dei media**: capacità di manipolare la copertura mediatica, accesso a informazioni compromettenti (politici, personaggi pubblici)
+13. **Controllo sulla polizia e sui servizi municipali**: accesso ai sistemi di polizia, supporto della polizia, impunità legale
+14. **Influenza nelle sette religiose**: capacità di provocare rivolte e manifestazioni, accesso a prodotti illegali, capacità di manipolare le comunità religiose
+15. **Capacità di intelligence**: accesso a qualsiasi informazione, monitoraggio, rilevamento, insabbiamento degli incidenti
+16. **Contatti tra corridori**: capacità di assumere un gruppo per un'attività, informazioni utili per il lavoro, luoghi sicuri
+17. **Influenza tra i trafficanti d'armi**: facile accesso ad armi di qualsiasi tipo
+18. **Risorse biotecnologiche**: modificazioni genetiche, mutazioni, clonazione, trattamenti illegali, veleni, stimolanti
+19. **Risorse paesaggistiche**: locali e terreni in affitto o in uso
+20. **Controllo dell'industria dell'intrattenimento**: contatti nei locali notturni, reti di informatori, dati sui debitori, organizzazione di eventi e concorsi gratuiti, controllo del gioco d'azzardo
+
+### Obiettivi (d20)
+
+Esempi di come raggiungere ciascun obiettivo sono forniti accanto a ciascuna voce e possono consistere in più di un'attività. Gli obiettivi della corporazione possono essere utilizzati come potenziali compiti per i giocatori o elementi del mondo con cui i giocatori dovranno confrontarsi (ad esempio, contrastando il raggiungimento di un determinato obiettivo).
+
+1. Danneggiamento della concorrenza (distruzione di attrezzature, sito o abbattimento, trasferimento di dipendenti)
+2. Screditare pubblicamente la concorrenza (scandalo nei media o nell'arena politica)
+3. Assumere il controllo di un dominio pubblico a scelta (trasporti, finanziamento municipale, servizi municipali)
+4. Massimizzare i profitti delle vendite (vincere un contratto, pubblicità gratuita del prodotto)
+5. Rubare i dati della concorrenza (documentazione del prodotto, record personali)
+6. Screditare un noto politico (per ottenere influenza politica o come atto di vendetta)
+7. Costringere o convincere un noto personaggio pubblico a firmare un contratto
+8. Rivelare irregolarità nelle istituzioni governative (piano per limitare i diritti dei cittadini, corruzione, attività illegali dei funzionari)
+9. Impedire la divulgazione di verità scomode su una società (attività illegali, esperimenti)
+10. Rileva ed elimina i traditori all'interno della società
+11. Rintracciare e recuperare un dipendente fuggito (stimato scienziato; qualcuno della famiglia del consiglio di amministrazione; persona che ha rubato informazioni)
+12. Acquisisci un dipendente di un concorrente
+13. Metti la tua spia nel consiglio di amministrazione dei tuoi concorrenti
+14. Testare l'ultimo prodotto direttamente sui cittadini (chimico, cibo, stimolante, armi)
+15. Introdurre sul mercato un prodotto pericoloso (stimolante con effetti collaterali, tecnologia informatica fallimentare)
+16. Prevenire un disastro causato da esperimenti aziendali (ambientali, sociali)
+17. Indurre un disastro controllato (epidemia per introdurre un vaccino, contaminazione per vendere misure protettive)
+18. Contenere con discrezione un disastro incontrollabile all'interno dell'azienda (epidemia di virus tra i dipendenti, guasto della rete di computer interna)
+19. Recuperare i dati rubati (documentazione tecnica del prodotto, record personali)
+20. Sbarazzarsi discretamente di un membro scomodo della propria gestione (scandalo pubblico, rapimento, prove fabbricate di un crimine)
+
+### Un favore per un favore
+
+Un semplice concetto di cooperazione tra giocatori e corporazione. Se le azioni dei giocatori durante la sessione hanno contribuito a qualsiasi obiettivo di una corporazione, l'arbitro contrassegna un punto di credibilità (punto, simbolo o altro) accanto a tale corporazione. Ogni punto di credibilità può essere utilizzato una volta per accedere a una delle risorse della corporazione. L'assistenza nella realizzazione di un obiettivo può essere palese (esecuzione di uno o più compiti) o casuale (le azioni di giocatori inconsapevoli coincidono con gli obiettivi della Zaibatsu).
 
 
-## Resources (d20)
+## Profilo del dipendente (d20)
 
-An example of the benefits of each resource is given next to every entry.
+Durante il corso del gioco, i protagonisti sono destinati a entrare in contatto con i dipendenti della Zaibatsu. E potrebbero persino voler condurre un gioco in cui sono in grado di entrare nella realtà aziendale, almeno per un po'.
+Per dare ad ogni azienda una certa connotazione, puoi definire un profilo dei suoi dipendenti.
+I rappresentanti di una determinata Zaibatsu non sono tutti uguali, ma appartengono a una comunità in cui determinati modelli comportamentali sono accettati e persino resi popolari dal management aziendale.
 
-1. **Technological resources**: access to the latest technological developments
-2. **Financial resources**: unlimited cash and credit
-3. **Military contacts**: permits to military facilities, contact with the command, military equipment
-4. **Influence in hacker groups**: access to any information on the network, data gathering, Infosphere nodes hacking.
-5. **Media credibility**: ability to communicate any information to the public, acquisition of any information
-6. **Trust of ordinary people**: ability to cause riots and demonstrations, crowd control, spreading rumours
-7. **Smuggler contacts**: access to illegal products, concealment of people and things, smuggling
-8. **Control of city gangs**: access to illegal products and services, robbery, burglary, kidnapping
-9. **Influence in government institutions**: passes, false identities, access to non-public information
-10. **Scientific laboratories**: diagnostics, data analysis, data and technology in any field of science
-11. **Drug trafficking control**: illegal stimulants, network of drug dealers, secret channels for smuggling goods and people
-12. **Media control**: ability to manipulate media coverage, access to compromising information (politicians, public figures)
-13. **Control over police and municipal services**: access to police systems, police support , legal impunity
-14. **Influence in religious sects**: ability to cause riots and demonstrations, access to illegal products, ability to manipulate religious communities
-15. **Intelligence capabilities**: access to any information, tracking, detection, cover-up of incidents
-16. **Contacts among runners**: ability to hire a group for a task, useful information for the job, safe locations
-17. **Influence among arms dealers**: easy access to weapons of any kind
-18. **Biotechnology resources**: genetic modifications, mutations, cloning, illegal treatments, poisons, stimulants
-19. **Landscape resources**: premises and land for rent or use
-20. **Entertainment industry control**: contacts in night clubs, informator networks, debtor data, organisation of free events and competitions, gambling control
+Le proposte presentate di seguito sono forme di comportamento sviluppate dalle comunità aziendali, andando così oltre la mera fedeltà dei dipendenti all'azienda.
 
-### Objectives (d20)
-
-Examples of how to achieve each objective are given next to each entry, and may consist of more than one activity. Corporation objectives can be used as potential tasks for players or elements of the world that players will have to deal with (for example, by counteracting the achievement of a given objective).
-
-1. Damage the competition (destruction of equipment, site or killing, transfer of employees)
-2. Discredit the competition publicly (scandal in the media or political arena)
-3. Take control of a selected public domain (transport, municipal financing, municipal services)
-4. Maximise sales profits (winning a contract, free product advertising)
-5. Steal competitor data (product documentation, personal records)
-6. Discredit a well-known politician (to gain political influence or as an act of a revenge)
-7. Force or persuade a well-known public figure to sign a contract 
-8. Reveal irregularities in government institutions (plan to restrict citizens' rights, bribery, illegal activities of officials)
-9. Prevent the disclosure of inconvenient truths about a corporation (illegal activities, experiments)
-10. Detect and eliminate traitors inside the corporation
-11. Track down and recover an escaped employee (valued scientist; someone from the board of directors' family; person who stole information)
-12. Acquire a competitor's employee
-13. Put your spy on the management board of your competitors
-14. Test the latest product directly on citizens (chemical, food, stimulant, weapons)
-15. Introduce dangerous product into the market (stimulant with side-effects, failing cybertechnology)
-16. Prevent a disaster caused by corporate experiments (environmental, social)
-17. Induce a controlled disaster (epidemic to introduce a vaccine, contamination to sell protective measures)
-18. Discreetly contain an uncontrollable disaster within the corporation (virus outbreak among employees, internal computer network failure)
-19. Recover stolen data (technical product documentation, personal records)
-20. Discreetly get rid of an inconvenient member of your own management (public scandal, kidnapping, fabricated evidence of a crime)
-
-### A favour for a favour
-
-A simple concept of cooperation between players and corporations If the players' actions during the session have contributed to any goal of a corporation, the referee marks a credibility point (dot, symbol or whatever) next to that corporation. Each credibility point can be used once to access one of the corporation's resources. Assistance in the realisation of an objective can be overt (execution of one or more tasks) or coincidental (the actions of unwitting players coincide with the goals of the zaibatsu).
-
-## Employee Profile (d20)
-
-During the course of the game, the protagonists are bound to come into contact with zaibatsu employees. And they may even want to run a game in which they are able to navigate the corporate reality, at least for a while. 
-In order to give each corporation a certain characteristic, you can define a profile of its employees.
-Representatives of a given zaibatsu are not all the same, but belong to a community in which certain behavioural patterns are accepted and even popularised by corporate management.
-
-The proposals presented below are forms of behaviour developed by corporate communities - thus going beyond mere employee loyalty to the corporation.
-
-1. **Personal honour and sense of duty**: I'm making my own decisions and take responsibility for them; one of those decisions was to work for the corporation; I am not a slave and the corporation is not my master.
-2. **The common good (of the corporation) is the highest value**: the people who employ me know better and it is my job to carry out their plans as carefully as possible.
-3. **What you can't see does not exist and everyone has many faces**: I firmly deny these heinous slanders, the person on the recording is probably a fake clone or the recording itself has been tampered with.
-4. **A good servant must have good wages**: should I go into this hole? no way, I don't earn that much here.
-5. **One big family**: next week we are celebrating the birthday of the head of the department, my daughter has prepared a poem for the occasion.
-6. **It's just a job, nothing personal**: I do what I do, everyone has a job to do so why the fuss?
-7. **Only the best reach the top**: I'm only 20 points short of entering the promotion zone. At this rate, I'll be a department manager by the end of the year.
-8. **What you gain with your own hands is yours**: so what if Anna was better than me? She missed out, made a mistake and I seized the opportunity. Life.
-9. **The less you can be seen, the safer**: It's better not to send this letter, someone might see, tell someone and we'll be in trouble. Who needs this?
-10. **Success is achieved with patience**: Your grandfather started as a simple factory worker, I am already working as a foreman. If you keep this up, maybe you will make it to the head of the department.
-11. **The day of retribution will come**: yes, now we have to do what we are told, somehow we have to survive, but one day we will rise up and then blood will be spilled.
-12. **Everyone can have their profit**: the company earns and I earn too, and if the company earns more I can have more too, thus simple.
-13. **We consciously and responsibly create a better world**: these apocalyptic visions are exaggerated, corporations are a natural step in evolution. We understand this and we participate in the process of building the future. If you have a better alternative, we invite you to discuss it.
-14. **A place for everyone, everyone in their place**: everyone wants to feel needed and not everyone has the same opportunities, thanks to this work there are no disregarded or unappreciated people among us.
-15. **If one doesn't have what one like...**: one likes what one has. Don't complain, it could be worse.
-16. **United by a common enemy**: it may not be perfect with us but with them, it's a mess. We need to eradicate this abomination.
-17. **Common vision**: you can laugh, you can doubt and you can ooze the poison of betrayal. When the great day comes you will see that we were on the right side. And everyone will thank us.
-18. **We are better than others**: our specialists are the best, our methods the most effective. Being a member of this community is an honour and an ennoblement. We do not socialise with the motley crowd.
-19. **Clearly established rules**: the rules are known and everyone follows them, what's so strange about that? Would you prefer complete chaos and unfair games?
-20. **Let's talk about it**: talking, talking and more talking. Everyone can be talked to and everyone can be convinced ... or at least develop some kind of consensus. The worst thing is when people whisper in corners.
+1. **Onore personale e senso del dovere**: prendo le mie decisioni e me ne assumo la responsabilità; una di quelle decisioni era quella di lavorare per la società; Non sono uno schiavo e la corporazione non è il mio padrone.
+2. **Il bene comune (dell'azienda) è il valore più alto**: le persone che mi assumono sanno cosa è meglio ed è mio compito portare a termine i loro piani il più attentamente possibile.
+3. **Quello che non si vede non esiste e tutti hanno molte facce**: Smentisco fermamente queste odiose calunnie, la persona nella registrazione è probabilmente un clone o la registrazione stessa è stata manomessa.
+4. **Un buon servitore deve avere una buona paga**: devo entrare in questo buco? assolutamente no, non guadagno così tanto qui.
+5. **Una grande famiglia**: la prossima settimana festeggeremo il compleanno del capo dipartimento, mia figlia ha preparato una poesia per l'occasione.
+6. **È solo un lavoro, niente di personale**: faccio quello che faccio, tutti hanno un lavoro da fare, quindi perché tanto trambusto?
+7. **Solo i migliori raggiungono la vetta**: mi mancano solo 20 punti per entrare nella zona di promozione. Di questo passo, entro la fine dell'anno diventerò caporeparto.
+8. **Quello che guadagni con le tue mani è tuo**: e se Anna fosse migliore di me? Ha mancato, ha commesso un errore e io ho colto l'occasione. Vita.
+9. **Meno sei visibile, più sei al sicuro**: è meglio non inviare questa lettera, qualcuno potrebbe vedere, dirlo a qualcuno e saremo nei guai. Chi ha bisogno di tutto questo?
+10. **Il successo si ottiene con la pazienza**: Mio nonno ha iniziato come semplice operaio, io lavoro già come caposquadra. Se continuo così, forse arriverò al capo del dipartimento.
+11. **Verrà il giorno del castigo**: sì, ora dobbiamo fare ciò che ci viene detto, in qualche modo dobbiamo sopravvivere, ma un giorno ci alzeremo e poi verrà versato del sangue.
+12. **Ognuno può avere il suo profitto**: l'azienda guadagna e guadagno anch'io, e se l'azienda guadagna di più posso avere di più anch'io, è semplice.
+13. **Creiamo consapevolmente e responsabilmente un mondo migliore**: queste visioni apocalittiche sono esagerate, le corporazioni sono un passo naturale nell'evoluzione. Comprendiamolo e partecipiamo al processo di costruzione del futuro. Se hai un'alternativa migliore, ti invito a discuterla.
+14. **Un posto per tutti, ognuno al suo posto**: tutti vogliono sentirsi necessari e non tutti hanno le stesse opportunità, grazie a questo lavoro non ci sono persone trascurate o non apprezzate tra noi.
+15. **Se uno non ha quello che gli piace...**: gli piace quello che ha. Non lamentarti, potrebbe andare peggio.
+16. **Uniti da un nemico comune**: potrebbe non essere perfetto con noi, ma con loro è un disastro. Dobbiamo sradicare questo abominio.
+17. **Visione comune**: puoi ridere, puoi dubitare e puoi trasudare il veleno del tradimento. Quando arriverà il grande giorno, vedrai che eravamo dalla parte giusta. E tutti ci ringrazieranno.
+18. **Siamo migliori degli altri**: i nostri specialisti sono i migliori, i nostri metodi i più efficaci. Essere un membro di questa comunità è un onore e una nobilitazione. Non socializziamo con la folla eterogenea.
+19. **Regole chiaramente stabilite**: le regole sono note e tutti le seguono, cosa c'è di strano? Preferiresti il ​​caos completo e giochi sleali?
+20. **Parliamone**: parlare, parlare e ancora parlare. Si può parlare con tutti e tutti possono essere convinti... o almeno sviluppare una sorta di consenso. La cosa peggiore è quando le persone bisbigliano negli angoli.
