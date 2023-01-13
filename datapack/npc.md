@@ -5,23 +5,23 @@ parent: Datapacks
 nav_order: 3
 ---
 
-# Non-Player Characters
+# Personaggi Non Giocanti
 
 <!-- [Wersja generatora online](https://oswida.github.io/cyber/app/dist/#/npc) -->
 
-A handful of generators to populate the world of Cyber with a variety of characters.
+Un'insieme di generatori per popolare il mondo di Cyber ​​con una varietà di personaggi.
 
-## Passers-by, allies, enemies
+## Passanti, alleati, nemici
 
-In order to generate an NPC, one should roll:
+Per generare un PNG, si dovrebbe tirare:
 
-- first name
-- surname
-- occupation
-- at least one distinctive appearance
-- owned equipment if NPC has any
-- positive and negative character traits
-- at least one goal or desire
+- nome
+- cognome
+- occupazione
+- almeno un aspetto distintivo
+- equipaggiamento posseduto se il PNG  ne ha
+- tratti caratteriali positivi e negativi
+- almeno un obiettivo o desiderio
 
 ## First name (d20 + d20)
 
