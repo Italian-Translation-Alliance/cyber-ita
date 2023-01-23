@@ -23,9 +23,9 @@ Per generare un PNG, si dovrebbe tirare:
 - tratti caratteriali positivi e negativi
 - almeno un obiettivo o desiderio
 
-## First name (d20 + d20)
+## Nome (d20 + d20)
 
-The first roll selects the column, the second selects the position in the column.
+Il primo tiro seleziona la colonna, il secondo seleziona la posizione nella colonna.
 
 | d20 | 1-4       | 5-8       | 9-12    | 13-16    | 17-20    |
 | --- | --------- | --------- | ------- | -------- | -------- |
@@ -50,9 +50,9 @@ The first roll selects the column, the second selects the position in the column
 | 19  | Christine | Jorge     | Michael | Roberto  | Yong     |
 | 20  | Daniel    | Jose      | Miguel  | Rosa     | Yu       |
 
-## Surname (d20+d20)
+## Cognome (d20+d20)
 
-The first roll selects the column, the second selects the position in the column.
+Il primo tiro seleziona la colonna, il secondo seleziona la posizione nella colonna.
 
 | d20 | 1-4      | 5-8       | 9-12     | 13-16      | 17-20    |
 | --- | -------- | --------- | -------- | ---------- | -------- |
@@ -77,32 +77,32 @@ The first roll selects the column, the second selects the position in the column
 | 19  | Cox      | Hughes    | Murphy   | Ross       | Wright   |
 | 20  | Cruz     | Jackson   | Myers    | Russell    | Young    |
 
-## Occupation (d20+d20)
+## Occupazione (d20+d20)
 
-The first roll selects the column, the second selects the position in the column.
+Il primo tiro seleziona la colonna, il secondo seleziona la posizione nella colonna.
 
-| d20 | 1-4                      | 5-8                     | 9-12                     | 13-16                    | 17-20                         |
-| --- | ------------------------ | ----------------------- | ------------------------ | ------------------------ | ----------------------------- |
-| 1   | Activist                 | Software trader         | Headhunter               | Writer                   | Night watchman                |
-| 2   | Acquirer                 | Pet breeder             | Warehouseman             | Policeman                | Stylist                       |
-| 3   | Data analyst             | Hostess                 | Stockbroker              | Handyman for hire        | Gang boss                     |
-| 4   | Interviewer              | Influencer              | Masseuse                 | Porter                   | Cab driver                    |
-| 5   | Personal assistant       | Fitness instructor      | Mechanic                 | Technical support worker | Tattoo artist                 |
-| 6   | Bartender                | Martial arts instructor | Musician                 | Game programmer          | Robotics technician           |
-| 7   | Moonshiner               | Genetic engineer        | Mercenary                | Security programmer      | Telecommunications technician |
-| 8   | Chemist                  | Electronics engineer    | Teacher                  | AI programmer            | Construction technician       |
-| 9   | Cybertechnician          | Nanotechnology engineer | Scientist                | Prostitute               | Software tester               |
-| 10  | Detective                | Transport driver        | Negotiator               | Smuggler                 | E-sports trainer              |
-| 11  | Ecoterrorist             | Bus driver              | Bodyguard                | Sect leader              | Street illusionist            |
-| 12  | Electrician              | Racing driver           | Gardener                 | News channel reporter    | Street preacher               |
-| 13  | Hairdresser              | Club DJ                 | Drone operator           | Factory worker           | Administration official       |
-| 14  | Geisha                   | Traffic controller      | Heavy machinery operator | Gunsmith                 | Club owner                    |
-| 15  | Graphic designer         | Corporate spy           | Babysitter               | Sanitarian               | Assassin                      |
-| 16  | Host of a "reality show" | Beautician              | Passholder               | Secretary                | E-sports player               |
-| 17  | Star of a "reality show" | Cook                    | Nurse                    | PR specialist            | Combat sports player          |
-| 18  | Hacker                   | Courier                 | Civilian pilot           | Sportsman                | Thief                         |
-| 19  | Arms dealer              | Laborer                 | Military pilot           | Cleaner                  | Scrapper                      |
-| 20  | Drug trafficker          | Doctor                  | Singer                   | Sales clerk              | Soldier                       |
+| d20 | 1-4                      | 5-8                       | 9-12                          | 13-16                    | 17-20                         |
+| --- | ------------------------ | ------------------------- | ----------------------------- | ---------------------- | --------------------------------- |
+| 1   | Attivista                | Software trader           | Cacciatore di taglie          | Scrittore              | Guardiano notturno                |
+| 2   | Acquirer (???)           | Allevatore                | Magazziniere                  | Poliziotto             | Stilista                          |
+| 3   | Data analyst             | Hostess                   | Agente di cambio              | Tuttofare              | Capo di una gang                  |
+| 4   | Intervistatore           | Influencer                | Massaggiatore                 | Facchino               | Tassista                          |
+| 5   | Assistente personale     | Istruttore di Fitness     | Meccanico                     | Assistente tecnico     | Tatuatore                         |
+| 6   | Barista                  | Maestro di arti marziali  | Musicista                     | Game programmer        | Tecnico di robotica               |
+| 7   | Distillatore clandestino | Ingegnere genetico        | Mercenario                    | Cybersecurity expert   | Operatore delle telecomunicazioni |
+| 8   | Chimico                  | Ingegnere elettronico     | Insegnante                    | Programmatore di AI    | Operaio delle costruzioni         |
+| 9   | Cybertecnico             | Ingegnere nanotecnologico | Scienziato                    | Prostituta             | Software tester                   |
+| 10  | Detective                | Autista commerciale       | Negoziatore                   | Contrabbandiere        | E-sports trainer                  |
+| 11  | Ecoterrorista            | Autista di autobu         | Guardia del corp              | Capo di una setta      | Illusionista di strada            |
+| 12  | Electtricist             | Pilota da corsa           | Giardiniere                   | Giornalista            | Evangelista di strada             |
+| 13  | Parrucchiere             | Club DJ                   | Operatore di droni            | Operaio                | Funzionario dell'amministrazione  |
+| 14  | Geisha                   | Controllore del traffico  | Addetto alle macchine pesanti | Armaiolo               | Proprietario di un club           |
+| 15  | Graphic designer         | Spia corporativa          | Babysitter                    | Operatore sanitario    | Assassino                         |
+| 16  | Conduttore di un Reality | Estetista                 | Passholder (???)              | Segretario             | Giocatore di E-sports             |
+| 17  | Star di un Reality       | Cuoco                     | Infermiere                    | PR specialist          | Combattente sportivo              |
+| 18  | Hacker                   | Corriere                  | Pilota civile                 | Sportivo               | Ladro                             |
+| 19  | Trafficante di armi      | Manovale                  | Pilota militare               | Addetto alle pulizie   | Attaccabrighe                     |
+| 20  | Trafficante di droga     | Medico                    | Cantante                      | Commesso               | Soldato                           |
 
 ## A distinctive appearance element (d20+d20)
 
