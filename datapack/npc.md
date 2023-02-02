@@ -104,89 +104,89 @@ Il primo tiro seleziona la colonna, il secondo seleziona la posizione nella colo
 | 19  | Trafficante di armi      | Manovale                  | Pilota militare               | Addetto alle pulizie   | Attaccabrighe                     |
 | 20  | Trafficante di droga     | Medico                    | Cantante                      | Commesso               | Soldato                           |
 
-## A distinctive appearance element (d20+d20)
+## Un elemento distintivo (d20+d20)
 
-The first result selects a section, the second a subsection from the section.
+Il primo risultato rappresentata la sezione, il secondo la sotto-sezione
 
-### Appearance: 1 - 7
+### Aspetto: 1 - 7
 
-1. A frizzy, multicolored hairstyle with woven strands of fiber optics
-2. Fashionable clothes and a black leather trench coat
-3. Spiked collar around the neck
-4. Silver dreadlocks and iridescent eyes
-5. Military cargo pants and a T-shirt of a famous band
-6. Biker suit and reinforced jacket
-7. Pink dreadlocks and sharp green eyes
-8. Black biker suit
-9. Pink Iroquois and red cybernetic eyes
-10. Gray suit and mirrored glasses
-11. Entire body covered with tattoos
-12. Heavy cybernetic hands
-13. All teeth transformed into fangs
-14. Cybernetic wires on the surface of the skin
-15. Leather clothing, metal buckles, studs and belts
-16. Digital tattoos that download data from the network
-17. Metal teeth
-18. Oversized, massive muscles
-19. A tangle of worn electronics hanging from the neck
-20. Extra cybernetic limbs
+1. Un'acconciatura multicolore fibre ottiche intrecciate nei capelli crespi
+2. Vestiti alla moda e cappotto di pelle nera
+3. Collare borchiato attorno al collo
+4. Dreadlocks argentati e occhi iridescenti
+5. Pantaloni militari e T-shirt di una band famosa
+6. Vestito da biker con giacca rinforzata
+7. Dreadlocks rosa e taglienti occhi verdi
+8. Vestito da biker nero
+9. Cresta rosa e occhi cibernetici rossi
+10. Completo grigio e occhiali a specchio
+11. Tutto il corpo è coperto da tatuaggi
+12. Pesanti mani cibernetiche
+13. Tutti i denti sono stati sostituiti con zanne
+14. Collegamenti ciibernetici sulla superficie della pelle
+15. Vestiti di pelle, borchie, fibia e cintura metallica
+16. Tatuaggi digitali che scaricano dati della rete
+17. Denti metallici
+18. Giganteschi muscoli ipertrofici
+19. Un grovoglio di cavi consumati che pende dal collo
+20. Arti cibernetici extra
 
-### Appearance 8 - 14
+### Aspetto 8 - 14
 
-1. Metal cybernetic face
-2. Holographic, programmable earrings
-3. Entire body covered with short fur
-4. Fashionable sports shoes with navigation system
-5. Clothing made of shiny metallic fabric
-6. Traditional Japanese kimono
-7. Expensive cotton suit
-8. Sleek, slicked-back hair and a headband displaying current stock quotes
-9. Bulletproof jacket with distorted corporate logo
-10. Ritual scars on the face
-11. Long, knee-length leather boots and an orange down jacket
-12. Dark blue jacket with built-in vital function monitor
-13. Long gray coat, hat and glasses with optical amplifier
-14. Split tongue and vertical pupils
-15. Denim pants and sweatshirt with a national flag patch
-16. Clothing styled as a work suit, orange LEDs on the sleeves
-17. Military beret and scarf
-18. Long shiny coat with colorful fur collar
-19. Tight leather overalls
-20. Baseball cap and yellow headphones on the ears
+1. Viso metallico cibernetico
+2. Orecchini olografici programmabili
+3. Tutto il corpo è coperto da una rada pelliccia
+4. Scarpe alla moda con sistema di navigazione integrata
+5. Abbigliamento in tessuto metallico lucido
+6. Kimono giapponese tradizionale
+7. Costoso completo di cotone
+8. Capelli lisci pettinati all'indietro con fascia che mostrano le quotazioni borsistiche attuali
+9. Giubbotto antiproettile recante il logo di una corporazione
+10. Cicatrici rituali sul viso
+11. Lunghi stivali di pelle al ginocchio e un piumino arancione
+12. Giacchino blu scuro con display delle funzioni vitali incorporato
+13. Lungo cappotto gricio, cappello e occhiali con amplificatore ottico
+14. Lingua splittata e pupille verticali
+15. Jeans e felpa con patch di bandiera nazionale
+16. Abbigliamento da lavoro con led arancioni sulle maniche
+17. Berretto e sciarpa militare
+18. Lungo cappotto luccicante con collare di pelliccia colorato
+19. Tuta di pelle aderente
+20. Cappellino da basebal e cuffie gialle alle orecchie
 
-### Appearance: 15 - 20
+### Aspetto: 15 - 20
 
-1. Long, soft robe with gold threads
-2. A large, illuminated religious symbol suspended from a thick chain
-3. A shaved head with a drone control implant
-4. Blue Mohawk hairstyle and eyes with color-changing irises
-5. Long boots, short shorts, orthalion signal jacket
-6. Sports tracksuit with neon logo of a well-known brand
-7. Khaki clothing stylized as a uniform
-8. Suit with hexagonal pattern and logo of a well-known company
-9. Vest reinforced with steel plates
-10. White long hair and a cowboy hat
-11. Hand skin covered with colorful reptile scales
-12. Metal skull cover with built-in sonar
-13. Facial skin with programmable makeup
-14. Cybernetic tail with built-in camera
-15. Artificial gills on the side of the neck
-16. Crimson skin color and bony growths on the forehead
-17. Entire body encased in a metal shell
-18. An outfit styled after a comic book superhero and an implant simulating superpowers
-19. Victorian styled outfit, cylinder and cane with holographic projector
-20. Hermetic epidemiological suit worn permanently
+1. Abito lungo e morbido con fili d'oro
+2. Un vistoso simbolo religioso pendente da una sottile catena
+3. Testa rasata con un impianto di controllo droni
+4. Cresta Mohawk blu con iridi che cambiano colore
+5. Stivali lunghi, pantaloncini corti, giacca segnaletica impermeabile
+6. Tuta sportiva con logo al neon di un marchio ben noto
+7. Abbigliamento kaki stilizzato come uniforme
+8. Tuta con motivo esagonale e logo di una nota azienda
+9. Abito rinforzato con inserti metallici
+10. Lunchi capelli bianchi e cappello da cowboy
+11. La pelle delle mani è coperta da scaglie da rettile
+12. Elmetto metallico con sonar incorporato
+13. La pelle del viso ha makeup incorporato
+14. Coda cibernetica con telecamera incorporata
+15. Branchie artificiali sul lato del collo
+16. Pelle color cremisi ed escrescenze ossee sulla fronte
+17. L'intero corpo è incapsulato in un contenitore metallico
+18. Un vestiario che rimanda a quello di un supereroe dei fumetti con impianti che simulano i superpoteri
+19. Abito in stile vittoriano, cilindro e bastone con proiettore olografico
+20. Tuta epidemiologica ermetica indossata in modo permanente
 
-## Equipment  (d20+d20)
+## Equipaggiamento  (d20+d20)
 
-The first result selects a section, the second a subsection from the section.
+Il primo risultato individua la sezione, il secondo la sottosezione
 
-### Sprzęt: 1 - 7
+### Attrezzatura: 1 - 7
 
-1. Thermo-optical camouflage
-2. Night vision goggles
-3. Military laser gun
-4. Hand-held stun gun implant
+1. Camuffamento termo-ottico
+2. Occhiali per visione notturna
+3. Pistola laser militare
+4. Pistola stordente impiantata in una mano
 5. Mobile computer with decryption algorithms
 6. Genetically modified pet
 7. A set of electronic tools
