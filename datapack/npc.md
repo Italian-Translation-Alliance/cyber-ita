@@ -187,122 +187,122 @@ Il primo risultato individua la sezione, il secondo la sottosezione
 2. Occhiali per visione notturna
 3. Pistola laser militare
 4. Pistola stordente impiantata in una mano
-5. Mobile computer with decryption algorithms
-6. Genetically modified pet
-7. A set of electronic tools
-8. A combat drone armed with a machine gun
-9. A reconnaissance drone equipped with cameras
-10. Nano-mesh armor
-11. Navigation implant
-12. Suitcase with tools and spare parts
-13. Cybernetic arm
-14. Breathing apparatus and voice modulator on the lower part of the face
-15. Shiny waterproof cape with weather display
-16. Personal medical microdrones crawling on the skin
-17. Automatic pheromone sprayer
-18. A poison detector built into the mouth
-19. Goggles constantly transmitting a popular show
-20. A chip that records sensory impressions
+5. Computer portatile con algoritmi di decrittazione
+6. Animale domestico geneticamente modificato
+7. Set di strumenti elettronici
+8. Drone da combattimento armato di mitragliatrice
+9. Drone da ricognizione dotato di telecamere
+10. Armatura a rete nanometrica
+11. Impianto di navigazione
+12. Valigia con strumenti e pezzi di ricambio
+13. Braccio cibernetico
+14. Apparato respiratorio e modulatore vocale sulla parte inferiore del viso
+15. Mantella impermeabile lucida con display meteo
+16. Microdroni medici personali che strisciano sulla pelle
+17. Spruzzatore automatico di feromoni
+18. Rilevatore di veleno incorporato nella bocca
+19. Occhiali che trasmettono costantemente uno spettacolo popolare
+20. Un chip che registra le impressioni sensoriali
 
-### Sprzęt: 8 - 14
+### Attrezzatura: 8 - 14
 
-1. Implanted stimulant dispenser
-2. Cognitive booster to enhance interpersonal skills
-3. Short, sharp, retractable blades embedded in fingernails
-4. Implanted holographic projector
-5. Acid- and fire-resistant synthetic leather on hands
-6. Two Japanese swords with a poison dispenser
-7. A large kitchen cleaver with a strange symbol engraved on it
-8. A collection of religious writings from around the world on a handheld reader
-9. A portable disk with a collection of computer viruses
-10. A skateboard with an auxiliary drive and powerful speakers
-11. A collection of valuable technological antiques
-12. A neuromuscular matrix for programming facial features
-13. Implanted endorphin dispenser
-14. Dark green backpack with first aid kit
-15. Embedded toxin neutralizer with palm display
-16. Cybernetic hand with built-in surgical tools
-17. Portable multifunctional scanner
-18. Small arms in a holster at the belt and a neurocontroller for these weapons
-19. Cybernetic legs specialized for running and jumping
-20. Acoustic neutralizer
+1. Erogatore stimolante impiantato
+2. Booster cognitivo per migliorare le capacità interpersonali
+3. Lame corte, affilate e retrattili incorporate nelle unghie
+4. Proiettore olografico impiantato
+5. Pelle sintetica resistente agli acidi e al fuoco sulle mani
+6. Due spade giapponesi con erogatore di veleno
+7. Una grossa mannaia da cucina con uno strano simbolo inciso sopra
+8. Una raccolta di scritti religiosi da tutto il mondo su un lettore portatile
+9. Un disco portatile con una raccolta di virus informatici
+10. Uno skateboard con motore ausiliario e altoparlanti potenti
+11. Una collezione di preziosi oggetti di antiquariato tecnologico
+12. Una matrice neuromuscolare per la programmazione delle caratteristiche facciali
+13. Erogatore di endorfine impiantato
+14. Zaino verde scuro con kit di pronto soccorso
+15. Neutralizzatore di tossine incorporato con display palmare
+16. Mano cibernetica con strumenti chirurgici incorporati
+17. Scanner multifunzione portatile
+18. Armi di piccolo calibro in una fondina alla cintura e un neurocontrollore per queste armi
+19. Gambe cibernetiche specializzate per correre e saltare
+20. Neutralizzatore acustico
 
-### Sprzęt: 15 - 20
+### Attrezzatura: 15 - 20
 
-1. Cybernetic eye with infravision
-2. Implanted breathing filters
-3. Electric guitar with full accessories
-4. Chemical analyzer
-5. An impressive collection of digital autographs of famous celebrities
-6. A well-secured, private node in the Infosphere
-7. A built-in hand-held wiretap detector
-8. Amplified hearing with an expanded frequency band
-9. An old, battered van (but running) with a shielded body
-10. Magnetic climbing kit
-11. A guard robot in the form of a mechanical dachshund
-12. A set of military walkie-talkies with encrypted transmission
-13. High quality software for imitating avatars in the Infosphere
-14. An experimental infodeck with increased capacity
-15. Motion sensors implanted directly into the skull
-16. Marking nanobots along with goggles to find them
-17. A box of explosive charges of various types
-18. Broadband jammer (jammer)
-19. Optical variograph embedded in the eye
-20. Sound simulator implanted in the larynx
+1. Occhio cibernetico con infravisione
+2. Filtri respiratori impiantati
+3. Chitarra elettrica completa di accessori
+4. Analizzatore chimico
+5. Un'impressionante collezione di autografi digitali di celebrità famose
+6. Un nodo privato ben protetto nell'Infosfera
+7. Un rilevatore di intercettazioni portatile integrato
+8. Udito amplificato con una banda di frequenza ampliata
+9. Un vecchio furgone scassato (ma funzionante) con carrozzeria blindata
+10. Kit da arrampicata magnetico
+11. Un robot da guardia a forma di bassotto meccanico
+12. Un set di walkie-talkie militari con trasmissione criptata
+13. Software di alta qualità per imitare gli avatar nell'Infosfera
+14. Un infodeck sperimentale con maggiore capacità
+15. Sensori di movimento impiantati direttamente nel cranio
+16. Contrassegnare i nanobot insieme ai visori per trovarli
+17. Una scatola di cariche esplosive di vario tipo
+18. Disturbatore a banda larga
+19. Variografo ottico incorporato nell'occhio
+20. Simulatore sonoro impiantato nella laringe
 
-## Traits  (d20+d20)
+## Tratti  (d20+d20)
 
-The first roll selects the column, the second selects the position in the column.
+Il primo tiro seleziona la colonna, il secondo seleziona la posizione nella colonna.
 
-### Positive
+### Positivi
 
-| d20 | `(1-4)`                 | `(5-8)`             | `(9-12)`    | `(13-16)`       | `(17-20)`     |
-| --- | ----------------------- | ------------------- | ----------- | --------------- | ------------- |
-| 1   | Active                  | Elegant             | Independent | Self-critical   | Orderly       |
-| 2   | Ambitious               | Eloquent            | Reliable    | Self-sufficient | Polite        |
-| 3   | Selfless                | Empathetic          | Mandatory   | Neat            | Attentive     |
-| 4   | Astute                  | Enthusiastic        | Responsible | Cordial         | Cheerful      |
-| 5   | Charismatic             | Galant              | Courageous  | Strong          | Faithful      |
-| 6   | Curious                 | Trustworthy         | Caring      | Focused         | Insightful    |
-| 7   | Patient                 | Generous            | Confident   | Modest          | Sensitive     |
-| 8   | Charming                | Honorable           | Cheerful    | Efficient       | Compassionate |
-| 9   | Vigilant                | Humorous            | Humble      | Sweet           | Cooperative   |
-| 10  | Clean                   | Innovative          | Hardworking | Verbal          | Educated      |
-| 11  | Gentle                  | Intelligent         | Practical   | Calm            | Understanding |
-| 12  | Benevolent              | Interesting         | Predictive  | Perceptive      | Principled    |
-| 13  | Good-natured            | Intuitive           | Adaptable   | Efficient       | Determined    |
-| 14  | Goodwilled              | Contemplative       | Leadership  | Clever          | Capable       |
-| 15  | Good judge of character | Critically thinking | Decent      | Sympathetic     | Disciplined   |
-| 16  | Good listener           | Cultural            | Punctual    | Respectful      | Organized     |
-| 17  | Witty                   | Logical             | Rational    | Honest          | Relaxed       |
-| 18  | Dynamic                 | Loyal               | Reflective  | Generous        | Skillful      |
-| 19  | Discreet                | Moral               | Reliable    | Caring          | Balanced      |
-| 20  | Flexible                | Incorruptible       | Standalone  | Honest          | Adventurous   |
+| d20 | `(1-4)`                   | `(5-8)`          | `(9-12)`     | `(13-16)`       | `(17-20)`       |
+| --- | ------------------------- | ---------------- | ------------ | --------------- | --------------- |
+| 1   | Attivo                    | Elegante         | Independente | Auto-critico    | Ordinato        |
+| 2   | Ambizioso                 | Eloquente        | Affidabile   | Autosufficiente | Gentile         |
+| 3   | Altruista                 | Empatico         | Perentorio   | Puro            | Attento         |
+| 4   | Astuto                    | Entusiasta       | Responsabile | Cordiale        | Allegro         |
+| 5   | Carismatico               | Galante          | Coraggioso   | Forte           | Fedele          |
+| 6   | Curioso                   | Affidabile       | Premuroso    | Focalizzato     | Perspicace      |
+| 7   | Paziente                  | Generoso         | Fiducioso    | Modesto         | Sensibile       |
+| 8   | Affascinante              | Onorevole        | Allegro      | Efficiente      | Compassionevole |
+| 9   | Vigile                    | Umoristico       | Umile        | Dolce           | Cooperativa     |
+| 10  | Pulito                    | Innovativo       | Laborioso    | Logorroico      | Educato         |
+| 11  | Gentile                   | Intelligente     | Pratico      | Calma           | Comprensivo     |
+| 12  | Benevolo                  | Interessante     | Predittivo   | Percettivo      | Di principio    |
+| 13  | Bonario                   | Intuitivo        | Adattabile   | Efficiente      | Determinato     |
+| 14  | Di buona volontà          | Contemplativo    | Direzione    | Intelligente    | Capace          |
+| 15  | Buon giudice di carattere | Pensiero critico | Decente      | Simpatico       | Disciplinato    |
+| 16  | Buon ascoltatore          | Culturale        | Puntuale     | Rispettoso      | Organizzato     |
+| 17  | Spiritoso                 | Logico           | Razionale    | Onesto          | Rilassato       |
+| 18  | Dinamico                  | Fedele           | Riflessivo   | Generoso        | Abile           |
+| 19  | Discreto                  | Morale           | Affidabile   | Cura            | Equilibrato     |
+| 20  | Flessibile                | Incorruttibile   | Autonomo     | Onesto          | Avventuroso     |
 
-### Negative
+### Negativi
 
-| d20 | `(1-4)`                  | `(5-8)`          | `(9-12)`      | `(13-16)`     | `(17-20)`        |
-| --- | ------------------------ | ---------------- | ------------- | ------------- | ---------------- |
-| 1   | Asocial                  | Fanatical        | Shy           | Pretentious   | Disruptive       |
-| 2   | Authoritarian            | Flirtatious      | Intolerant    | Primadonna    | Stubborn         |
-| 3   | Without a sense of humor | Stupid           | Dishonest     | Provocative   | Resentful        |
-| 4   | Without charm            | Hypocrite        | Disorderly    | Vain          | Narrow-minded    |
-| 5   | Insolent                 | Idiotic          | Inattentive   | Bribed        | Hostile          |
-| 6   | Heartless                | Ignorant         | Improper      | Predictable   | Nosy             |
-| 7   | Merciless                | Liar             | Undisciplined | Psychopathic  | Picky            |
-| 8   | Mindless                 | Gullible         | Bland         | Spoiled       | Demanding        |
-| 9   | Involuntary              | Masochist        | Demented      | Sadist        | Close-minded     |
-| 10  | Bigot                    | Overzealous      | Insane        | Selfish       | Forgetful        |
-| 11  | Dirty                    | Overly emotional | Indifferent   | Sarcastic     | Conceited        |
-| 12  | Brutal                   | Nervous          | Offensive     | Scrooge       | Jealous          |
-| 13  | Rebellious               | Sloppy           | Obsessive     | Weak          | Perverted        |
-| 14  | Chaotic                  | Impatient        | Deceiver      | Harsh         | Disorganized     |
-| 15  | Sly                      | Insensitive      | Unlucky       | Hero syndrome | Malicious        |
-| 16  | Destructive              | Immature         | Pedantic      | Rough         | Bad listener     |
-| 17  | Destructive              | Untrustworthy    | Pessimist     | Artificial    | Cheeky           |
-| 18  | Childish                 | Rude             | Sneaky        | Slippery      | Gluttonous       |
-| 19  | Egoistic                 | Disloyal         | Pompous       | Coward        | Joker            |
-| 20  | False                    | Irrational       | Workaholic    | Blunt         | Greedy for glory |
+| d20 | `(1-4)`           | `(5-8)`                | `(9-12)`           | `(13-16)`          | `(17-20)`           |
+| --- | ----------------- | ---------------------- | ------------------ | ------------------ | ------------------- |
+| 1   | Asociale          | Fanatico               | Timido             | Pretenzioso        | Dirompente          |
+| 2   | Autoritario       | Civettuolo             | Intollerante       | Primadonna         | Testardo            |
+| 3   | Privo di umorismo | Stupido                | Disonesto          | Provocatorio       | Risentito           |
+| 4   | Senza fascino     | Ipocrita               | Disordinato        | Vanitoso           | Di vedute ristrette |
+| 5   | Insolente         | Idiota                 | Disattento         | Corrotto           | Ostile              |
+| 6   | Senza cuore       | Ignorante              | Inopportuno        | Prevedibile        | Ficcanaso           |
+| 7   | Spietato          | Bugiardo               | Indisciplinato     | Psicopatico        | Esigente            |
+| 8   | Insensato         | Credulone              | Noioso             | Viziato            | Esigente            |
+| 9   | Involontario      | Masochista             | Demente            | Sadico             | Mente chiusa        |
+| 10  | Bigotto           | Troppo zelante         | Folle              | Egoista            | Smemorato           |
+| 11  | Sporco            | Eccessivamente emotivo | Indifferente       | Sarcastico         | Presuntuoso         |
+| 12  | Brutale           | Nervoso                | Offensivo          | Paperone           | Geloso              |
+| 13  | Ribelle           | Sciatto                | Ossessivo          | Debole             | Pervertito          |
+| 14  | Caotico           | Impaziente             | Ingannatore        | Duro               | Disorganizzato      |
+| 15  | Furbo             | Insensibile            | Sfortunato         | Sindrome dell'eroe | Dannoso             |
+| 16  | Distruttivo       | Immaturo               | Pedante            | Ruvido             | Cattivo ascoltatore |
+| 17  | Distruttivo       | Inaffidabile           | Pessimista         | Finto              | Sfacciato           |
+| 18  | Infantile         | Maleducato             | Subdolo            | Scivoloso          | Goloso              |
+| 19  | Egoista           | Sleale                 | Pomposo            | Codardo            | Buffone             |
+| 20  | Falso             | Irrazionale            | Maniaco del lavoro | Ottuso             | Avido di gloria     |
 
 ## Purpose or desire (d20+d20)
 
