@@ -251,6 +251,7 @@ Il primo risultato individua la sezione, il secondo la sottosezione
 20. Simulatore sonoro impiantato nella laringe
 
 ## Tratti  (d20+d20)
+## Tratti  (d20+d20)
 
 Il primo tiro seleziona la colonna, il secondo seleziona la posizione nella colonna.
 
@@ -304,55 +305,55 @@ Il primo tiro seleziona la colonna, il secondo seleziona la posizione nella colo
 | 19  | Egoista           | Sleale                 | Pomposo            | Codardo            | Buffone             |
 | 20  | Falso             | Irrazionale            | Maniaco del lavoro | Ottuso             | Avido di gloria     |
 
-## Purpose or desire (d20+d20)
+## Scopo o desiderio (d20+d20)
 
-The first result selects a section, the second a subsection from the section.
+Il primo risultato individua la sezione, la seconda la sottosezione
 
-### Goal: 1 - 4
+### Obiettivo: 1 - 4
 
-1. Learn a new skill related to the profession
-2. Set aside money for the operation of someone close to you
-3. Rescue a friend from the hands of kidnappers
-4. Find a missing child
-5. Do one more job before retiring
-6. Get anything that will help ruin the corporation
-7. Live a quiet and reasonably prosperous life
-8. Give their children a better start
-9. Steal data from the corporation's laboratory
-10. Escape the revenge of a street gang
-11. Get rid of inconvenient memories
-12. Erase your identity from the system
-13. Get the one who murdered my family
-14. Finally close the case that has been unfinished for many years
-15. Decrypt important personal data
-16. Break an inconvenient contract
-17. Find out who ratted me out and find out why
-18. Find out what the corporation is planning ....
-19. Gain power so that everyone is afraid of me
-20. Find a decent, legitimate job
+1. Imparare una nuova abilità legata alla professione
+2. Mettere da parte i soldi per la sopravvivenza di qualcuno vicino a te
+3. Salvare un amico dalle mani dei rapitori
+4. Trovare un bambino scomparso
+5. Fare un ultimo lavoro prima di andare in pensione
+6. Ottenere qualsiasi cosa che aiuti a rovinare la società
+7. Vivere una vita tranquilla e ragionevolmente prospera
+8. Dare ai figli una vita migliore
+9. Rubare dati dal laboratorio della società
+10. Sfuggiew alla vendetta di una banda di strada
+11. Sbarazzarsi dei ricordi scomodi
+12. Cancellare la tua identità dal sistema
+13. Prendere colui che ha ucciso la famiglia
+14. Chiudere finalmente il caso che è rimasto incompiuto per molti anni
+15. Decrittografare dati personali importanti
+16. Rompere un contratto scomodo
+17. Scoprire chi ti ha denunciato e il perché
+18. Scoprire cosa sta pianificando la società
+19. Ottenere potere in modo che tutti abbiano paura di te
+20. Trovare un lavoro decente e legale
 
-### Goal: 5 - 8
+### Obiettivo: 5 - 8
 
-1. Pay off an old debt
-2. Get rid of the voices in your head
-3. Stop being afraid, finally
-4. Buy a loved one an unusual gift
-5. Gain popularity in the media
-6. Do the job I was paid to do
-7. Find a cause worth fighting for
-8. Find friends among the rich
-9. Prove to everyone that I am worthy
-10. Get into a popular group in the Infosphere
-11. Cure a deadly disease
-12. Survive at all costs
-13. To live according to my beliefs
-14. Preach the word of God
-15. Settle scores with neighbors
-16. Gain fame through crazy excesses
-17. To remember who I was before I was kidnapped
-18. Liberate myself from technology
-19. Get money for plastic surgery
-20. Start my own business
+1. Pagare un vecchio debito
+2. Sbarazzarti delle voci nella tua testa
+3. Smettere di avere paura, finalmente
+4. Comprare a una persona cara un regalo insolito
+5. Ottenere popolarità nei media
+6. Fare il lavoro per cui sono stato pagato
+7. Trovare una causa per cui vale la pena lottare
+8. Trovare amici tra i ricchi
+9. Dimostrare a tutti che sei degno
+10. Entrare in un gruppo popolare nell'infosfera
+11. Curare una malattia mortale
+12. Sopravvivere a tutti i costi
+13. Vivere secondo le tue convinzioni
+14. Predicare la parola di Dio
+15. Regolare i conti con i vicini
+16. Ottenere fama attraverso folli eccessi
+17. Ricordare chi eri prima di essere rapito
+18. Liberarsi dalla tecnologia
+19. Ottenere soldi per la chirurgia plastica
+20. Iniziare la tua attività
 
 ### Goal: 9 - 12
 
