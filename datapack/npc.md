@@ -187,104 +187,104 @@ Il primo risultato individua la sezione, il secondo la sottosezione
 2. Occhiali per visione notturna
 3. Pistola laser militare
 4. Pistola stordente impiantata in una mano
-5. Mobile computer with decryption algorithms
-6. Genetically modified pet
-7. A set of electronic tools
-8. A combat drone armed with a machine gun
-9. A reconnaissance drone equipped with cameras
-10. Nano-mesh armor
-11. Navigation implant
-12. Suitcase with tools and spare parts
-13. Cybernetic arm
-14. Breathing apparatus and voice modulator on the lower part of the face
-15. Shiny waterproof cape with weather display
-16. Personal medical microdrones crawling on the skin
-17. Automatic pheromone sprayer
-18. A poison detector built into the mouth
-19. Goggles constantly transmitting a popular show
-20. A chip that records sensory impressions
+5. Laptop con algoritmi di decrittazione
+6. Pet modificato geneticamente
+7. Un set di strumenti elettronici 
+8. Un drone da combattimento armato con una mitragliatrice
+9. Un drone da ricognizione equipaggiato di telecamere
+10. Armatura a rete nanometrica
+11. Impianti di navigazione
+12. Valigia con strumenti e pezzi di ricambio
+13. Arto cibernetico
+14. Apparato di respiraizone con modulatore di voce nella parte inferiore del viso
+15. Mantella impermeabile lucida con display meteo
+16. Microdrone medico personale che naviga sottopelle
+17. Diffusore automatico di feromoni
+18. Un individuatore di veleono incorporato in bocca
+19. Occhiali che trasmettono costantemente uno spettacolo popolare
+20. Un chip che registra le impressioni sensoriali
 
-### Sprzęt: 8 - 14
+### Equipaggiamento: 8 - 14
 
-1. Implanted stimulant dispenser
-2. Cognitive booster to enhance interpersonal skills
-3. Short, sharp, retractable blades embedded in fingernails
-4. Implanted holographic projector
-5. Acid- and fire-resistant synthetic leather on hands
-6. Two Japanese swords with a poison dispenser
-7. A large kitchen cleaver with a strange symbol engraved on it
-8. A collection of religious writings from around the world on a handheld reader
-9. A portable disk with a collection of computer viruses
-10. A skateboard with an auxiliary drive and powerful speakers
-11. A collection of valuable technological antiques
-12. A neuromuscular matrix for programming facial features
-13. Implanted endorphin dispenser
-14. Dark green backpack with first aid kit
-15. Embedded toxin neutralizer with palm display
-16. Cybernetic hand with built-in surgical tools
-17. Portable multifunctional scanner
-18. Small arms in a holster at the belt and a neurocontroller for these weapons
-19. Cybernetic legs specialized for running and jumping
-20. Acoustic neutralizer
+1. Erogatore stimolante impiantato
+2. Booster cognitivo per migliorare le capacità interpersonali
+3. Lame corte, affilate e retrattili incorporate nelle unghie
+4. Proiettore olografico impiantato
+5. Pelle sintetica resistente agli acidi e al fuoco sulle mani
+6. Due spade giapponesi con erogatore di veleno
+7. Una grossa mannaia da cucina con uno strano simbolo inciso sopra
+8. Una raccolta di scritti religiosi da tutto il mondo su un lettore portatile
+9. Un disco portatile con una raccolta di virus informatici
+10. Uno skateboard con motore ausiliario e potenti altoparlanti
+11. Una collezione di preziosi oggetti d'antiquariato tecnologici
+12. Una matrice neuromuscolare per la programmazione delle caratteristiche facciali
+13. Erogatore di endorfine impiantato
+14. Zaino verde scuro con cassetta di pronto soccorso
+15. Neutralizzatore di tossine incorporato con display palmare
+16. Mano cibernetica con strumenti chirurgici incorporati
+17. Scanner multifunzione portatile
+18. Armi di piccolo calibro in una fondina alla cintura e un neurocontrollore per queste armi
+19. Gambe cibernetiche specializzate nella corsa e nel salto
+20. Neutralizzatore acustico
 
-### Sprzęt: 15 - 20
+### Equipaggiamento: 15 - 20
 
-1. Cybernetic eye with infravision
-2. Implanted breathing filters
-3. Electric guitar with full accessories
-4. Chemical analyzer
-5. An impressive collection of digital autographs of famous celebrities
-6. A well-secured, private node in the Infosphere
-7. A built-in hand-held wiretap detector
-8. Amplified hearing with an expanded frequency band
-9. An old, battered van (but running) with a shielded body
-10. Magnetic climbing kit
-11. A guard robot in the form of a mechanical dachshund
-12. A set of military walkie-talkies with encrypted transmission
-13. High quality software for imitating avatars in the Infosphere
-14. An experimental infodeck with increased capacity
-15. Motion sensors implanted directly into the skull
-16. Marking nanobots along with goggles to find them
-17. A box of explosive charges of various types
-18. Broadband jammer (jammer)
-19. Optical variograph embedded in the eye
-20. Sound simulator implanted in the larynx
+1. Occhio cibernetico con infravisione
+2. Filtri respiratori impiantati
+3. Chitarra elettrica con accessori completi
+4. Analizzatore chimico
+5. Un'impressionante collezione di autografi digitali di celebrità famose
+6. Un nodo privato ben protetto nell'infosfera
+7. Un rilevatore di intercettazioni portatile incorporato
+8. Udito amplificato con una banda di frequenza ampliata
+9. Un furgone vecchio e scassato (ma funzionante) con cassone schermato
+10. Kit da arrampicata magnetico
+11. Un robot da guardia a forma di bassotto meccanico
+12. Un set di walkie-talkie militari con trasmissione crittografata
+13. Software di alta qualità per imitare gli avatar nell'infosfera
+14. Un infodeck sperimentale con maggiore capacità
+15. Sensori di movimento impiantati direttamente nel cranio
+16. Contrassegnare i nanobot insieme agli occhiali per trovarli
+17. Una scatola di cariche esplosive di vario tipo
+18. Jammer a banda larga (jammer)
+19. Variografo ottico incorporato nell'occhio
+20. Simulatore sonoro impiantato nella laringe
 
-## Traits  (d20+d20)
+## Tratti  (d20+d20)
 
-The first roll selects the column, the second selects the position in the column.
+Il primo tiro seleziona la colonna, il secondo la posizione nella colonna
 
-### Positive
+### Positivo
 
-| d20 | `(1-4)`                 | `(5-8)`             | `(9-12)`    | `(13-16)`       | `(17-20)`     |
-| --- | ----------------------- | ------------------- | ----------- | --------------- | ------------- |
-| 1   | Active                  | Elegant             | Independent | Self-critical   | Orderly       |
-| 2   | Ambitious               | Eloquent            | Reliable    | Self-sufficient | Polite        |
-| 3   | Selfless                | Empathetic          | Mandatory   | Neat            | Attentive     |
-| 4   | Astute                  | Enthusiastic        | Responsible | Cordial         | Cheerful      |
-| 5   | Charismatic             | Galant              | Courageous  | Strong          | Faithful      |
-| 6   | Curious                 | Trustworthy         | Caring      | Focused         | Insightful    |
-| 7   | Patient                 | Generous            | Confident   | Modest          | Sensitive     |
-| 8   | Charming                | Honorable           | Cheerful    | Efficient       | Compassionate |
-| 9   | Vigilant                | Humorous            | Humble      | Sweet           | Cooperative   |
-| 10  | Clean                   | Innovative          | Hardworking | Verbal          | Educated      |
-| 11  | Gentle                  | Intelligent         | Practical   | Calm            | Understanding |
-| 12  | Benevolent              | Interesting         | Predictive  | Perceptive      | Principled    |
-| 13  | Good-natured            | Intuitive           | Adaptable   | Efficient       | Determined    |
-| 14  | Goodwilled              | Contemplative       | Leadership  | Clever          | Capable       |
-| 15  | Good judge of character | Critically thinking | Decent      | Sympathetic     | Disciplined   |
-| 16  | Good listener           | Cultural            | Punctual    | Respectful      | Organized     |
-| 17  | Witty                   | Logical             | Rational    | Honest          | Relaxed       |
-| 18  | Dynamic                 | Loyal               | Reflective  | Generous        | Skillful      |
-| 19  | Discreet                | Moral               | Reliable    | Caring          | Balanced      |
-| 20  | Flexible                | Incorruptible       | Standalone  | Honest          | Adventurous   |
+| d20 | `(1-4)`                     | `(5-8)`                    | `(9-12)`      | `(13-16)`       | `(17-20)`         |
+| --- | --------------------------- | -------------------------- | ------------- | --------------- | ----------------- |
+| 1   | Attivo                      | Elegante                   | Indipendente  | Indipendente    | Ordinato          |
+| 2   | Ambizioso                   | Eloquente                  | Affidabile    | Autosufficiente | Ordinato          |
+| 3   | Egoista                     | Empatico                   | Obbligatorio  | Pulito          | Attento           |
+| 4   | Astuto                      | Entusiastico               | Responsabile  | Cordiale        | Allegro           |
+| 5   | Carismatico                 | Galante                    | Coraggioso    | Forte           | Fedele            |
+| 6   | Curioso                     | Affidabile                 | Premuroso     | Concent         | Perspicace        |
+| 7   | Paziente                    | Generoso                   | Fiducioso     | Modesto         | Sensibile         |
+| 8   | Affascinante                | Onorevole                  | Allegro       | Efficiente      | Compassionevole   |
+| 9   | Vigile                      | Umoristico                 | Umile         | Dolce           | Cooperativo       |
+| 10  | Pulito                      | Innovativo                 | Laborioso     | Verboso         | Educato           |
+| 11  | Gentile                     | Intelligente               | Pratico       | Calmo           | Comprensivo       |
+| 12  | Benevolo                    | Interessante               | Predittivo    | Ricettivo       | Di saldi principi |
+| 13  | Dal buon carattere          | Intuitivo                  | Adattabile    | Efficiente      | Determinato       |
+| 14  | Volenteroso                 | Contemplativo              | Leader        | Abile           | Capace            |
+| 15  | Buon giudice di uomini      | Dotato di pensiero critico | Dignitoso     | Comprensivo     | Disciplinato      |
+| 16  | Bravo ascoltatore           | Culturale                  | Puntuale      | Rispettoso      | Organizzato       |
+| 17  | Spiritoso                   | Logico                     | Razionale     | Onesto          | Rilassato         |
+| 18  | Dinamico                    | Leale                      | Riflessivo    | Generoso        | Abile             |
+| 19  | Discreto                    | Morale                     | Affidabile    | Premuros        | Bilanciato        |
+| 20  | Flessibile                  | Incorruttibile             | Autonomo      | Onesto          | Avventuroso       |
 
-### Negative
+### Negativo
 
 | d20 | `(1-4)`                  | `(5-8)`          | `(9-12)`      | `(13-16)`     | `(17-20)`        |
 | --- | ------------------------ | ---------------- | ------------- | ------------- | ---------------- |
-| 1   | Asocial                  | Fanatical        | Shy           | Pretentious   | Disruptive       |
-| 2   | Authoritarian            | Flirtatious      | Intolerant    | Primadonna    | Stubborn         |
+| 1   | Asociale                  | Fanatical        | Shy           | Pretentious   | Disruptive       |
+| 2   | Autoritario            | Flirtatious      | Intolerant    | Primadonna    | Stubborn         |
 | 3   | Without a sense of humor | Stupid           | Dishonest     | Provocative   | Resentful        |
 | 4   | Without charm            | Hypocrite        | Disorderly    | Vain          | Narrow-minded    |
 | 5   | Insolent                 | Idiotic          | Inattentive   | Bribed        | Hostile          |
@@ -304,55 +304,55 @@ The first roll selects the column, the second selects the position in the column
 | 19  | Egoistic                 | Disloyal         | Pompous       | Coward        | Joker            |
 | 20  | False                    | Irrational       | Workaholic    | Blunt         | Greedy for glory |
 
-## Purpose or desire (d20+d20)
+## Scopo o desiderio (d20+d20)
 
-The first result selects a section, the second a subsection from the section.
+Il primo risultato individua la sezione, la seconda la sottosezione
 
-### Goal: 1 - 4
+### Obiettivo: 1 - 4
 
-1. Learn a new skill related to the profession
-2. Set aside money for the operation of someone close to you
-3. Rescue a friend from the hands of kidnappers
-4. Find a missing child
-5. Do one more job before retiring
-6. Get anything that will help ruin the corporation
-7. Live a quiet and reasonably prosperous life
-8. Give their children a better start
-9. Steal data from the corporation's laboratory
-10. Escape the revenge of a street gang
-11. Get rid of inconvenient memories
-12. Erase your identity from the system
-13. Get the one who murdered my family
-14. Finally close the case that has been unfinished for many years
-15. Decrypt important personal data
-16. Break an inconvenient contract
-17. Find out who ratted me out and find out why
-18. Find out what the corporation is planning ....
-19. Gain power so that everyone is afraid of me
-20. Find a decent, legitimate job
+1. Imparare una nuova abilità legata alla professione
+2. Mettere da parte i soldi per la sopravvivenza di qualcuno vicino a te
+3. Salvare un amico dalle mani dei rapitori
+4. Trovare un bambino scomparso
+5. Fare un ultimo lavoro prima di andare in pensione
+6. Ottenere qualsiasi cosa che aiuti a rovinare la società
+7. Vivere una vita tranquilla e ragionevolmente prospera
+8. Dare ai figli una vita migliore
+9. Rubare dati dal laboratorio della società
+10. Sfuggiew alla vendetta di una banda di strada
+11. Sbarazzarsi dei ricordi scomodi
+12. Cancellare la tua identità dal sistema
+13. Prendere colui che ha ucciso la famiglia
+14. Chiudere finalmente il caso che è rimasto incompiuto per molti anni
+15. Decrittografare dati personali importanti
+16. Rompere un contratto scomodo
+17. Scoprire chi ti ha denunciato e il perché
+18. Scoprire cosa sta pianificando la società
+19. Ottenere potere in modo che tutti abbiano paura di te
+20. Trovare un lavoro decente e legale
 
-### Goal: 5 - 8
+### Obiettivo: 5 - 8
 
-1. Pay off an old debt
-2. Get rid of the voices in your head
-3. Stop being afraid, finally
-4. Buy a loved one an unusual gift
-5. Gain popularity in the media
-6. Do the job I was paid to do
-7. Find a cause worth fighting for
-8. Find friends among the rich
-9. Prove to everyone that I am worthy
-10. Get into a popular group in the Infosphere
-11. Cure a deadly disease
-12. Survive at all costs
-13. To live according to my beliefs
-14. Preach the word of God
-15. Settle scores with neighbors
-16. Gain fame through crazy excesses
-17. To remember who I was before I was kidnapped
-18. Liberate myself from technology
-19. Get money for plastic surgery
-20. Start my own business
+1. Pagare un vecchio debito
+2. Sbarazzarti delle voci nella tua testa
+3. Smettere di avere paura, finalmente
+4. Comprare a una persona cara un regalo insolito
+5. Ottenere popolarità nei media
+6. Fare il lavoro per cui sono stato pagato
+7. Trovare una causa per cui vale la pena lottare
+8. Trovare amici tra i ricchi
+9. Dimostrare a tutti che sei degno
+10. Entrare in un gruppo popolare nell'infosfera
+11. Curare una malattia mortale
+12. Sopravvivere a tutti i costi
+13. Vivere secondo le tue convinzioni
+14. Predicare la parola di Dio
+15. Regolare i conti con i vicini
+16. Ottenere fama attraverso folli eccessi
+17. Ricordare chi eri prima di essere rapito
+18. Liberarsi dalla tecnologia
+19. Ottenere soldi per la chirurgia plastica
+20. Iniziare la tua attività
 
 ### Goal: 9 - 12
 
