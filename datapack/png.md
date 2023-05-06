@@ -1,7 +1,7 @@
 ---
 layout: default
-title: NPC
-parent: Datapacks
+title: PNG
+parent: Datapac
 nav_order: 3
 ---
 
@@ -357,298 +357,306 @@ Il primo risultato individua la sezione, la seconda la sottosezione
 
 ### Goal: 9 - 12
 
-1. Find true love
-2. Cure cyber allergy
-3. Change my profession
-4. Find out what the strange symbols in my files mean
-5. Meet a media star in person
-6. Win at least once in my favorite online computer game
-7. To reconcile with a loved one
-8. Drop it all and go somewhere
-9. Help the homeless on my street
-10. Get a corporate job
-11. Get out of the house at last
-12. Get cured of my addiction
-13. Win first place in a competition ....
-14. Get rid of evidence of a crime
-15. Record an interesting vlog
-16. Get your first million subscriptions
-17. Learn to pilot
-18. Build your own AI
-19. Present your own work in front of an audience
-20. Make any information gained publicly available
+1. Trova il vero amore
+2. Cura l'allergia informatica
+3. Cambia la mia professione
+4. Scopri cosa significano gli strani simboli nei miei file
+5. Incontra di persona una star dei media
+6. Vinci almeno una volta nel mio gioco per computer online preferito
+7. Per riconciliarsi con una persona cara
+8. Molla tutto e vai da qualche parte
+9. Aiuta i senzatetto nella mia strada
+10. Ottieni un lavoro aziendale
+11. Esci finalmente di casa
+12. Guarisci dalla mia dipendenza
+13. Vinci il primo posto in una competizione....
+14. Sbarazzati delle prove di un crimine
+15. Registra un vlog interessante
+16. Ottieni il tuo primo milione di abbonamenti
+17. Impara a pilotare
+18. Costruisci la tua IA
+19. Presenta il tuo lavoro davanti a un pubblico
+20. Rendere pubblicamente disponibili tutte le informazioni ottenute
 
 ### Goal: 13 - 16
 
-1. Avoid a death sentence handed down by the sect
-2. Free someone close to you from the sect's influence
-3. Cure someone close to you from addiction
-4. Impress an acquaintance
-5. Forget one's corporate past
-6. Frame your boss because he is a common pig
-7. Impress someone close to you
-8. Sell this hot stuff
-9. Get your identity back
-10. Get rid of that illegal implant
-11. Go on a great vacation with your loved ones
-12. Make sure no one exposes me
-13. Become disgustingly rich, at any cost
-14. Convince others that the world is an illusion
-15. Steal from the rich and give to the poor
-16. Engage in charity work
-17. Start your own breeding of real pets
-18. Develop their own version of a well-known drug
-19. Learn programming
-20. Create their own religious sect
+1. Evitare una condanna a morte emessa dalla sez
+2. Libera qualcuno vicino a te dall'influenza della setta
+3. Cura qualcuno vicino a te dalla dipendenza
+4. Fai colpo su un conoscente
+5. Dimenticare il proprio passato aziendale
+6. Incastrate il vostro capo perché è un maiale comune
+7. Impressiona qualcuno vicino a te
+8. Vendi questa roba calda
+9. Recupera la tua identità
+10. Sbarazzati di quell'impianto illegale
+11. Fai una fantastica vacanza con i tuoi cari
+12. Assicurati che nessuno mi esponga
+13. Diventa disgustosamente ricco, ad ogni costo
+14. Convinci gli altri che il mondo è un'illusione
+15. Ruba ai ricchi e dai ai poveri
+16. Impegnarsi in opere di beneficenza
+17. Inizia il tuo allevamento di veri animali domestici
+18. Sviluppare la propria versione di un noto farmaco
+19. Impara a programmare
+20. Creare la propria setta religiosa
 
 ### Goal: 17 - 20
 
-1. Put the virus on your office network
-2. Clean your computer of an unknown virus
-3. Find out what the boss is doing at work after hours
-4. Record what happens on the company's night shift
-5. Gain illegal access to an entertainment platform
-6. Organize the best party in the neighborhood
-7. Persuade a friend to go to an illegal club together
-8. Take part in illegal arena fights
-9. Eradicate evil in this world
-10. Be an exemplary citizen
-11. Obtain a college degree
-12. Avoid responsibility for a mistake made
-13. Experience something new
-14. Find inner peace
-15. Topple this corrupt government
-16. Gain another dose of the drug
-17. Party without a break this weekend
-18. Hack the government system
-19. Regain lost love
-20. Burn down this whole twisted world
+1. Metti il ​​virus nella rete del tuo ufficio
+2. Pulisci il tuo computer da un virus sconosciuto
+3. Scopri cosa sta facendo il capo al lavoro fuori orario
+4. Registra ciò che accade durante il turno di notte dell'azienda
+5. Ottenere l'accesso illegale a una piattaforma di intrattenimento
+6. Organizza la migliore festa del quartiere
+7. Convinci un amico ad andare insieme in un club illegale
+8. Partecipa a combattimenti illegali nell'arena
+9. Sradicare il male in questo mondo
+10. Sii un cittadino esemplare
+11. Ottieni una laurea
+12. Evitare la responsabilità per un errore commesso
+13. Sperimenta qualcosa di nuovo
+14. Trova la pace interiore
+15. Rovescia questo governo corrotto
+16. Prendi un'altra dose del farmaco
+17. Festeggia senza sosta questo fine settimana
+18. Hackerare il sistema governativo
+19. Ritrova l'amore perduto
+20. Brucia tutto questo mondo contorto
 
 
-## Antagonists
+## Antagonisti
 
-A quick generator of antagonists in the form of a squad and examples of individual representatives of a particular type.
+Un rapido generatore di antagonisti sotto forma di una squadra ed esempi di singoli rappresentanti di un particolare tipo.
 
-The principle of determining character abilities:
+Il principio per determinare le abilità del personaggio:
 
-- HP is **3** if not specified
-- Abilities (BIO,PSY,INF) are **10** if not specified
-- Armor is **0** if not specified
+- I PF è **3** se non specificato
+- Le abilità (BIO, PSI, INF) sono **10** se non specificate
+- L'armatura è **0** se non specificato
 
-The term `X/Y` specifies the probability of the feature occurence during a clash.
+Il termine `X/Y` specifica la probabilità che l'elemento si verifichi durante un conflitto.
 
-> Example
-> Snipers in a given squad give a `1/6` chance that a character's attack in the current round will be accounted for as enhanced. In other words, for each round, you roll a d6 once and if the result is 1 - one, selected attack can be resolved as **enhanced**.
+> Esempio
+> I cecchini in una data squadra danno una possibilità di `1/6` che l'attacco di un personaggio nel round corrente venga considerato potenziato. In altre parole, per ogni round, tiri un d6 una volta e se il risultato è 1 -uno, l'attacco selezionato può essere risolto come **potenziato**.
 
-Procedure, roll or select:
+Procedura, tira o seleziona:
 
-- squad type (determines the primary weapon)
-- characteristics of the group
-- leader's profile
-- profiles of the group members
-- additional weapons
-- a detail specific to that squad
-
-### Type (d6)
+- tipo di squadra (determina l'arma primaria)
+- caratteristiche del gruppo
+- profilo del leader
+- profili dei membri del gruppo
+- armi aggiuntive
+- un dettaglio specifico di quella squadra
 
-1. Gang/other runner group (weapon d6)
-2. Police/guards (weapon d6)
-3. Military/Special Services Unit (weapon d8)
-4. Terrorists/street crowd (weapon d6)
-5. Corporate troop/mercenary group (weapon d10)
-6. Cyberpsychos/mutants (weapon d12)
+### Tipo (d6)
 
+1. Banda/altro gruppo di corridori (arma d6)
+2. Polizia/guardie (arma d6)
+3. Unità di servizi militari/speciali (arma d8)
+4. Terroristi/folla di strada (arma d6)
+5. Truppe corporative/gruppo di mercenari (arma d10)
+6. Cyberpsychos/mutanti (arma d12)
 
-### Characteristics of the group (4d6)
 
-#### 1. Gang/Other runner group
+### Caratteristiche del gruppo (4d6)
 
-Main weapon: d6
+#### 1. Gang/Altro gruppo di corridori
 
-|  d6   | Leader                        | Group                                                  |
-| :---: | ----------------------------- | ------------------------------------------------------ |
-|   1   | Authority of the group        | Novices, rely on the experience of others              |
-|   2   | Inspires fear in subordinates | Veterans, a well-knit pack                             |
-|   3   | No leader                     | Veterans, fresh group, just getting to know each other |
-|   4   | Everyone wants to be one      | Medium experience, they work together for money        |
-|   5   | Competent manager             | Slightly fanatical, united by a common cause           |
-|   6   | Group favorite man            | Chilled-out, on vacation                               |
+Arma principale: d6
 
-|  d6   | Additional weapon | Detail                                                                  |
-| :---: | :---------------: | ----------------------------------------------------------------------- |
-|   1   |         -         | wired, `1/6: +1 to all saves`                                           |
-|   2   |      EMP d4       | veterans, `1/6:attack enhanced`                                         |
-|   3   |     hacker d6     | use mutated animals in combat                                           |
-|   4   |     robot d6      | make great use of environmental conditions (HP bonuses)                 |
-|   5   |      gun d12      | they make excellent use of stealth (bonuses to surprise, escape, cover) |
-|   6   |     drone d6      | incredibly tough (bonuses to HP and BIO)                                |
+| d6 | Capo | Gruppo |
+| :---: | -----------------------------| ------------------------------------------------------|
+| 1 | Autorità del gruppo | Novizi, affidatevi all'esperienza degli altri |
+| 2 | Ispira paura nei subordinati | Veterani, un branco affiatato |
+| 3 | Nessun leader | Veterani, gruppo fresco, solo per conoscersi |
+| 4 | Tutti vogliono essere uno | Media esperienza, lavorano insieme per soldi |
+| 5 | Manager competente | Un po' fanatici, uniti da una causa comune |
+| 6 | Uomo preferito del gruppo | Rilassati, in vacanza |
 
-**Warrior**: 4 HP, 1 Armor, 12 BIO, gun d6 or sword d8, cybermod +1 BIO saves
+| d6 | Arma aggiuntiva | Dettaglio |
+| :---: | :---------------: | -----------------------------------------------------------------------|
+| 1 | -| cablato, `1/6: +1 a tutti i salvataggi` |
+| 2 | PEM d4 | veterani, `1/6: attacco potenziato` |
+| 3 | hacker d6 | usa animali mutati in combattimento |
+| 4 | robot d6 | fare un ottimo uso delle condizioni ambientali (bonus PF) |
+| 5 | pistola d12 | fanno un ottimo uso della furtività (bonus per sorprendere, scappare, coprirsi) |
+| 6 | drone d6 | incredibilmente resistente (bonus a PF e BIO) |
 
-**Sentinel**: 4 HP, 12 PSY, knives d6, cybermod  +1 BIO for perception saves
+**Guerriero**: 4 PF, 1 Armatura, 12 BIO, pistola d6 o spada d8, cybermod +1 BIO salvataggi
 
-**Hacker**: 3 HP, 12 PSY, gun d6, neuroprocessor d4/d6
+**Sentinel**: 4 PF, 12 PSI, coltelli d6, cybermod +1 BIO per la percezione salva
 
-**Technician/mechanic**: 4 HP, 12 BIO, shotgun d6, cybermod +1 INF saves to control a drone/robot
+**Hacker**: 3 PF, 12 PSI, pistola d6, neuroprocessore d4/d6
 
-**Driver/pilot**: 4 HP, 12 BIO, shotgun d6, cybermod +1 BIO saves to drive vehicles
+**Tecnico/meccanico**: 4 PF, 12 BIO, fucile d6, cybermod +1 salvataggi INF per controllare un drone/robot
 
-#### 2. Police/guards
+**Autista/pilota**: 4 PS, 12 BIO, fucile d6, cybermod +1 BIO salvataggi per guidare veicoli
 
-Main weapon: d6
+#### 2. Polizia/guardie
 
-|  d6   | Leader                                                 | Group                            |
-| :---: | ------------------------------------------------------ | -------------------------------- |
-|   1   | Coward hiding behind subordinates                      | Lazy veterans                    |
-|   2   | Leader on the front line                               | Rookies after the academy/course |
-|   3   | Guardian of the law (of the spirit and not the letter) | Idealists, dreamers              |
-|   4   | Bloodthirsty sadist                                    | Bribed wackos                    |
-|   5   | Practical strategist                                   | Ordinary people in uniform       |
-|   6   | Regulation servant                                     | Incompetent amateurs             |
+Arma principale: d6
 
-|  d6   | Additional weapon  | Detail                                                                    |
-| :---: | :----------------: | ------------------------------------------------------------------------- |
-|   1   |      gun d10       | They can call for reinforcements (within d4 rounds, d6 people)            |
-|   2   |       EMP d6       | They can control the local security system (cameras, sensors, drones)     |
-|   3   |     hacker d8      | Sensors: bonuses for detection, tracking, HP                              |
-|   4   |      robot d8      | They have explosives, tear gas, smoke grenades at their disposal          |
-|   5   | armored vehicle d6 | Protective shielding: (bonuses to protection against EMP and INF attacks) |
-|   6   |      drone d6      | Snipers: `1/6: enhanced attack`                                           |
+| d6 | Capo | Gruppo |
+| :---: | ------------------------------------------------------| --------------------------------|
+| 1 | Codardo che si nasconde dietro i subordinati | Veterani pigri |
+| 2 | Leader in prima linea | Esordienti dopo l'accademia/corso |
+| 3 | Custode della legge (dello spirito e non della lettera) | Idealisti, sognatori |
+| 4 | Sadico assetato di sangue | Pazzi corrotti |
+| 5 | Stratega pratico | Gente comune in uniforme |
+| 6 | Servo di regolamento | Dilettanti incompetenti |
 
-**Corporate guard**: 5 HP, 12 BIO, 11 PSY, rifle d6
 
-**Police officer**: 4 HP, 13 BIO, 12 PSY, carbine d8, smoke grenades, tear gas
+| d6 | Arma aggiuntiva | Dettaglio |
+| :---: | :----------------: | -------------------------------------------------------------------------|
+| 1 | pistola d10 | Possono richiedere rinforzi (entro d4 round, d6 persone) |
+| 2 | PEM d6 | Possono controllare il sistema di sicurezza locale (telecamere, sensori, droni) |
+| 3 | hacker d8 | Sensori: bonus per rilevamento, tracciamento, PF |
+| 4 | robot d8 | Hanno a disposizione esplosivi, gas lacrimogeni, granate fumogene |
+| 5 | veicolo blindato d6 | Schermatura protettiva: (bonus alla protezione contro gli attacchi EMP e INF) |
+| 6 | drone d6 | Cecchini: `1/6: attacco potenziato` |
 
-**Police detective**: 5 HP, 14 PSY, pistol d6,
 
-**Hacker guard**: 3 HP, 14 PSY, 13 INF, pistol d6, neuroprocessor d8
+**Guardia aziendale**: 5 PF, 12 BIO, 11 PSI, fucile d6
 
-**Club bodyguard**: 6 HP, 13 BIO, 12 PSY, club/knife d6, cybermod +1 BIO saves for acrobatics, agility
+**Agente di polizia**: 4 PF, 13 BIO, 12 PSI, carabina d8, granate fumogene, gas lacrimogeni
 
-#### 3. Military/Special Services Unit
+**Detective della polizia**: 5 PF, 14 PSI, pistola d6,
 
-Main weapon: d8
+**Protezione hacker**: 3 PF, 14 PSI, 13 INF, pistola d6, neuroprocessore d8
 
-|  d6   | Leader                   | Group                              |
-| :---: | ------------------------ | ---------------------------------- |
-|   1   | Competent tactician      | Professionals in every way         |
-|   2   | Officer with principles  | Soldiers from the roundup          |
-|   3   | Recently promoted novice | Individualists with a hero syndrom |
-|   4   | No leader                | Loser squad/punishment company     |
-|   5   | Pretentious buffoon      | Criminals in uniform               |
-|   6   | Narrow-minded clog       | Overly cautious wackos             |
+**Guardia del corpo del club**: 6 PF, 13 BIO, 12 PSI, club/coltello d6, cybermod +1 BIO risparmi per acrobazie, agilità
 
-|  d6   |  Additional weapon  | Detail                                            |
-| :---: | :-----------------: | ------------------------------------------------- |
-|   1   |      palna d12      | Military Implants `1/6: bonuses for every action` |
-|   2   | pojazd oArmorony d8 | Snipers `1-2/6: attack enhanced`                  |
-|   3   |      robot d10      | Armor: `1-2/6: +1 Armor`                          |
-|   4   |       dron d8       | Jamming and Hackers: INF Rolls Made Easy or Hard  |
-|   5   |       EMP d8        | Teamed squad: `1-2/6: bonuses to HP`              |
-|   6   |      palna d10      | Physical Boost: `1-3/6: Bonuses to BIO saves`     |
+#### 3. Unità di servizi militari/speciali
 
-**Soldier/Specialist**: 5 HP, 1 Armor, 13 BIO, assault rifle d8
+Arma principale: d8
 
-**Officer**: 6 HP, 1 Armor, 14 BIO, 12 PSY, handgun d6
+| d6 | Capo | Gruppo |
+| :---: | ------------------------| ----------------------------------|
+| 1 | Tattico competente | Professionisti in ogni modo |
+| 2 | Ufficiale con principi | Soldati del rastrellamento |
+| 3 | Novizio recentemente promosso | Individualisti con una sindrome da eroe |
+| 4 | Nessun leader | Squadra perdente/società punitiva |
+| 5 | Buffone pretenzioso | Criminali in uniforme |
+| 6 | Zoccolo dalla mentalità ristretta | Wackos eccessivamente cauti |
 
-**Secret service agent**: 6 HP, 1 Armor, 15 BIO, 14 PSY, 11 INF, handgun d6, cybermod +1 HP
 
-**Anti-terrorist squad officer**: 7 HP, 2 Armor, 16 BIO, 13 PSY, 12 INF, assult rifle d8, cybermod +1 BIO saves
+| d6 | Arma aggiuntiva | Dettaglio |
+| :---: | :-----------------: | -------------------------------------------------|
+| 1 | palna d12 | Impianti militari `1/6: bonus per ogni azione` |
+| 2 | pojazd oArmoronia d8 | Cecchini `1-2/6: attacco potenziato` |
+| 3 | robot d10 | Armatura: `1-2/6: +1 Armatura` |
+| 4 | drone d8 | Jamming e hacker: i rotoli INF resi facili o difficili |
+| 5 | PEM d8 | Squadra a squadre: `1-2/6: bonus al PF` |
+| 6 | palna d10 | Potenziamento fisico: `1-3/6: bonus ai salvataggi BIO` |
 
-**Spy**: 5 HP, 12 BIO, 15 PSY, 15 INF, handgun d6, cybermod +1 INF saves, neuroprocessor d4
 
-#### 4. Terrorists/street crowd
+**Soldato/Specialista**: 5 PF, 1 Armatura, 13 BIO, fucile d'assalto d8
 
-Main weapon: d6
+**Ufficiale**: 6 PF, 1 Armatura, 14 BIO, 12 PSI, pistola d6
 
-|  d6   | Leader                              | Group                              |
-| :---: | ----------------------------------- | ---------------------------------- |
-|   1   | Fanatic                             | Panicked group of bystanders       |
-|   2   | Upright citizen                     | Desperate people with no prospects |
-|   3   | A calculating manipulator           | Greedy looters                     |
-|   4   | Self-proclaimed leader of the crowd | Revolutionaries                    |
-|   5   | The instigator holding back         | Outraged citizens                  |
-|   6   | Corporation/government agent        | Defenders of the oppressed         |
+**Agente dei servizi segreti**: 6 PF, 1 armatura, 15 BIO, 14 PSI, 11 INF, pistola d6, cybermod +1 PF
 
-|  d6   | Additional weapon | Detail                                                       |
-| :---: | :---------------: | ------------------------------------------------------------ |
-|   1   |     melee d8      | Outnumbered: attacks resolved like for a unit                |
-|   2   |     melee d10     | Temporary shields: `1/6: +1 Armor`                           |
-|   3   |     drone d4      | Terrain knowledge: `1/6: bonuses to HP`                      |
-|   4   |   explosives d6   | Fierceness: bonuses to PSY saves                             |
-|   5   |     hacker d4     | Righteous anger: moral dilemmas in opponents, hard PSY saves |
-|   6   |      gun d8       | Crowd pressure: `1-2/6: easy critical damage roll`           |
+**Ufficiale squadra antiterrorismo**: 7 PF, 2 Corazza, 16 BIO, 13 PSI, 12 INF, fucile d'assalto d8, cybermod +1 BIO salvataggi
 
-**Fighter**: 3 HP, 11 BIO, knife d6 or sword d8
+**Spia**: 5 PF, 12 BIO, 15 PSI, 15 INF, pistola d6, cybermod +1 INF salvataggi, neuroprocessore d4
 
-**Kamikadze**: 3 HP, 11 PSY, explosives d6
+#### 4. Terroristi/folla di strada
 
-**Accidental rioter**: 3 HP, club/knife d6
+Arma principale: d6
 
-**Fanatic**: 3 HP, 9 PSY, knife d6 or sword d8
+| d6 | Capo | Gruppo |
+| :---: | -----------------------------------| ----------------------------------|
+| 1 | Fanatico | Gruppo di astanti in preda al panico |
+| 2 | Cittadino onesto | Persone disperate senza prospettive |
+| 3 | Un manipolatore calcolatore | Saccheggiatori avidi |
+| 4 | Leader autoproclamato della folla | Rivoluzionari |
+| 5 | L'istigatore che trattiene | Cittadini indignati |
+| 6 | Società/agente governativo | Difensori degli oppressi |
 
-**Street veteran**: 4 HP, 11 BIO, 12 PSY, handgun d6
 
-#### 5. Corporate troop/mercenary group
+| d6 | Arma aggiuntiva | Dettaglio |
+| :---: | :---------------: | ------------------------------------------------------------|
+| 1 | mischia d8 | In inferiorità numerica: attacchi risolti come per un'unità |
+| 2 | mischia d10 | Scudi temporanei: `1/6: +1 Armatura` |
+| 3 | drone d4 | Conoscenza del terreno: `1/6: bonus a PF` |
+| 4 | esplosivi d6 | Ferocia: bonus ai salvataggi PSI |
+| 5 | hacker d4 | Rabbia giusta: dilemmi morali negli avversari, PSI duro salva |
+| 6 | pistola d8 | Pressione della folla: `1-2/6: tiro di danno critico facile` |
 
-Main weapon: d10
+**Guerriero**: 3 PF, 11 BIO, coltello d6 o spada d8
 
-|  d6   | Leader                     | Group                                                |
-| :---: | -------------------------- | ---------------------------------------------------- |
-|   1   | Careerist                  | Heartless professionals doing the job                |
-|   2   | Effective specialist       | Slaves of the situation forced to do the job         |
-|   3   | Remote command from HQ     | Poorly organized test group                          |
-|   4   | AI and tactical algorithms | Brutal, aggressive killers                           |
-|   5   | Changes during action      | Combat androids                                      |
-|   6   | Competes with his deputy   | Soldiers convinced that what they are doing is right |
+**Kamikadze**: 3 PF, 11 PSI, esplosivi d6
 
-|  d6   |  Additional weapon  | Detail                                                                     |
-| :---: | :-----------------: | -------------------------------------------------------------------------- |
-|   1   |       EMP d10       | Speed modifications: `1-3/6: HP bonus`                                     |
-|   2   |   explosives d10    | Body toughness modifications: `1-3/6: bonus to BIO saves`                  |
-|   3   |      robot d10      | Armor: `1-3/6: bonuses to armor`                                           |
-|   4   |      drone d10      | Team coordination: `1-3/6: enhanced attacks`                               |
-|   5   | armored vehicle d10 | Communication: `1-3/6: easy INF/BIO saves`                                 |
-|   6   |     hacker d10      | Electromagnetic shielding: `1-3/6: EMP shielding and hard enemy INF saves` |
+**Rivoltoso accidentale**: 3 PF, randello/coltello d6
 
-**Scout**: 4 HP, handgun d6, explosives d4, if he performed reconnaissance - gives the troop a bonus to HP
+**Fanatico**: 3 PF, 9 PSI, coltello d6 o spada d8
 
-**Sniper**: 4 HP, 11 BIO, 12 PSY, sniper rifle d8, enhanced attack (if he shoots from concealment or passes the PSY test in a stressful situation)
+**Veterano di strada**: 4 PF, 11 BIO, 12 PSI, pistola d6
 
-**Battle hacker**: 4 HP, 13 PSY, 14 INF, neuroprocessor d8, icebreaker software d4
+#### 5. Truppa corporativa/gruppo di mercenari
 
-**Combat drone operator**: 4 HP, 13 BIO, 11 PSY ,12 INF, combat drone d6 or d8
+Arma principale: d10
 
-**Heavy weapons specialist**: 6 HP, 1 Armor, 14 BIO, heavy weapon d10 or d12
+| d6 | Capo | Gruppo |
+| :---: | --------------------------| ----------------------------------------------------|
+| 1 | Carrierista | Professionisti senza cuore che fanno il lavoro |
+| 2 | Specialista efficace | Schiavi della situazione costretti a fare il lavoro |
+| 3 | Comando remoto da HQ | Gruppo di test mal organizzato |
+| 4 | AI e algoritmi tattici | Assassini brutali e aggressivi |
+| 5 | Modifiche durante l'azione | Androidi da combattimento |
+| 6 | Concorre con il suo vice | Soldati convinti che quello che stanno facendo sia giusto |
 
-#### 6. Cyberpsychos/mutants
 
-Main weapon: d12
+| d6 | Arma aggiuntiva | Dettaglio |
+| :---: | :-----------------: | --------------------------------------------------------------------------|
+| 1 | PEM d10 | Modifiche alla velocità: `1-3/6: bonus PF` |
+| 2 | esplosivi d10 | Modifiche alla robustezza del corpo: `1-3/6: bonus ai salvataggi BIO` |
+| 3 | robot d10 | Armatura: `1-3/6: bonus all'armatura` |
+| 4 | drone d10 | Coordinamento squadra: `1-3/6: attacchi potenziati` |
+| 5 | veicolo blindato d10 | Comunicazione: `1-3/6: salvataggi INF/BIO facili` |
+| 6 | hacker d10 | Schermatura elettromagnetica: `1-3/6: schermatura EMP e salvataggi INF del nemico duro` |
 
-|  d6   | Leader                                         | Group                                              |
-| :---: | ---------------------------------------------- | -------------------------------------------------- |
-|   1   | Barely conscious victim of genetic experiments | Desperate people who want to survive at all costs  |
-|   2   | Paranoid conspirator                           | A group of outcasts supporting each other          |
-|   3   | A dreamer immersed in a virtual world          | Conspirators planning the annihilation of humanity |
-|   4   | Philosopher and moralist                       | Optimists planning to build a better world         |
-|   5   | Samaritan                                      | Passive and resigned, waiting for their end        |
-|   6   | Bounty Hunter                                  | Aggressive crazies                                 |
 
-|  d6   |   Additional weapon   | Detail                                                  |
-| :---: | :-------------------: | ------------------------------------------------------- |
-|   1   |     dual gun d12      | Cybernetic Amok: `1-3/6: HP bonuses`                    |
-|   2   |    dual melee d12     | Beneficial mutations: `1-2/6: bonus to any ability`     |
-|   3   |      hacker d12       | Raging pack/Berserk: `1-3/6: accounted for like a unit` |
-|   4   |    explosives d12     | Infosphere Tie: `1-3/6: easy INF saves`                 |
-|   5   |        EMP d12        | Natural armor: armor bonus                              |
-|   6   | poisons, combat gases | Combat implants: attacks accounted for as dual weapons  |
+**Esploratore**: 4 PF, pistola d6, esplosivo d4, se ha effettuato ricognizioni -dà alla truppa un bonus ai PF
 
-**Cyberserk**: 8 HP, 2 Armor, 17 BIO, 6 PSY, rifle d10 or mechanical saw d12, cybermod +1 BIO saves
+**Cecchino**: 4 PF, 11 BIO, 12 PSI, fucile di precisione d8, attacco potenziato (se spara da occultamento o supera il test PSI in una situazione stressante)
 
-**Antytech**: 3 HP, 14 INF, handgun d6, jammer: the opponent has hard INF tests, `1-2/6 total communication blockade`
+**Hacker da battaglia**: 4 PF, 13 PSI, 14 INF, neuroprocessore d8, software rompighiaccio d4
 
-**Hybrid**: 4 HP, 1 Armor, 13 BIO, fangs/claws d6 or acid/poison d12, Critical damage: infection - additional damage d4
+**Operatore di droni da combattimento**: 4 PF, 13 BIO, 11 PSI, 12 INF, drone da combattimento d6 o d8
+**Specialista in armi pesanti**: 6 PF, 1 Armatura, 14 BIO, arma pesante d10 o d12
 
-**Infomutant**: 3 HP, 15 PSY, 17 INF, neuroprocessor d10, +HP or +Armor software
+#### 6. Cyberpsychos/mutanti
 
-**Rebellious AI**: 8 HP, 20 INF, Black ICE d12,  Armor +2 software
+Arma principale: d12
+
+| d6 | Capo | Gruppo |
+| :---: | ----------------------------------------------| --------------------------------------------------|
+| 1 | Vittima appena cosciente di esperimenti genetici | Persone disperate che vogliono sopravvivere a tutti i costi |
+| 2 | Cospiratore paranoico | Un gruppo di emarginati che si sostengono a vicenda |
+| 3 | Un sognatore immerso in un mondo virtuale | Cospiratori che pianificano l'annientamento dell'umanità |
+| 4 | Filosofo e moralista | Ottimisti che progettano di costruire un mondo migliore |
+| 5 | Samaritano | Passivi e rassegnati, in attesa della loro fine |
+| 6 | Cacciatore di taglie | Pazzi aggressivi |
+
+
+| d6 | Arma aggiuntiva | Dettaglio |
+| :---: | :-------------------: | -------------------------------------------------------|
+| 1 | doppia pistola d12 | Amok cibernetico: `1-3/6: bonus PF` |
+| 2 | doppio corpo a corpo d12 | Mutazioni benefiche: `1-2/6: bonus a qualsiasi abilità` |
+| 3 | hacker d12 | Branco furioso/Berserk: `1-3/6: rappresentato come un'unità` |
+| 4 | esplosivi d12 | Pareggio dell'infosfera: `1-3/6: parate INF facili` |
+| 5 | PEM d12 | Armatura naturale: bonus armatura |
+| 6 | veleni, gas da combattimento | Impianti di combattimento: attacchi contabilizzati come doppie armi |
+
+
+**Cyberserk**: 8 PF, 2 Armature, 17 BIO, 6 PSI, fucile d10 o sega meccanica d12, cybermod +1 BIO salvataggi
+
+**Antytech**: 3 PF, 14 INF, pistola d6, jammer: l'avversario ha test INF difficili, `1-2/6 blocco di comunicazione totale`
+
+**Ibrido**: 4 PF, 1 Armatura, 13 BIO, zanne/artigli d6 o acido/veleno d12, Danno critico: infezione -danno aggiuntivo d4
+
+**Infomutante**: 3 PF, 15 PSI, 17 INF, neuroprocessore d10, +PF o +Armor software
+
+**IA ribelle**: 8 PF, 20 INF, Black ICE d12, Armatura +2 software
