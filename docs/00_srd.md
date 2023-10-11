@@ -345,14 +345,14 @@ Le cybermodifiche sono limitate solo dall’immaginazione dei giocatori e posson
 
 I PG possono assumere mercenari che li aiutino nelle loro missioni. Per creare un mercenario, tira 3d6 per ogni punteggio di caratteristica, quindi assegnagli 1d6 PF e un’arma semplice (d6). I mercenari non hanno cybermodifiche proprie ma il giocatore può equipaggiarli a proprie spese se lo desidera.
 
-Il **costo mensile** medio di un mercenario è \*\*100 \*il suo miglior livello di abilità\*\*.
+Il **costo mensile** medio di un mercenario è **100 \*il suo miglior livello di abilità**.
 
 ### Creare PNG
 
 Usa questo modello per tenere traccia di qualsiasi PNG più sofisticato:
 
 **Nome**  
-X PF, X Armatura, X BIO, X PSY, X INF, Arma (dX, special items, qualities)
+X PF, X Armatura, X BIO, X PSY, X INF, Arma (dX, oggetti speciali, proprietà)
 
 -   Descrizione dell’aspetto, del comportamento, degli obiettivi e dei desideri
 -   Un tratto, una tattica o una particolarità che rende unico il personaggio
@@ -363,6 +363,6 @@ X PF, X Armatura, X BIO, X PSY, X INF, Arma (dX, special items, qualities)
 Punteggi di abilità: 3 è carente, 6 è debole, 10 è medio, 14 è notevole e 18 è leggendario. Aggiustare secondo necessità.
 
 -   Dai alle creature normali 3 PF, a quelle resistenti 6 PF, e alle minacce serie 10+ PF.
--   Usate carattere e stile per aiutarle a distinguersi.
--   Usate il danno critico per far risaltare la minaccia o l’unicità di qualsiasi PNG aggressivo.
--   Ricordate che PF è Protezione dalle Ferite , non Punti Ferita. È una misura di resilienza, fortuna e grinta, non di salute.
+-   Usa carattere e stile per aiutarle a distinguersi.
+-   Usa il danno critico per far risaltare la minaccia o l’unicità di qualsiasi PNG aggressivo.
+-   Ricorda che PF è Protezione dalle Ferite, non Punti Ferita. È una misura di resilienza, fortuna e grinta, non di salute.
