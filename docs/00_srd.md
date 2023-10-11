@@ -243,7 +243,7 @@ Tutti i prodotti e servizi di base come cibo, elettrodomestici, strumenti sempli
 
 Alcune delle eccezioni di cui sopra hanno i propri listini prezzi separati e altre dipendono dalla specifica esigenza e offerta - saranno quindi negoziate tra i personaggi giocanti e i PNG. Qualsiasi attrezzatura ufficialmente considerata illegale richiede contatti appropriati e può essere venduta a qualsiasi prezzo.
 
-Per un elenco dettagliato di prodotti e servizi con i relativi prezzi, vedi l’[Appendice](http://./economia.md).
+Per un elenco dettagliato di prodotti e servizi con i relativi prezzi, vedi l’[Appendice](./02_economy.md).
 
 ### Infosfera
 
@@ -304,7 +304,7 @@ Un personaggio la cui **INF è zero** non può usare le cybermodifiche - queste 
 
 **Attivazione**: qualsiasi oggetto di cybermodifica che influisce sulle meccaniche di gioco (modificatori ai tiri salvezza, danno critico) richiede **attivazione** ogni volta che il personaggio desidera utilizzarlo. L’attivazione richiede di segnare **un punto di Fatica** nell’inventario, ma **non è considerata** un’azione nel round. Gli oggetti di cybermodifica non contrassegnati come richiedenti l’attivazione hanno un effetto permanente e il loro uso non aumenta la fatica di un personaggio.
 
-Per maggiori informazioni sulla creazione delle cybermodifiche e sul loro prezzo, vedere [Appendice](http://./cybermodifiche.md).
+Per maggiori informazioni sulla creazione delle cybermodifiche e sul loro prezzo, vedere [Appendice](./03_cybermod.md).
 
 ### Reazioni
 
