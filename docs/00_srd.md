@@ -327,7 +327,7 @@ Può anche accadere che la probabilità di un determinato esito sia diversa dal 
 
 ## Sviluppo del personaggio
 
-In *Cyber* non si usa il concetto di livello del personaggio o l’idea di punti esperienza. Tuttavia, ciò non significa che i personaggi non andranno le sessioni successive.
+In *Cyber* non si usa il concetto di livello del personaggio o l’idea di punti esperienza. Tuttavia, ciò non significa che i personaggi non cambieranno nel succedersi delle sessioni.
 
 ### Fiction
 
