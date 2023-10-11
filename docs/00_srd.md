@@ -232,7 +232,7 @@ I punti di INF persi richiedono la visita di un cybertecnico o l’autoriparazio
 
 La valuta globale nel gioco è il **credito** indicato con **ℂ**.
 
-I personaggi iniziano il gioco con un pool di \*\*1d4 \*1000\*\* crediti.
+I personaggi iniziano il gioco con un pool di **1d4 \*1000** crediti.
 
 Tutti i prodotti e servizi di base come cibo, elettrodomestici, strumenti semplici, ecc. sono offerti come abbonamento mensile con diversi livelli. Le differenze sono principalmente nella qualità di questi articoli e non nel loro tipo. Nei negozi, i prodotti sono etichettati con un adesivo colorato che indica il livello di abbonamento in modo che il cliente sappia quali prodotti mettere nel carrello. Le eccezioni a questo sistema di abbonamento sono servizi e attrezzature specializzati:
 
