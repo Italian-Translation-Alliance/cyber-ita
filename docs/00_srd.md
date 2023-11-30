@@ -49,7 +49,7 @@ I Personaggi Giocanti (PG) hanno tre attributi:
 -   **Psiche (PSI)** - un insieme di qualità mentali e sociali: intelligenza, conoscenza, forza di volontà, empatia e contatti
 -   **Interfaccia (INF)** - caratteristiche legate all’uso della tecnologia: capacità di operare nell’infosfera, resistenza all’attacco informatico e livello di integrazione con le cybermodifiche.
 
-Quando si crea un PG, il giocatore deve tirare **3d6** per ciascuno dei punteggi di caratteristica del proprio personaggio, in ordine. Poi può quindi scambiare \*\*due\*\* qualsiasi dei risultati.
+Quando si crea un PG, il giocatore deve tirare **3d6** per ciascuno dei punteggi di caratteristica del proprio personaggio, in ordine. Poi può quindi scambiare **due** qualsiasi dei risultati.
 
 > **Esempio:** Miko tira per la BIO del suo personaggio, con un risultato di 2, 4 e 6, per un totale di 12. I successivi due tiri di abilità risultano in un 9 per PSI e un 13 per INF. Decide di scambiare il 12 e il 9, per un personaggio con 9 BIO, 12 PSY e 13 INF.
 
@@ -76,7 +76,7 @@ Borse, zaini, trolley possono aumentare il numero di slot di inventario, lo stes
 
 Un PG non può trasportare più oggetti di quelli consentiti dal suo inventario. Chiunque porti un inventario completo (ovvero riempie **tutti gli slot disponibili**) viene ridotto a **0 PF**.
 
-Oltre all’equipaggiamento iniziale (acquistato con i crediti iniziali), durante la creazione del personaggio, ogni giocatore può scegliere **un numero qualsiasi di cybermodifiche gratuite**, ma il costo totale di questi miglioramentinon può superare i 20.000 ℂ.
+Oltre all’equipaggiamento iniziale (acquistato con i crediti iniziali), durante la creazione del personaggio, ogni giocatore può scegliere **un numero qualsiasi di cybermodifiche gratuite**, ma il costo totale di questi miglioramenti non può superare i 20.000 ℂ.
 
 ## Regolamento
 
@@ -108,7 +108,7 @@ Questo è il solo tipo di prova che viene eseguito in *Cyber,* e ha luogo solo p
 
 Potresti metterla così:
 
--   se un personaggio esegue un’attività rischiosa che non coinvolge altri personaggi (arrampicarsi, abbattere una porta, hackerare un nodo dell’infosfera) - una prova superata scongiura il rischio di fallimento
+-   se un personaggio esegue un’attività rischiosa che non coinvolge altri personaggi (arrampicarsi, abbattere una porta, hackerare un nodo dell’Infosfera) - una prova superata scongiura il rischio di fallimento
 -   se (al di fuori del combattimento) un personaggio esegue un’azione a cui si oppone attivamente un altro personaggio (PG o PNG) - un tiro salvezza scongiura il rischio che un avversario interferisca con l’obiettivo.
 
 **Esempi**:
@@ -156,9 +156,9 @@ Se l’ammontare del danno supera la PF attuale dell’avversario, i punti riman
 
 Ridurre a zero qualsiasi abilità del personaggio significa:
 
--   BIO -morte fisica del personaggio.
+-   BIO - morte fisica del personaggio.
 -   PSI - catatonia e, dopo una potenziale cura, gravi problemi mentali (fobie, ansia che richiedono cure specialistiche) o problemi sociali (esclusione permanente da alcune società).
--   INF -accesso bloccato all’infosfera e fallimento di tutte le modifiche informatiche fino a quando almeno un punto di questa abilità non è stato recuperato.
+-   INF - accesso bloccato all’Infosfera e fallimento di tutte le modifiche informatiche fino a quando almeno un punto di questa abilità non è stato recuperato.
 
 #### Attaccanti Multipli
 
@@ -182,7 +182,7 @@ Se attacchi con due armi allo stesso tempo, tira **entrambi** i dadi dei danni e
 
 #### Scoppio
 
-Gli attacchi con il descrittore **scoppio** colpiscono tutti i bersagli nell’area indicata (si tira separatamente per ogni personaggio colpito). Il termine scoppio si riferisce a qualsiasi cosa, dalle esplosioni aimponenti assalti a colpi di fendenti o all’impatto di un meteorite. Se non sei sicuro di quanti bersagli possano essere colpiti, tira il dado del danno trlativo per avere un risultato.
+Gli attacchi con il descrittore **scoppio** colpiscono tutti i bersagli nell’area indicata (si tira separatamente per ogni personaggio colpito). Il termine scoppio si riferisce a qualsiasi cosa, dalle esplosioni a imponenti assalti a colpi di fendenti o all’impatto di un meteorite. Se non sei sicuro di quanti bersagli possano essere colpiti, tira il dado del danno relativo per avere un risultato.
 
 #### Danno Critico
 
@@ -302,7 +302,7 @@ Ogni personaggio può installare cybermodifiche in quantità non superiore al pr
 
 Un personaggio la cui **INF è zero** non può usare le cybermodifiche - queste semplicemente smettono di funzionare finché il personaggio non ha recuperato almeno un punto di Interfaccia.
 
-**Attivazione**: qualsiasi oggetto di cybermodifica che influisce sulle meccaniche di gioco (modificatori ai tiri salvezza, danno critico) richiede **attivazione** ogni volta che il personaggio desidera utilizzarlo. L’attivazione richiede di segnare **un punto di Fatica** nell’inventario, ma **non è considerata** un’azione nel round. Gli oggetti di cybermodifica non contrassegnati come richiedenti l’attivazione hanno un effetto permanente e il loro uso non aumenta la fatica di un personaggio.
+**Attivazione**: qualsiasi oggetto di cybermodifica che influisce sulle meccaniche di gioco (modificatori ai tiri salvezza, danno critico) richiede **attivazione** ogni volta che il personaggio desidera utilizzarlo. L’attivazione richiede di segnare **un punto di Fatica** nell’inventario, ma **non è considerata** un’azione nel round. Gli oggetti di cybermodifica non contrassegnati come richiedenti l’attivazione hanno un effetto permanente e il loro uso non aumenta la Fatica di un personaggio.
 
 Per maggiori informazioni sulla creazione delle cybermodifiche e sul loro prezzo, vedere [Appendice](./03_cybermod.md).
 
@@ -316,7 +316,7 @@ Quando i PG incontrano un PNG la cui reazione al gruppo non è ovvia, l'Arbitro 
 
 ### Dado del Fato
 
-A volte servità un elemento di casualità (ad esempio per il tempo atmosferico, per conoscenze uniche del personaggio, ecc.) In queste situazioni, tira **1d6**.
+A volte servirà un elemento di casualità (ad esempio per il tempo atmosferico, per conoscenze uniche del personaggio, ecc.) In queste situazioni, tira **1d6**.
 
 -   Un risultato di **4 o più** generalmente **favorisce** i giocatori.
 -   Un tiro di **3 o meno** tende a rappresentare **sfortuna** per i PG o i loro alleati.
@@ -335,7 +335,7 @@ Il concetto fondamentale dello sviluppo in *Cyber* è cambiare un personaggio ne
 
 ### Miglioramenti tecnologici
 
-Uno dei tratti caratteristici delcyberpunk è l’uso della tecnologia per migliorare le capacità umane. Per i giocatori che si sentono a proprio agio con i meccanismi di potenziamento delle abilità del personaggio, questa è un’altra opzione da sfruttare.
+Uno dei tratti caratteristici del cyberpunk è l’uso della tecnologia per migliorare le capacità umane. Per i giocatori che si sentono a proprio agio con i meccanismi di potenziamento delle abilità del personaggio, questa è un’altra opzione da sfruttare.
 
 Le cybermodifiche sono limitate solo dall’immaginazione dei giocatori e possono cambiare letteralmente ogni elemento meccanico del gioco: abilità del personaggio, tipi di salvataggi, dadi di danno, livello di PF o capacità dell’equipaggiamento. In questo modo un personaggio può essere cambiato a piacere: diventa solo una questione di soldi e di disponibilità delle tecnologie in questione.
 

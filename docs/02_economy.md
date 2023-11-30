@@ -26,21 +26,25 @@ Alcuni degli articoli di cui sopra hanno i propri listini prezzi separati e altr
 
 ## Prezzi
 
-| Abbonamento di base        | Costo mensile     | Probabilità di danno   |                                  |
-|----------------------------|-------------------|------------------------|----------------------------------|
-| Bronzo                     | 500               | 1-3/6                  |                                  |
-| Argento                    | 1.000             | 1-2/6                  |                                  |
-| Oro                        | 2.000             | 1/6                    |                                  |
-| Platino                    | 5.000             | \-                     |                                  |
-| Contenitore                | Prezzo            | Slot inventario        |                                  |
-| Borsa                      | 200               | +2                     |                                  |
-| Valigia/Borsone            | 300               | +3                     |                                  |
-| Zaino                      | 400               | +4                     |                                  |
-| Trolley a mano             | 600               | +6                     |                                  |
+| Abbonamento di base        | Costo mensile     | Probabilità di danno   |
+|----------------------------|-------------------|------------------------|
+| Bronzo                     | 500               | 1-3/6                  |
+| Argento                    | 1.000             | 1-2/6                  |
+| Oro                        | 2.000             | 1/6                    |
+| Platino                    | 5.000             | \-                     |
+
+| Contenitore                | Prezzo            | Slot inventario        |
+|----------------------------|-------------------|------------------------|
+| Borsa                      | 200               | +2                     |
+| Valigia/Borsone            | 300               | +3                     |
+| Zaino                      | 400               | +4                     |
+| Trolley a mano             | 600               | +6                     |
+
 | Arma                       | Prezzo            | Dado danno             | Note                             |
+|----------------------------|-------------------|------------------------|----------------------------------|
 | Mischia (leggera)          | 100               | d6                     | coltello, mazza                  |
-| Mischia (leggera)          | 400               | d8                     | spada, ascia                     |
-| Mischia (leggera)          | 650               | d10                    | lame meccaniche ingombranti      |
+| Mischia (media)            | 400               | d8                     | spada, ascia                     |
+| Mischia (pesante)          | 650               | d10                    | lame meccaniche ingombranti      |
 | A distanza (corta gittata) | 150               | d6                     | pistola, doppietta               |
 | A distanza (media gittata) | 600               | d8                     | fucile, arma automatica, arco    |
 | A distanza (lunga gittata) | 1.000             | d10                    | ingombrante, carabina, cannone   |
@@ -58,25 +62,31 @@ Alcuni degli articoli di cui sopra hanno i propri listini prezzi separati e altr
 | Media                                  | 2.500                   | 2                                  |             |
 | Pesante                                | 5.500                   | 3                                  | ingombrante |
 | Scudo                                  | 1.200                   | +1                                 |             |
-| Droni, veicoli, robot                  | Prezzo                  | Slot inventario                    |             |
-| Drone/robot piccolo                    | 10.000                  | +2                                 |             |
-| Drone/robot medio                      | 50.000                  | +4                                 |             |
-| Drone/robot grande                     | 100.000                 | +6                                 |             |
-| Drone/robot da trasporto               | 200.000                 | +12                                |             |
-| Veicolo piccolo                        | 50.000                  | +6                                 |             |
-| Veicolo medio                          | 70.000                  | +8                                 |             |
-| Veicolo grande                         | 100.000                 | +10                                |             |
-| Veicolo da trasporto                   | 200.000                 | +12                                |             |
-| Accessori (videocamere, sensori, ecc.) | 1.000 cad.              | \-                                 |             |
-| Armi montate                           | dado danno \* 1.500     | \-                                 |             |
-| Armatura                               | 5.000 per punto (max 3) | \-                                 |             |
-| Nodo dell’Infosfera                    | Costo mensile           |                                    |             |
-| +1 PF                                  | 2.000                   |                                    |             |
-| +1 INT                                 | 5.000                   |                                    |             |
-| ICE Bianco                             | dado danno \* 1.500     |                                    |             |
-| ICE Nero (illegale)                    | dado danno \* 5.000     |                                    |             |
-| Servizi medici/di riparazione          | Costo                   | Tempo                              |             |
-| Assistenza medica                      | 1.000 per punto BIO     | 1 giorno per 1 punto, max 7 giorni |             |
-| Assistenza psicologica                 | 1.000 per punto PSI     | 1 giorno per 1 punto, max 7 giorni |             |
-| Riparazione di interfaccia             | 500 per punto INF       | 2 ore per 1 punto                  |             |
-| Pacchetto stimolante (10 dosi)         | 1.000                   | effetto immediato                  |             |
+
+| Droni, veicoli, robot                  | Prezzo                  | Slot inventario                    |
+|----------------------------------------|-------------------------|------------------------------------|
+| Drone/robot piccolo                    | 10.000                  | +2                                 |
+| Drone/robot medio                      | 50.000                  | +4                                 |
+| Drone/robot grande                     | 100.000                 | +6                                 |
+| Drone/robot da trasporto               | 200.000                 | +12                                |
+| Veicolo piccolo                        | 50.000                  | +6                                 |
+| Veicolo medio                          | 70.000                  | +8                                 |
+| Veicolo grande                         | 100.000                 | +10                                |
+| Veicolo da trasporto                   | 200.000                 | +12                                |
+| Accessori (videocamere, sensori, ecc.) | 1.000 cad.              | \-                                 |
+| Armi montate                           | dado danno \* 1.500     | \-                                 |
+| Armatura                               | 5.000 per punto (max 3) | \-                                 |
+
+| Nodo dell’Infosfera                    | Costo mensile           |
+|----------------------------------------|-------------------------|
+| +1 PF                                  | 2.000                   |
+| +1 INF                                 | 5.000                   |
+| ICE Bianco                             | dado danno \* 1.500     |
+| ICE Nero (illegale)                    | dado danno \* 5.000     |
+
+| Servizi medici/di riparazione          | Costo                   | Tempo                              |
+|----------------------------------------|-------------------------|------------------------------------|
+| Assistenza medica                      | 1.000 per punto BIO     | 1 giorno per 1 punto, max 7 giorni |
+| Assistenza psicologica                 | 1.000 per punto PSI     | 1 giorno per 1 punto, max 7 giorni |
+| Riparazione di interfaccia             | 500 per punto INF       | 2 ore per 1 punto                  |
+| Pacchetto stimolante (10 dosi)         | 1.000                   | effetto immediato                  |

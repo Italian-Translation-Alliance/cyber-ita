@@ -93,7 +93,7 @@ Me ne sono andato perché:
 
 ## Camionista (+1 BIO)
 
-*Stai parlando dell’LRV 500? Quello con la trazione a tre assi? Certo che ne ho guidato uno! E questo è a pieno carico, quindi non mi impressionerai …*
+*Stai parlando dell’LRV 500? Quello con la trazione a tre assi? Certo che ne ho guidato uno! E questo è a pieno carico, quindi non mi impressionerai…*
 
 Me ne sono andato perché:
 
@@ -102,9 +102,9 @@ Me ne sono andato perché:
 3.  Qualche figlia o moglie di un boss mafioso è finita dritta sotto le mie ruote.
 4.  Ho avuto un incidente. È difficile per me ricordare le cose adesso, ma i dottori dicono che andrà meglio.
 5.  Non mi sono arreso: l’azienda è fallita e siamo stati mandati alla disoccupazione.
-6.  Non sto diventando più giovane e tu hai bisogno di riflessi per questo lavoro.
+6.  Non sto diventando più giovane e servono i riflessi per questo lavoro.
 
-## Buttafuori (+1 BIO or +1 PSI)
+## Buttafuori (+1 BIO o +1 PSI)
 
 *Sì, capisco che ci sono dei tuoi amici lì dentro ma non ti facciamo entrare senza un invito. Ovviamente conosci il capo della Yakuza, allora perché non lo chiami e mi passi il telefono, ok?*
 
@@ -114,12 +114,12 @@ Me ne sono andato perché:
 2.  Mi hanno rotto la schiena in una rissa fuori da un club. Il dottore mi ha rimesso insieme, ma non voglio rischiare di nuovo.
 3.  Sono stato licenziato per aver abusato di cocaina al lavoro.
 4.  Ho conosciuto questa… brava signora… ma non voleva scherzare con il buttafuori.
-5.  Il capo mi ha detto di picchiare un idiota tranquillo, presumibilmente perchéaveva litigato coi VIP. Non picchio gli indifesi.
+5.  Il capo mi ha detto di picchiare un idiota tranquillo, presumibilmente perché aveva litigato coi VIP. Non picchio gli indifesi.
 6.  Un idiota ha guidato un drone carico di esplosivo contro una porta. Da allora ho problemi di udito.
 
 ## Reporter (+1 PSI)
 
-*Certo, posso registrarlo. E posso anche pubblicarlo, ma non servirà a niente. Tra un minuto e mezzo, questo filmato non sarà comunque nell’Infosfera e la sicurezza sarà dietro a me e te. Lo vuoi davvero?*
+*Certo, posso registrarlo. E posso anche pubblicarlo, ma non servirà a niente. Tra un minuto e mezzo, questo filmato non sarà comunque nell’Infosfera e la sicurezza sarà addosso a me e te. Lo vuoi davvero?*
 
 Me ne sono andato perché:
 
@@ -138,8 +138,8 @@ Me ne sono andato perché:
 
 1.  In un sogno, Dio mi è apparso e mi ha detto che mescolare macchine e umani era sbagliato.
 2.  La mano che ho adattato a un gangster si è rivelata difettosa e ora sono inseguito da una banda di maniaci.
-3.  Mi sono indebitato con la mafia per aprire un’officina. Purtroppo gli affari non sono andati molto bene….
-4.  I miei precedenti datori di lavoro di una Zaibatsu purtroppo mi hanno trovato….
+3.  Mi sono indebitato con la mafia per aprire un’officina. Purtroppo gli affari non sono andati molto bene…
+4.  I miei precedenti datori di lavoro di una Zaibatsu purtroppo mi hanno trovato…
 5.  Da un po’ di tempo, ogni pezzo di equipaggiamento che assemblo o riparo si guasta velocemente - immagino sia una specie di maledizione…
 6.  Ho idee per rivoluzionarie cybermodifiche, ma ho bisogno di soldi e attrezzature per realizzare i miei piani.
 
@@ -178,7 +178,7 @@ Me ne sono andato perché:
 1.  L’Infosfera non è il mondo reale e io voglio vivere emozioni vere.
 2.  Farò un po’ di esperienza di vita, aumenterà la mia popolarità.
 3.  Una zaibatsu voleva acquistare il mio canale, non ero d’accordo, quindi mi hanno annientato.
-4.  L’intera Infosfera è stata attaccata da un virus sconosciuto, purtroppo c’erano anche i miei dati….
+4.  L’intera Infosfera è stata attaccata da un virus sconosciuto, purtroppo c’erano anche i miei dati…
 5.  Sono stufo delle persone che spiano la mia vita, ho bisogno di privacy.
 6.  Un branco di idioti è entrato nel mio appartamento e ha distrutto tutta la mia attrezzatura, devo ricominciare da capo.
 
@@ -192,17 +192,17 @@ Me ne sono andato perché:
 2.  Sono stato accusato (erroneamente) di tangenti e truffe.
 3.  Non ci sono prospettive di promozione in questo lavoro e ho delle ambizioni.
 4.  Nessuno ha apprezzato le mie idee.
-5.  Qualcuno di importante voleva demolire il quartiere dei poveri e io non ho dato il permesso….
+5.  Qualcuno di importante voleva demolire il quartiere dei poveri e io non ho dato il permesso…
 6.  La mia posizione è stata coperta da un’intelligenza artificiale sperimentale.
 
-## Poliziotto (+1 BIO or +1 PSI)
+## Poliziotto (+1 BIO o +1 PSI)
 
 *E se avessimo meno fondi di un negozio di alimentari e meno autorità di un guardiano del parcheggio? I criminali devono ancora essere perseguiti e la legge rispettata. Legge di chi? Quella che protegge le persone, non che le rende schiave.*
 
 Me ne sono andato perché:
 
 1.  Questo lavoro è orribile, tutti ci odiano, non so perché volevo fare il poliziotto.
-2.  Puoi trascurare molte cose del tuo partner, ma non tutto….
+2.  Puoi trascurare molte cose del tuo partner, ma non tutto…
 3.  La mia famiglia non è mai stata al sicuro.
 4.  Il mio capo mi ha beccato a ritirare “regali” dai negozianti.
 5.  Dopo una falsa denuncia, in casa mia è stata trovata un’apparecchiatura di interferenza illegale - qualcuno deve averla installata qui…
