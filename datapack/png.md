@@ -244,7 +244,7 @@ Il primo risultato individua la sezione, il secondo la sottosezione
 13. Software di alta qualità per imitare gli avatar nell'Infosfera
 14. Un infodeck sperimentale con maggiore capacità
 15. Sensori di movimento impiantati direttamente nel cranio
-16. Contrassegnare i nanobot insieme ai visori per trovarli
+16. Nanobot traccianti e i visori per trovarli
 17. Una scatola di cariche esplosive di vario tipo
 18. Disturbatore a banda larga
 19. Variografo ottico incorporato nell'occhio
