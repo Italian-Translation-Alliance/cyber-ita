@@ -7,7 +7,7 @@ nav_order: 2
 
 # Infosfera
 
-## Generatore di nodi dell'infosfera
+## Generatore di nodi dell'iInfosfera
 
 1. Identificare o tirare la classe di sicurezza
 2. Specificare le abilità e le caratteristiche di sicurezza
@@ -42,14 +42,14 @@ La seguente tabella indica le capacità e i meccanismi di protezione per ogni cl
 | Privato             |  d4+1 |  d4 |           2           |        d4        |
 | Privato protetto    |  d6+2 |  d6 |           3           |        d6        |
 | Governo             |  d8+3 |  d8 |           5           |  d8, 1/6: Black  |
-| Corporazione        | d10+4 | d10 |           7           |  d10, 2/6: Black |
+| Grande azienda      | d10+4 | d10 |           7           |  d10, 2/6: Black |
 | Militare            | d12+5 | d12 |           9           |  d12, 3/6: Black |
 | IA                  | d20+6 | d20 |           12          |  d20, 4/6: Black |
 
 ### Software di protezione aggiuntivo
 
 Ogni nodo può disporre di un software di protezione aggiuntivo. La sua attivazione non è necessariamente inevitabile e dipende dal risultato del tiro durante l'attacco dell'ICE.
-La procedura non richiede alcun tiro di dadi aggiuntivo: il valore viene indicato dall'attacco dell'ICE. Se il risultato del tiro è minore o uguale alla soglia di attivazione, nello stesso round viene lanciato il programma e il suo tipo viene indicato dal software di protezione tabella, anche in base al valore di attacco.
+La procedura non richiede alcun tiro di dadi aggiuntivo: il valore viene indicato dall'attacco dell'ICE. Se il risultato del tiro è minore o uguale alla soglia di attivazione, nello stesso round viene lanciato il programma e il suo tipo viene indicato dalla tabella del software di protezione, anche in base al valore di attacco.
 
 | d4 - d20 | Software di protezione                                          |
 |:--------:| --------------------------------------------------------------- |
@@ -70,7 +70,7 @@ La procedura non richiede alcun tiro di dadi aggiuntivo: il valore viene indicat
 
 > Esempio di attivazione del software di protezione
 >
-> Ian attacca il nodo corporativo, il che significa che l'ICE ha d10 dadi di attacco.
+> Ian attacca un nodo corporativo, il che significa che l'ICE ha d10 come dado d'attacco.
 > Inoltre, il tiro del d6 dà un risultato di 2: significa che l'ICE attaccato è "black" (in caso di fallimento della prova di danno critico, Ian riceverà danni PSI aggiuntivi)
 > Al momento dell'attacco, l'ICE tira un 5. Significa che:
 >
@@ -97,15 +97,15 @@ La procedura non richiede alcun tiro di dadi aggiuntivo: il valore viene indicat
 | 13  | Schermo                | Multicolore                     | Puntini di luce che appaiono casualmente                |
 | 14  | Vortice                | Oro                             | Immagini della griglia casuali visualizzate all'interno |
 | 15  | Colonna                | Metallico, lucido               | Avvolto in una griglia metallica                        |
-| 16  | Triangolo              | Blu scuro, coperto di striature | Lampeggiante regolarmente con luce fioca                |
+| 16  | Triangolo              | Blu scuro, striato              | Lampeggiante regolarmente con luce fioca                |
 | 17  | Occhio                 | Vetro, trasparente              | Gira intorno al proprio asse                            |
-| 18  | Cancello               | pezzato, marrone                | Segmenti rotanti continuamente                          |
+| 18  | Cancello               | Pezzato, marrone                | Segmenti rotanti continuamente                          |
 | 19  | Trapezio               | Arancione, luminoso             | Frattali dinamici disegnati sulla superficie            |
 | 20  | Perpendicolare         | Acciaio, ricoperto di simboli   | Ogni tanto scompare e riappare                          |
 
 ## Dati da acquisire (d20)
 
-Se i tuoi hacker stanno irrompendo nei nodi dell'Infosfera per mettere le mani su dati preziosi, le seguenti tabelle potrebbero fornire ispirazione.
+Se i tuoi hacker stanno facendo irruzione nei nodi dell'Infosfera per mettere le mani su dati preziosi, le seguenti tabelle potrebbero fornire ispirazione.
 
 ### Pubblico
 
@@ -121,7 +121,7 @@ Se i tuoi hacker stanno irrompendo nei nodi dell'Infosfera per mettere le mani s
 10. La più grande collezione di musica al mondo
 11. Dati crittografati sconosciuti
 12. Registrazione della telecamera di sicurezza dell'edificio pubblico
-13. Orario di una nota star dei media
+13. Agenda di una nota star dei media
 14. Filmato di un violento intervento della polizia
 15. Filmati di proteste di attivisti al cancello della fabbrica
 16. Filmato del manifesto di un gruppo terroristico
@@ -157,11 +157,11 @@ Se i tuoi hacker stanno irrompendo nei nodi dell'Infosfera per mettere le mani s
 
 1. Una serie di documenti falsi
 2. 1d4 firme false per veicoli di qualsiasi tipo
-3. Coordinate bancarie con 1k4 mila crediti
+3. Coordinate bancarie con 1d4 mila crediti
 4. 1d4 biglietti per un prossimo concerto al teatro dell'opera
 5. 1d6 programmi di hacking di vario tipo
 6. Codici per l'hacking delle linee elettriche nel distretto selezionato
-7. Immettere i codici per diversi appartamenti in un normale grattacielo
+7. Codici di accesso per diversi appartamenti in un normale grattacielo
 8. Indirizzi di famiglie di noti capibanda
 9. Due pass per un ristorante esclusivo
 10. Codici di accesso ad un garage privato
@@ -170,7 +170,7 @@ Se i tuoi hacker stanno irrompendo nei nodi dell'Infosfera per mettere le mani s
 13. Diario di un importante politico
 14. Elenco dei contatti della star dei media
 15. Indirizzo di rete di un dirigente aziendale
-16. Immettere il codice in una delle arcologie aziendali
+16. Codici di accesso per una delle arcologie aziendali
 17. Password per un account con un abbonamento Platinum Basic
 18. Codici di accesso per un deposito di stimolanti illegali
 19. Indirizzo di contatto di un fixer noto
@@ -186,20 +186,20 @@ Se i tuoi hacker stanno irrompendo nei nodi dell'Infosfera per mettere le mani s
 6. Ultimatum del gruppo terroristico che minaccia la contaminazione chimica
 7. Dati finanziari che indicano una crisi economica imminente
 8. Rapporto sulla contaminazione radioattiva in un quartiere della città
-9. Informazioni sulla cessazione dei diritti della società sul terreno occupato dalla fabbrica
+9. Informazioni sulla cessazione dei diritti della società sul terreno occupato da una fabbrica
 10. Planimetrie dettagliate del quartiere cittadino selezionato
 11. Atto di proprietà di una piccola proprietà comunale
-12. Immissione di codici per il sistema ospedaliero amministrativo
+12. Codici di accesso per il sistema ospedaliero amministrativo
 13. Rapporto sul bizzarro comportamento dell'IA che gestisce il trasporto urbano
-14. 1k6 permessi per l'esercizio del trasporto pubblico (vuoto)
+14. 1d6 permessi per l'esercizio del trasporto pubblico (vuoti)
 15. Calendario delle interruzioni delle linee elettriche in diverse parti della città
 16. Bozza della nuova legge tributaria per i cittadini
-17. Immissione di codici per il magazzino dell'ospedale cittadino
-18. Password e codici che entrano in emergenza epidemiologica
-19. 1d4 moduli in bianco che consentono la registrazione dell'identità
+17. Codici di accesso per il magazzino dell'ospedale cittadino
+18. Password e codici per attivare lo stato di emergenza epidemiologica
+19. 1d4 moduli in bianco che consentono la registrazione di identità
 20. Codici di accesso per il sistema di controllo dei servizi comunali selezionati
 
-### Corporazione
+### Grande Azienda
 
 1. Gli ultimi episodi ancora da trasmettere di una serie popolare
 2. Registrazioni compromettenti di un importante dipendente aziendale
@@ -224,54 +224,33 @@ Se i tuoi hacker stanno irrompendo nei nodi dell'Infosfera per mettere le mani s
 
 ### Militare
 
-1. Technical plans of the combat drone
-2. Input codes for military base
-3. Remote control codes for a military fighter jet
-4. Program decrypting transmissions on tactical network
-5. Technical plans for a military robot
-6. Weapons storage input codes
-7. Pass codes to the military cybermod warehouse
-8. Address data of important military commanders
-9. Production documentation of military stimulants
-10. Military satellite control codes
-11. Satellite images showing illegal research facilities
-12. List of competitor spies in a selected corporation
-13. Orders to exterminate the population in case of an unknown disease threat
-14. Documentation of a deadly virus grown in a laboratory
-15. Nuclear warhead deployment plans
-16. Transcripts of discussions of meetings of the board of directors of a selected corporation
-17. List of corporate AIs perceived as a threat
-18. Technical plans for a super-light EMP weapon
-19. Technical plans for the EMP-emitting cyber-arm
-20. List of military spies in corporations
-
 1. Schemi tecnici del drone da combattimento
-2. Immissione di codici per una base militare
-3. Codici di telecomando per un caccia militare
-4. Programmare la decrittografia delle trasmissioni sulla rete tattica
+2. Codici di accesso per una base militare
+3. Codici di comando remoto per un caccia militare
+4. Programma di decodifica delle trasmissioni sulla rete tattica
 5. Progetti tecnici per un robot militare
-6. Codici di input del deposito di armi
-7. Passa i codici al magazzino cybermodifiche militare
-8. Indirizzo dati di importanti comandanti militari
+6. Codici di accesso del deposito di armi
+7. Codici di ingresso al magazzino cybermodifiche militari
+8. Dati di residenza di importanti comandanti militari
 9. Documentazione di produzione di stimolanti militari
 10. Codici di controllo dei satelliti militari
 11. Immagini satellitari che mostrano strutture di ricerca illegali
-12. Elenco delle spie concorrenti in una società selezionata
-13. Ordini di sterminio della popolazione in caso di minaccia di malattia sconosciuta
+12. Elenco delle spie della concorrenza in una società selezionata
+13. Ordini di sterminare la popolazione in caso di minaccia di una malattia sconosciuta
 14. Documentazione di un virus mortale coltivato in laboratorio
-15. Piani di spiegamento di testate nucleari
+15. Piani di utilizzo di testate nucleari
 16. Trascrizioni delle discussioni delle riunioni del consiglio di amministrazione di una società selezionata
 17. Elenco delle IA aziendali percepite come una minaccia
 18. Piani tecnici per un'arma EMP superleggera
 19. Piani tecnici per il cyber-braccio che emette EMP
-20. Elenco delle spie militari nelle corporazioni
+20. Elenco delle spie militari nelle aziende
 
 ### IA
 
 1. Costrutto (personalità registrata) di una celebrità deceduta
 2. Dati tecnici del nodo dell'Agenzia per l'energia atomica
 3. Codici sorgente di un'altra IA
-4. Immettere i codici in tutti i sistemi di polizia
+4. Codici di accesso a tutti i sistemi di polizia
 5. Set di 1d6 potenti virus informatici
 6. Password per un nodo completamente resistente all'hacking
 7. Password per un account anonimo con 1d20k crediti 
@@ -279,15 +258,15 @@ Se i tuoi hacker stanno irrompendo nei nodi dell'Infosfera per mettere le mani s
 9. Un virus che spegne i sistemi di sicurezza nell'edificio indicato per 1d20 minuti
 10. Codici di controllo automatico dei veicoli militari
 11. Codici di controllo del sistema di trasporto pubblico
-12. Ricetta per stimolante che crea dipendenza k10
+12. Ricetta per d10 stimolanti che creano dipendenza
 13. Codici per un missile intercontinentale con testate nucleari
 14. Dati medici di un esperimento relativo all'immortalità umana
 15. Dati di una struttura di ricerca segreta che alleva mutanti umani
 16. Virus che blocca completamente le trasmissioni della rete multimediale selezionata
-17. Piani militari segreti per attaccare una delle corporazioni
+17. Piani militari segreti per attaccare una delle aziende
 18. Prova che una società è completamente gestita dall'intelligenza artificiale
 19. Piano di attacco all'Infosfera da eseguire da IA ​​canaglia
-20. Un virus distruttivo, che cancella istantaneamente tutti i dati sul nodo su cui è stato lanciato
+20. Un virus distruttivo, che cancella istantaneamente tutti i dati dal nodo su cui è stato lanciato
 
 # Algoritmi di base
 

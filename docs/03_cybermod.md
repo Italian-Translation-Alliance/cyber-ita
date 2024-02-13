@@ -28,7 +28,7 @@ Una volta selezionato un elemento di base, è possibile aggiungervi un numero qu
 
 Prova a fare una descrizione per ogni potenziamento. Questo è particolarmente importante dato che le abilità riguardano interi gruppi di attività del personaggio. Si può immaginare una cybermodifica che generalmente rafforza il corpo del personaggio (+X BIO) ma ci saranno anche situazioni in cui ci interessa solo una maggiore velocità o resistenza e queste sono descritte dalla stessa abilità.
 
-**Modifiche estetiche**: cybermodifiche che hanno il solo scopo di produrre un effetto estetico (corpo ricoperto di pelliccia, occhi di gatto, capelli che cambiano colore, ecc.) costano quanto l’\*\*elemento base\*\* associato alla parte del corpo in cui sono inserite.
+**Modifiche estetiche**: cybermodifiche che hanno il solo scopo di produrre un effetto estetico (corpo ricoperto di pelliccia, occhi di gatto, capelli che cambiano colore, ecc.) costano quanto l’**elemento base** associato alla parte del corpo in cui sono inserite.
 
 | Potenziamento                                                                                                                        | Costo                          | Attivazione |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|
@@ -61,7 +61,7 @@ La riduzione totale del danno all’INF causato dalle armi EMP non è possibile,
 | Armatura dermica                        | +1 armatura                                                            |
 | Tasca sottocutanea                      | +1 slot inventario                                                     |
 | Nascondiglio in cyberbraccio/cybergamba | +1 slot inventario                                                     |
-| Neuroprocessore                         | Capacità di hacking e firewall di Infosphere                           |
+| Neuroprocessore                         | Capacità di hacking e firewall nell'Infosfera                          |
 | Coprocessore di rete                    | +1 per prova di INF                                                    |
 | Rinforzo muscolo-scheletrico            | +1 per prova di BIO                                                    |
 | Processore comportamentale              | +1 per prova di PSY                                                    |
@@ -70,7 +70,7 @@ La riduzione totale del danno all’INF causato dalle armi EMP non è possibile,
 | Potenziatore cognitivo                  | +1 PSY le prove relative a cognizione, conoscenza, apprendimento       |
 | Stimolatore bio/psi/neurale             | Prove più facili per BIO/PSY/INF                                       |
 | Biosistema tattico                      | +1 PF durante la risoluzione dell’attacco                              |
-| Impianto mirato                         | lesioni critiche selezionate senza ferite                              |
+| Impianto mirato                         | Lesioni critiche selezionate senza ferite                              |
 | Neurocontrollore drone/veicolo          | +1 BIO per le prove di guida                                           |
 | Neurocontrollore dell’arma              | Danno critico che infligge ferite aggiuntive                           |
 

@@ -7,7 +7,7 @@ nav_order: 1
 
 # Zaibatsu
 
-Le corporazioni (indicate come "zaibatsu") sono parte integrante dell'universo cyberpunk. Possiedono enormi risorse e influenza. Sono in grado di controllare la politica, i media e determinare le condizioni di vita della maggior parte delle persone nel mondo.
+Le grandi aziende (indicate come "zaibatsu") sono parte integrante dell'universo cyberpunk. Possiedono enormi risorse e influenza. Sono in grado di controllare la politica, i media e determinare le condizioni di vita della maggior parte delle persone nel mondo.
 Tuttavia, non sono onnipotenti e le loro fila alla fine includono persone comuni con le loro ambizioni, paure e bisogni.
 Le Zaibatsu hanno anche dei nemici, a volte istituzioni governative, a volte militari e a volte rivali di mercato.
 Il generatore presentato di seguito vuole essere un'ispirazione per riempire il tuo mondo di sinistre forze di mercato.
@@ -20,7 +20,7 @@ Tira o seleziona:
 
 - La prima parte del nome (d20+d20)
 - La seconda parte del nome (d20+d20)
-- Uno o più settori dell'industria in cui opera la corporazione (prestare attenzione alla seconda parte del nome ed eventualmente completare con il settore corrispondente) (d20+d20)
+- Uno o più settori dell'industria in cui opera l'azienda (prestare attenzione alla seconda parte del nome ed eventualmente completare con il settore corrispondente) (d20+d20)
 - Almeno una diceria sulla corporazione che viene generata (può essere vera o no) (d20+d20)
 - Una o più risorse e uno o più obiettivi della corporazione (d20)
 - Un profilo dipendente se desideri specificarne uno (d20)
@@ -93,11 +93,11 @@ Accanto a ciascun settore, ci sono esempi di prodotti che possono apparire nelle
 
 I nomi delle corporazioni nella maggior parte dei casi hanno origini inglesi. Questo è un effetto intenzionale legato ai giochi classici e alla letteratura mainstream.
 Se decidi di utilizzare il generatore, tieni presente che la seconda parte del nome spesso riflette anche il settore in cui opera l'azienda ("software" suggerisce probabilmente lo sviluppo di software e "chemicals" l'industria chimica).
-Vale la pena tenere conto di queste relazioni quando si crea la "Zaibatsu".
+Vale la pena tenere conto di queste relazioni quando si crea la Zaibatsu.
 
 ### Più settori per una sola azienda
 
-Quando si creano corporazioni, è possibile scegliere più di un settore per l'azienda.
+Quando si creano grandi società, è possibile scegliere più di un settore per l'azienda.
 A volte settori selezionati possono sembrare troppo distanti l'uno dall'altro, come "agricoltura" e "servizi finanziari". Tuttavia, non c'è contraddizione in questo. In quanto potenti organizzazioni focalizzate sul massimo profitto e su un efficiente funzionamento del mercato, le società spesso espandono le loro attività.
 Questo dà loro un reddito aggiuntivo e li protegge da improvvise fluttuazioni del mercato all'interno di un singolo settore.
 
@@ -159,17 +159,17 @@ Il primo lancio seleziona la colonna, il secondo seleziona la posizione nella co
 | 3   | Stanno sviluppando un piano per impadronirsi del potere amministrativo               | Le loro attività ufficiali sono una copertura per il narcotraffico                                               |
 | 4   | Stanno installando apparecchiature di tracciamento dei consumatori nei loro prodotti | Ospitano e supportano vari gruppi di ecoterroristi                                                               |
 | 5   | Stanno conducendo esperimenti su dipendenti ignari                                   | Mantengono gruppi di hacker che attaccano regolarmente l'Infosfera                                               |
-| 6   | Sono in grado di intercettare e analizzare qualsiasi trasmissione di dati            | Tutti i loro dipendenti sono fanatici del lavaggio del cervello                                                  |
+| 6   | Sono in grado di intercettare e analizzare qualsiasi trasmissione di dati            | Tutti i loro dipendenti sono fanatici col cervello lavato                                                  |
 | 7   | Hanno sviluppato un virus in grado di distruggere l'intera Infosfera                 | Acquistano massicciamente tutta l'arte e l'antiquariato disponibili                                              |
 | 8   | Possono usare un'arma biologica sconosciuta in caso di emergenza                     | Nessuna informazione affidabile su di loro può essere trovata da nessuna parte                                   |
 | 9   | Hanno la capacità di trasferire qualsiasi conoscenza direttamente nella mente umana  | Hanno effettuato test di armi nucleari tattiche in aree abitate                                                  |
 | 10  | Gestiscono un programma di allevamento di bestie geneticamente modificate            | Hanno testato armi chimiche nei quartieri più poveri della città                                                 |
 | 11  | Progettano un'acquisizione ostile di altre società del loro settore di mercato       | Le loro attività ufficiali sono una copertura per il traffico di organi umani                                    |
-| 12  | Hanno allevato cloni di politici famosi e ne hanno scambiati alcuni                  | I loro dipendenti stanno pianificando una sanguinosa ribellione e vogliono distruggere la società dall'interno   |
+| 12  | Hanno allevato cloni di politici famosi e ne hanno scambiati alcuni                  | I loro dipendenti stanno pianificando una ribellione sanguinosa e vogliono distruggere la società dall'interno   |
 | 13  | Sono in possesso di un minerale che può sostituire tutti i combustibili conosciuti   | La loro folle gestione sta pianificando un'apocalisse mondiale                                                   |
-| 14  | Hanno sviluppato un'arma EMP miniaturizzata e personalizzata                         | La corporazione è un culto religioso                                                                             |
+| 14  | Hanno sviluppato un'arma EMP miniaturizzata e personalizzata                         | L'azienda è un culto religioso                                                                             |
 | 15  | Hanno un software che trasmette messaggi subliminali nella loro pubblicità           | Hanno scoperto tracce di un'antica civiltà e di una tecnologia sconosciuta                                       |
-| 16  | Nascondono il fatto del genocidio in una delle loro arcologie                        | La società è gestita da un'intelligenza artificiale ma lo staff o il consiglio non ne sanno nulla                |
+| 16  | Nascondono la notizia del completo massacro di una delle loro arcologie              | La società è gestita da un'intelligenza artificiale ma lo staff o il consiglio non ne sanno nulla                |
 | 17  | La maggior parte dei loro dipendenti sono androidi che fingono umani                 | Il consiglio di amministrazione della società è morto e un gruppo di mercenari li sta impersonando               |
 | 18  | Usano i corpi dei loro dipendenti morti per la sperimentazione                       | Le menti dei dipendenti, dopo la loro morte, vengono caricate in un database aziendale segreto                   |
 | 19  | Hanno costruito una base segreta sulla luna                                          | Hanno sviluppato la nanotecnologia che consente loro di produrre qualsiasi cosa da qualsiasi materia disponibile |
@@ -181,7 +181,7 @@ Accanto a ogni voce viene fornito un esempio dei vantaggi di ciascuna risorsa.
 
 1. **Risorse tecnologiche**: accesso agli ultimi sviluppi tecnologici
 2. **Risorse finanziarie**: contanti e credito illimitati
-3. **Contatti militari**: permessi a strutture militari, contatti con il comando, equipaggiamenti militari
+3. **Contatti militari**: accesso a strutture militari, contatti con il comando, equipaggiamenti militari
 4. **Influenza nei gruppi di hacker**: accesso a qualsiasi informazione sulla rete, raccolta di dati, hacking dei nodi dell'infosfera.
 5. **Credibilità mediatica**: capacità di comunicare qualsiasi informazione al pubblico, acquisizione di qualsiasi informazione
 6. **Fiducia della gente comune**: capacità di provocare rivolte e manifestazioni, controllo della folla, diffusione di voci
@@ -202,7 +202,7 @@ Accanto a ogni voce viene fornito un esempio dei vantaggi di ciascuna risorsa.
 
 ### Obiettivi (d20)
 
-Esempi di come raggiungere ciascun obiettivo sono forniti accanto a ciascuna voce e possono consistere in più di un'attività. Gli obiettivi della corporazione possono essere utilizzati come potenziali compiti per i giocatori o elementi del mondo con cui i giocatori dovranno confrontarsi (ad esempio, contrastando il raggiungimento di un determinato obiettivo).
+Esempi di come raggiungere ciascun obiettivo sono forniti accanto a ciascuna voce e possono consistere in più di un'attività. Gli obiettivi della società possono essere utilizzati come potenziali compiti per i giocatori o elementi del mondo con cui i giocatori dovranno confrontarsi (ad esempio, contrastando il raggiungimento di un determinato obiettivo).
 
 1. Danneggiamento della concorrenza (distruzione di attrezzature, sito o abbattimento, trasferimento di dipendenti)
 2. Screditare pubblicamente la concorrenza (scandalo nei media o nell'arena politica)
@@ -227,7 +227,7 @@ Esempi di come raggiungere ciascun obiettivo sono forniti accanto a ciascuna voc
 
 ### Un favore per un favore
 
-Un semplice concetto di cooperazione tra giocatori e corporazione. Se le azioni dei giocatori durante la sessione hanno contribuito a qualsiasi obiettivo di una corporazione, l'arbitro contrassegna un punto di credibilità (punto, simbolo o altro) accanto a tale corporazione. Ogni punto di credibilità può essere utilizzato una volta per accedere a una delle risorse della corporazione. L'assistenza nella realizzazione di un obiettivo può essere palese (esecuzione di uno o più compiti) o casuale (le azioni di giocatori inconsapevoli coincidono con gli obiettivi della Zaibatsu).
+Un semplice concetto di cooperazione tra giocatori e azienda. Se le azioni dei giocatori durante la sessione hanno contribuito a qualsiasi obiettivo di un'azienda, l'arbitro contrassegna un punto di credibilità (punto, simbolo o altro) accanto a tale azienda. Ogni punto di credibilità può essere utilizzato una volta per accedere a una delle risorse dell'azienda. L'assistenza nella realizzazione di un obiettivo può essere palese (esecuzione di uno o più compiti) o casuale (le azioni di giocatori inconsapevoli coincidono con gli obiettivi della Zaibatsu).
 
 
 ## Profilo del dipendente (d20)
@@ -240,17 +240,17 @@ Le proposte presentate di seguito sono forme di comportamento sviluppate dalle c
 
 1. **Onore personale e senso del dovere**: prendo le mie decisioni e me ne assumo la responsabilità; una di quelle decisioni era quella di lavorare per la società; Non sono uno schiavo e la corporazione non è il mio padrone.
 2. **Il bene comune (dell'azienda) è il valore più alto**: le persone che mi assumono sanno cosa è meglio ed è mio compito portare a termine i loro piani il più attentamente possibile.
-3. **Quello che non si vede non esiste e tutti hanno molte facce**: Smentisco fermamente queste odiose calunnie, la persona nella registrazione è probabilmente un clone o la registrazione stessa è stata manomessa.
-4. **Un buon servitore deve avere una buona paga**: devo entrare in questo buco? assolutamente no, non guadagno così tanto qui.
+3. **Quello che non si vede non esiste e tutti hanno molte facce**: smentisco fermamente queste odiose calunnie, la persona nella registrazione è probabilmente un clone o la registrazione stessa è stata manomessa.
+4. **Un buon servitore deve avere una buona paga**: devo entrare in questo buco? Assolutamente no, non guadagno così tanto qui.
 5. **Una grande famiglia**: la prossima settimana festeggeremo il compleanno del capo dipartimento, mia figlia ha preparato una poesia per l'occasione.
 6. **È solo un lavoro, niente di personale**: faccio quello che faccio, tutti hanno un lavoro da fare, quindi perché tanto trambusto?
 7. **Solo i migliori raggiungono la vetta**: mi mancano solo 20 punti per entrare nella zona di promozione. Di questo passo, entro la fine dell'anno diventerò caporeparto.
 8. **Quello che guadagni con le tue mani è tuo**: e se Anna fosse migliore di me? Ha mancato, ha commesso un errore e io ho colto l'occasione. Vita.
 9. **Meno sei visibile, più sei al sicuro**: è meglio non inviare questa lettera, qualcuno potrebbe vedere, dirlo a qualcuno e saremo nei guai. Chi ha bisogno di tutto questo?
-10. **Il successo si ottiene con la pazienza**: Mio nonno ha iniziato come semplice operaio, io lavoro già come caposquadra. Se continuo così, forse arriverò al capo del dipartimento.
+10. **Il successo si ottiene con la pazienza**: Mio nonno ha iniziato come semplice operaio, io lavoro già come caposquadra. Se continuo così, forse arriverò a capo del dipartimento.
 11. **Verrà il giorno del castigo**: sì, ora dobbiamo fare ciò che ci viene detto, in qualche modo dobbiamo sopravvivere, ma un giorno ci alzeremo e poi verrà versato del sangue.
 12. **Ognuno può avere il suo profitto**: l'azienda guadagna e guadagno anch'io, e se l'azienda guadagna di più posso avere di più anch'io, è semplice.
-13. **Creiamo consapevolmente e responsabilmente un mondo migliore**: queste visioni apocalittiche sono esagerate, le corporazioni sono un passo naturale nell'evoluzione. Comprendiamolo e partecipiamo al processo di costruzione del futuro. Se hai un'alternativa migliore, ti invito a discuterla.
+13. **Creiamo consapevolmente e responsabilmente un mondo migliore**: queste visioni apocalittiche sono esagerate, le aziende sono un passo naturale nell'evoluzione. Comprendiamolo e partecipiamo al processo di costruzione del futuro. Se hai un'alternativa migliore, ti invito a discuterla.
 14. **Un posto per tutti, ognuno al suo posto**: tutti vogliono sentirsi necessari e non tutti hanno le stesse opportunità, grazie a questo lavoro non ci sono persone trascurate o non apprezzate tra noi.
 15. **Se uno non ha quello che gli piace...**: gli piace quello che ha. Non lamentarti, potrebbe andare peggio.
 16. **Uniti da un nemico comune**: potrebbe non essere perfetto con noi, ma con loro è un disastro. Dobbiamo sradicare questo abominio.
